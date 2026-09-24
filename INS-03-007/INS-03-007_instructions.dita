@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task xml:lang="en-us" id="d2e20">
+   <title>Instructions</title>
+   <taskbody><steps>
+         <step><cmd>Before starting the work instruction activity, perform the following steps:</cmd>
+            <substeps id="substeps_p24_2ny_xcc">
+               <substep>
+                  <cmd>Do not begin these tasks without confirmation that personnel directly
+                     involved have completed the required training associated with the work
+                     instruction activity and have reviewed this document.</cmd>
+               </substep>
+               <substep>
+                  <cmd>Gather necessary tools and equipment as identified below in the Equipment
+                     Section.</cmd>
+               </substep>
+               <substep>
+                  <cmd>Wear and use additional Personal Protective Equipment (PPE) and safety
+                     equipment required for this specific work instruction.</cmd>
+               </substep>
+               <substep>
+                  <cmd>Obey all applicable safety requirements and procedures.</cmd>
+               </substep>
+               <substep>
+                  <cmd>Notify appropriate personnel of the activity and estimated time needed to
+                     complete the tasks.</cmd>
+               </substep>
+            </substeps></step>
+         <step><cmd>Definition of a Wire Edge:</cmd><info><p>A “Wire Edge” is a circumferential / annular fin of glass at the step down feature that projects
+                  vertically from the finish, but does not extend above the top of the sealing
+                     surface.<fig id="fig_ynt_wpy_xcc">
+                     <image href="media/image1.jpg" placement="break" id="image_nzx_wpy_xcc"
+                        align="center"/>
+                  </fig></p>
+         </info></step>
+         <step><cmd>Prerequisite</cmd>
+            <substeps id="substeps_t5n_jny_xcc">
+               <substep>
+                  <cmd>Verify the FTA head is properly maintained and aligned in accordance with
+                     Reference Document INS-06-001 FTA Head Verification and Maintenance.</cmd>
+               </substep>
+               <substep>
+                  <cmd>Set up the FTA using Work Instruction INS-03-001 Finish Setup - O-I –
+                     FTA.</cmd>
+               </substep>
+            </substeps></step>
+         <step><cmd>To find the correct step-down location, perform the following steps:</cmd>
+            <substeps id="substeps_jgm_lny_xcc">
+               <substep>
+                  <cmd>Find the specification for the step down height on the drawing that contains
+                     the cavity detail information. This is typically the guide ring drawing.</cmd>
+                  <info>
+                     <ol id="ol_ank_mny_xcc">
+                        <li>If you are not sure where to find the step down height information, the
+                           mould shop should be able to provide the correct drawing or
+                           information.</li>
+                     </ol>
+                  </info>
+               </substep>
+               <substep>
+                  <cmd>On the guide ring drawing, look for the step down specification next to the
+                     illustration that details the finish. In the example at right, the step down
+                     specification highlighted in yellow is 0.4 mm (0.016 in).</cmd>
+                  <info>
+                     <p>
+                        <fig id="fig_djd_4ny_xcc">
+                           <image href="media/image2.jpg" placement="break" id="image_yvd_ypy_xcc"
+                              align="center"/>
+                        </fig>
+                     </p>
+                  </info>
+               </substep>
+            </substeps></step>
+         <step>
+            <cmd>To set the <u>Starting</u> FTA Wire Edge Height, perform the following steps:</cmd>
+            <substeps id="substeps_tpx_j4y_xcc">
+               <substep>
+                  <cmd><b>Narrow Neck Press and Blow:</b> Set the initial wire edge height to the
+                     specification found on the guide ring drawing. For example, if the step down
+                     specification is 0.4 mm (0.016 in), set the initial wire edge height to 0.4 mm
+                     (0.016 in).</cmd>
+                  <info>
+                     <note id="note_cpc_m4y_xcc">
+                        <p>Refer to the <b>NNPB</b> Wire Edge Height Chart in the Appendix for
+                           example reject ranges.</p>
+                     </note>
+                     <p>
+                        <fig id="fig_jlt_44y_xcc">
+                           <image href="media/image3.jpg" placement="break" id="image_zcr_zpy_xcc"
+                              align="center"/>
+                        </fig>
+                     </p>
+                  </info>
+               </substep>
+               <substep>
+                  <cmd><b>Press and Blow:</b> Set the initial wire edge height to 70% of the
+                     specification found on the guide ring drawing. For example, if the step down
+                     specification is 0.4 mm (0.016 in), set the initial wire edge height to 0.28 mm
+                     (0.011 in).</cmd>
+                  <info>
+                     <note id="note_qvf_q4y_xcc">
+                        <p>Refer to the <b>Press and Blow</b> Wire Edge Height Chart in the Appendix
+                           for example reject ranges.</p>
+                     </note>
+                     <p>
+                        <fig id="fig_ilq_s4y_xcc">
+                           <image href="media/image4.jpg" placement="break" id="image_l41_1qy_xcc"
+                              align="center"/>
+                        </fig>
+                     </p>
+                  </info>
+               </substep>
+               <substep>
+                  <cmd><b>Blow and Blow</b>:The Blow and Blow process can produce a defect similar
+                     to a Wire Edge. Set the initial wire edge height to 0.1 mm (0.004 in).</cmd>
+                  <info>
+                     <note id="note_z4b_v4y_xcc">
+                        <p>Refer to the <b>Blow and Blow</b> Wire Edge Height Chart in the Appendix
+                           for example reject ranges.</p>
+                     </note>
+                     <p>
+                        <fig id="fig_m34_w4y_xcc">
+                           <image href="media/image5.jpg" placement="break" id="image_g4k_1qy_xcc"
+                              align="center"/>
+                        </fig>
+                     </p>
+                  </info>
+               </substep>
+            </substeps>
+         </step>
+         <step>
+            <cmd>To set the <u>Final</u> FTA Wire Edge Height, perform the following steps: </cmd>
+            <substeps id="substeps_czr_y4y_xcc">
+               <substep>
+                  <cmd>Use the FTA ‘Stop On Trap’ feature to set out the next 10 containers rejected
+                     for wire edge / overpress.</cmd>
+                  <info>
+                     <p>
+                        <fig id="fig_fnh_1py_xcc">
+                           <image href="media/image6.jpg" placement="break" id="image_jmb_2qy_xcc"
+                              align="center"/>
+                        </fig>
+                     </p>
+                  </info>
+               </substep>
+               <substep>
+                  <cmd>Manually inspect the rejected containers that were set out to determine if
+                     the containers are true wire edge defects or false rejects.</cmd>
+                  <info>
+                     <ol id="ol_ep5_bpy_xcc">
+                        <li>Determination to be made in consultation with plant quality leaders, and
+                           by using one or more of the following methods:<ol id="ol_jgx_cpy_xcc">
+                              <li>Using GQT-03-154 - Determination of Wire Edge Manual Method
+                                 (Needle).</li>
+                              <li>Using GQT-03-155 - Determination of Wire Edge - Manual Method
+                                 (Fingernail).</li>
+                              <li>Using a magnifier, view the inside edge of the finish for any
+                                 sharp glass projecting upward.</li>
+                              <li>An additional Global Quality approved method, as led by plant
+                                 quality leaders.</li>
+                           </ol></li>
+                     </ol>
+                     <p>
+                        <fig id="fig_rtg_fpy_xcc">
+                           <image href="media/image7.jpg" placement="break" id="image_b32_fqy_xcc"
+                              align="center"/>
+                        </fig>
+                     </p>
+                  </info>
+               </substep>
+               <substep>
+                  <cmd>Review the FTA trapped images that correspond to each rejected
+                     container.</cmd>
+                  <info>
+                     <ol id="ol_dxs_gpy_xcc">
+                        <li>Confirm that the FTA head alignment and light settings are good. </li>
+                        <li>Confirm that the container was rejected from accurate sealing surface
+                           and step-down laser reflections and not stray light or other causes of
+                           false rejects.</li>
+                        <li>If any of the 10 rejected containers are true wire edge defects, save
+                           those samples for use as challenge samples.</li>
+                     </ol>
+                     <p>
+                        <fig id="fig_u1g_3py_xcc">
+                           <image href="media/image8.jpg" placement="break" id="image_a2j_gqy_xcc"
+                              align="center"/>
+                        </fig>
+                     </p>
+                  </info>
+               </substep>
+               <substep>
+                  <cmd>Based on the results of the manual inspection and in consultation with plant
+                     quality leaders, determine if the FTA Wire Edge Height threshold should be
+                     increased or decreased based on the following guidelines:</cmd>
+                  <info>
+                     <ol id="ol_nz3_jpy_xcc">
+                        <li>Confirm there is no cavity correlation of false rejects by checking if
+                           the false rejects are from the same cavity or mould. If so, notify the
+                           Hot End of the condition.</li>
+                        <li>If the majority of the 10 rejected containers were "false rejects" –
+                           which cannot be rectified at the Hot End – decrease the FTA Wire Edge
+                           Height threshold by one unit (one thousands of an inch or two hundredth
+                           of a millimeter). For example, if the step down is set to 0.28 mm (0.011
+                           in), the Wire Edge Height would be decreased to 0.26 mm or 0.010
+                           inches.</li>
+                        <li>If true wire edge defect samples are available, run those samples to
+                           confirm they are still being rejected. If any pass, return to the
+                           previous FTA Wire Edge Height threshold.</li>
+                        <li>Under no circumstances is it acceptable to pass a wire edge sample.</li>
+                     </ol>
+                     <p>
+                        <fig id="fig_i4f_3qy_xcc">
+                           <image href="media/image9.jpg" placement="break" id="image_pf3_3qy_xcc"
+                              align="center"/>
+                        </fig>
+                     </p>
+                  </info>
+               </substep>
+               <substep>
+                  <cmd>Repeat the process beginning at step 1, using the FTA 'Stop On Trap' feature
+                     to set out the next 10 containers rejected for wire edge / overpress.</cmd>
+                  <info>
+                     <ol id="ol_ivf_mpy_xcc">
+                        <li>On NNPB and Press and Blow containers: Repeat the process until the
+                           optimum results are achieved or a maximum <b>of 4 times</b>, whichever
+                           comes first.</li>
+                        <li>On Blow and Blow containers: Repeat the process until the optimum
+                           results are achieved.</li>
+                     </ol>
+                  </info>
+               </substep>
+            </substeps>
+         </step>
+         <step><cmd>Upon completion of tasks, perform the following steps:</cmd>
+            <substeps id="substeps_y1x_npy_xcc">
+               <substep>
+                  <cmd>Notify appropriate personnel that the work instruction activity has been
+                     completed.</cmd>
+               </substep>
+               <substep>
+                  <cmd>Record and report findings and results.</cmd>
+               </substep>
+               <substep>
+                  <cmd>Follow appropriate instructions for notification of findings and results
+                     relating to specifications, targets and/or reaction limits.</cmd>
+               </substep>
+            </substeps></step>
+      </steps></taskbody>
+</task>

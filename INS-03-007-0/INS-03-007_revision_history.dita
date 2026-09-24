@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept xml:lang="en-us" id="d2e1300">
+   <title>Revision History</title>
+   <conbody>
+      <p>
+         <table id="table_ix1_4my_xcc">
+            <tgroup cols="2">
+               <colspec colname="c1" colwidth="45.08%"/>
+               <colspec colname="c2" colwidth="45.08%"/>
+               <tbody>
+                  <row>
+                     <entry morerows="1">2020-08-31</entry>
+                     <entry>
+                        <p>Approved by Bob Morin, Global Inspection Network Leader</p>
+                     </entry>
+                  </row>
+                  <row>
+                     <entry>
+                        <p>Original Issue</p>
+                     </entry>
+                  </row>
+                  <row>
+                     <entry morerows="6">2020-12-08</entry>
+                     <entry>
+                        <p>Approved by Bob Morin, Global Inspection Network Leader</p>
+                     </entry>
+                  </row>
+                  <row>
+                     <entry>
+                        <p>Updated with the following changes:</p>
+                     </entry>
+                  </row>
+                  <row>
+                     <entry>
+                        <p>Modified the NNPB and Press and Blow Wire Edge Height Charts in the
+                           Appendix:</p>
+                     </entry>
+                  </row>
+                  <row>
+                     <entry>
+                        <p>Modified the NNPB and Press and Blow Wire Edge Height Charts in the
+                           Appendix:</p>
+                     </entry>
+                  </row>
+                  <row>
+                     <entry>
+                        <p>Added “Reduce if false rejects / Increase if no rejects” to the “Start
+                           reject here” cells.</p>
+                     </entry>
+                  </row>
+                  <row>
+                     <entry>
+                        <p>Added “Increase if no reject” cells.</p>
+                     </entry>
+                  </row>
+                  <row>
+                     <entry>
+                        <p>Added arrows.</p>
+                     </entry>
+                  </row>
+                  <row>
+                     <entry morerows="2">2022-09-06</entry>
+                     <entry>
+                        <p>Approved by Bob Morin, Global Inspection Network Leader</p>
+                     </entry>
+                  </row>
+                  <row>
+                     <entry>
+                        <p>Updated with the following changes:</p>
+                     </entry>
+                  </row>
+                  <row>
+                     <entry>
+                        <p>Added Blow and Blow Wire Edge Height Chart to the Appendix.</p>
+                     </entry>
+                  </row>
+               </tbody>
+            </tgroup>
+         </table>
+      </p>
+   </conbody>
+</concept>

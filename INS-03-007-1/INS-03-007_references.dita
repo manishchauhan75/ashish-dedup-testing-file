@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference xml:lang="en-us" id="d2e170">
+   <title>References</title>
+   <refbody><section>
+      <ul>
+         <li>INS-03-001  Finish Setup - O-I – FTA</li>
+         <li>INS-06-001  FTA Head Verification and Maintenance</li>
+         <li>GQT-03-154  Determination of Wire Edge - Manual Method (Needle)</li>
+         <li>GQT-03-155  Determination of Wire Edge - Manual Method (Fingernail)</li>
+      </ul>
+      </section><section id="section_dpv_xmy_xcc">
+         <title>Document Classification</title>
+         <ul id="ul_vmc_zmy_xcc">
+            <li>Efficiency and Throughput</li>
+            <li>Quality</li>
+         </ul>
+      </section>
+      <section id="section_z3h_1ny_xcc">
+         <title>Fundamentals</title>
+         <ul id="ul_oqb_bny_xcc">
+            <li>INS-305</li>
+         </ul>
+      </section>
+   </refbody>
+</reference>

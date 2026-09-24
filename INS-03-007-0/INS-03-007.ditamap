@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map id="INS-03-007" xml:lang="en-us">
+   <title>Setting the FTA Wire Edge Height</title>
+   <topicmeta>
+      <critdates>
+         <revised modified="2022-09-06"/>
+      </critdates>
+   </topicmeta>
+   <topicref chunk="to-content" href="INS-03-007_setting_the_fta_wire_edge_height_.dita">
+      <topicmeta>
+         <othermeta content="INS-03-007" name="DocumentNumber"/>
+         <othermeta content="2022-09-06" name="RevisionDate"/>
+      </topicmeta>
+      <topicref href="INS-03-007_purpose_and_application.dita"/>
+      <topicref href="INS-03-007_safety.dita"/>
+      <topicref href="INS-03-007_instructions.dita"/>
+      <topicref href="INS-03-007_required_training.dita"/>
+      <topicref href="INS-03-007_references.dita"/>
+      <topicref href="INS-03-007_appendix_fta_wire_edge_height_chart_narrow_neck_press__blow.dita"/>
+      <topicref href="INS-03-007_appendix_fta_wire_edge_height_chart_press__blow.dita"/>
+      <topicref href="INS-03-007_appendix_fta_wire_edge_height_chart_blow__blow.dita"/>
+      <topicref href="INS-03-007_approval.dita"/>
+      <topicref href="INS-03-007_revision_history.dita"/>
+   </topicref>
+</map>

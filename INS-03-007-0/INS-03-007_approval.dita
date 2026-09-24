@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept xml:lang="en-us" id="d2e1248">
+   <title>Approval</title>
+   <conbody>
+      <p>Sanctioning Representatives of the Global Team<table id="table_tl1_3my_xcc">
+            <tgroup cols="2">
+               <colspec colname="c1" colwidth="23.59%"/>
+               <colspec colname="c2" colwidth="62.12%"/>
+               <thead>
+                  <row>
+                     <entry>
+                        <p>Region</p>
+                     </entry>
+                     <entry>
+                        <p>Representative</p>
+                     </entry>
+                  </row>
+               </thead>
+               <tbody>
+                  <row>
+                     <entry>
+                        <p>Europe</p>
+                     </entry>
+                     <entry>
+                        <p>Robert Kurpiel, Bruno Laumier, Stefano Lucidi, Hans de Willigen</p>
+                     </entry>
+                  </row>
+                  <row>
+                     <entry>
+                        <p>Latin America</p>
+                     </entry>
+                     <entry>
+                        <p>Marlon Bravo</p>
+                     </entry>
+                  </row>
+                  <row>
+                     <entry>
+                        <p>Mexico</p>
+                     </entry>
+                     <entry>
+                        <p>Cesar Chavez</p>
+                     </entry>
+                  </row>
+                  <row>
+                     <entry>
+                        <p>North America</p>
+                     </entry>
+                     <entry>
+                        <p>David Gladwin</p>
+                     </entry>
+                  </row>
+                  <row>
+                     <entry>
+                        <p>Global Operations</p>
+                     </entry>
+                     <entry>
+                        <p>Bob Morin</p>
+                     </entry>
+                  </row>
+               </tbody>
+            </tgroup>
+         </table></p>
+   </conbody>
+</concept>

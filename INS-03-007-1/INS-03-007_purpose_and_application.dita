@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept xml:lang="en-us" id="d2e8">
+   <title>Purpose and Application</title>
+   <conbody>
+    <section id="section_rqx_yly_xcc">
+      <title>Purpose</title>
+      <p>To define a work instruction for determining the proper setting for the FTA Wire Edge
+        Height parameter when there is no defined wire edge height setting per the quality control
+        plan or previous experience with the job.</p>
+    </section>
+    <section id="section_pps_1my_xcc">
+      <title>Application</title>
+      <p>This work instruction applies to all O-I manufacturing facilities.</p>
+    </section>
+   </conbody>
+</concept>

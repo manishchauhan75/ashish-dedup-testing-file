@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference xml:lang="en-us" id="d2e1026">
+   <title>Appendix FTA Wire Edge Height Chart (Blow &amp; Blow)</title>
+   <refbody><section>
+      <table>
+         <tgroup cols="4">
+            <colspec colname="c1" colwidth="10.27%"/>
+            <colspec colname="c2" colwidth="11.32%"/>
+            <colspec colname="c3" colwidth="30%"/>
+            <colspec colname="c4" colwidth="38.47%"/>
+               <thead>
+                  <row>
+                     <entry namest="c1" nameend="c2">Specification</entry>
+                     <entry namest="c3" nameend="c4">B&amp;B Examples</entry>
+                  </row>
+               </thead>
+            <tbody>
+               <row>
+                  <entry>
+                     <p>Millimeters</p>
+                  </entry>
+                  <entry>
+                     <p>Thousandths</p>
+                  </entry>
+                  <entry>
+                     <p>Reject Range for B&amp;B bottles with no minimum step down distance defined.</p>
+                  </entry>
+                  <entry>
+                     <p>Reject Range for B&amp;B bottles with minimum step down distance defined on the drawing. (Take initial reject value from the drawing.)</p>
+                  </entry>
+               </row>
+               <row>
+                  <entry>
+                     <p>0.025</p>
+                  </entry>
+                  <entry>
+                     <p>0.001</p>
+                  </entry>
+                  <entry>
+                     <p>Minimum reject setpoint</p>
+                  </entry>
+                  <entry/>
+               </row>
+               <row>
+                  <entry>
+                     <p>0.051</p>
+                  </entry>
+                  <entry>
+                     <p>0.002</p>
+                  </entry>
+                  <entry>
+                     <p>Reduce if false rejects</p>
+                  </entry>
+                  <entry/>
+               </row>
+               <row>
+                  <entry>
+                     <p>0.076</p>
+                  </entry>
+                  <entry>
+                     <p>0.003</p>
+                  </entry>
+                  <entry>
+                     <p>Reduce if false rejects</p>
+                  </entry>
+                  <entry/>
+               </row>
+               <row>
+                  <entry>
+                     <p>0.102</p>
+                  </entry>
+                  <entry>
+                     <p>0.004</p>
+                  </entry>
+                  <entry>
+                     <p>Start reject here / Reduce if false rejects / Increase if no rejects</p>
+                  </entry>
+                  <entry/>
+               </row>
+               <row>
+                  <entry>
+                     <p>0.127</p>
+                  </entry>
+                  <entry>
+                     <p>0.005</p>
+                  </entry>
+                  <entry>
+                     <p>Increase if no rejects</p>
+                  </entry>
+                  <entry/>
+               </row>
+               <row>
+                  <entry>
+                     <p>0.152</p>
+                  </entry>
+                  <entry>
+                     <p>0.006</p>
+                  </entry>
+                  <entry>
+                     <p>Increase if no rejects</p>
+                  </entry>
+                  <entry/>
+               </row>
+               <row>
+                  <entry>
+                     <p>0.178</p>
+                  </entry>
+                  <entry>
+                     <p>0.007</p>
+                  </entry>
+                  <entry>
+                     <p>Increase if no rejects</p>
+                  </entry>
+                  <entry/>
+               </row>
+               <row>
+                  <entry>
+                     <p>0.203</p>
+                  </entry>
+                  <entry>
+                     <p>0.008</p>
+                  </entry>
+                  <entry/>
+                  <entry>
+                     <p>Minimum reject setpoint (Minimum distance of Step Down minus drawing tolerance)</p>
+                  </entry>
+               </row>
+               <row>
+                  <entry>
+                     <p>0.229</p>
+                  </entry>
+                  <entry>
+                     <p>0.009</p>
+                  </entry>
+                  <entry/>
+                  <entry>
+                     <p>Reduce if false rejects</p>
+                  </entry>
+               </row>
+               <row>
+                  <entry>
+                     <p>0.254</p>
+                  </entry>
+                  <entry>
+                     <p>0.010</p>
+                  </entry>
+                  <entry/>
+                  <entry>
+                     <p>Start reject here / Reduce if false rejects / Increase if no rejects</p>
+                  </entry>
+               </row>
+               <row>
+                  <entry>
+                     <p>0.279</p>
+                  </entry>
+                  <entry>
+                     <p>0.011</p>
+                  </entry>
+                  <entry/>
+                  <entry>
+                     <p>Increase if no rejects</p>
+                  </entry>
+               </row>
+               <row>
+                  <entry>
+                     <p>0.305</p>
+                  </entry>
+                  <entry>
+                     <p>0.012</p>
+                  </entry>
+                  <entry/>
+                  <entry>
+                     <p>Increase if no rejects</p>
+                  </entry>
+               </row>
+               <row>
+                  <entry>
+                     <p>0.330</p>
+                  </entry>
+                  <entry>
+                     <p>0.013</p>
+                  </entry>
+                  <entry/>
+                  <entry>
+                     <p>Increase if no rejects</p>
+                  </entry>
+               </row>
+               <row>
+                  <entry>
+                     <p>0.356</p>
+                  </entry>
+                  <entry>
+                     <p>0.014</p>
+                  </entry>
+                  <entry/>
+                  <entry/>
+               </row>
+               <row>
+                  <entry>
+                     <p>0.381</p>
+                  </entry>
+                  <entry>
+                     <p>0.015</p>
+                  </entry>
+                  <entry/>
+                  <entry/>
+               </row>
+               <row>
+                  <entry>
+                     <p>0.406</p>
+                  </entry>
+                  <entry>
+                     <p>0.016</p>
+                  </entry>
+                  <entry/>
+                  <entry/>
+               </row>
+            </tbody>
+         </tgroup>
+      </table>
+   </section></refbody>
+</reference>
