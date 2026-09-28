@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE task
+  PUBLIC "-//OASIS//DTD DITA 2.x Task//EN" "task.dtd">
+<task id="Disabling_Special_Offers_with_Windows" xml:lang="en-us">
+   <title>Disabling Special Offers with Windows</title>
+   <shortdesc>You can disable special offers messages from MetR using a utility on your Windows computer.</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>Windows</keyword>
+        <keyword>placeholder</keyword>
+        <keyword>Offers</keyword>
+        <keyword>right</keyword>
+        <keyword>click</keyword>
+        <keyword>Disabling</keyword>
+        <indexterm>Windows</indexterm>
+        <indexterm>placeholder</indexterm>
+        <indexterm>Offers</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+   <taskbody>
+      <context>
+         <p>You can disable special offers messages from MetR using a utility on your Windows computer.</p>
+      </context>
+      <steps id="steps_05013251">
+         <step>
+            <cmd>Access the Windows Desktop and right-click the <image height="19" href="../media/image147.png" placement="break" width="19">
+                  <alt>placeholder</alt>
+               </image> icon for your product in the right side of the Windows taskbar, or click the up arrow and right-click <image height="19" href="../media/image147.png" placement="break" width="19">
+                  <alt>placeholder</alt>
+               </image>. Select <b>Monitoring Preferences</b>.</cmd>
+            <info>
+               <p>You see this window:</p>
+               <fig>
+                  <title>placeholder</title>
+                  <image height="463" href="../media/image151.jpeg" placement="break" width="360">
+                     <alt>placeholder</alt>
+                  </image>
+               </fig>
+            </info>
+         </step>
+         <step>
+            <cmd>To disable promotional offers, deselect the <b>Display</b>
+               <b>MetR</b>
+               <b>Offers</b>checkbox.</cmd>
+         </step>
+      </steps>
+   </taskbody>
+</task>

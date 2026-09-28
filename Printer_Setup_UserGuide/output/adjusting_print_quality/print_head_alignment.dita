@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA 2.x Topic//EN" "topic.dtd">
+<topic id="Print_Head_Alignment" xml:lang="en-us">
+   <title>Print Head Alignment</title>
+   <shortdesc>If your printouts become grainy or blurry, you notice misalignment of vertical lines, or you</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>Print</keyword>
+        <keyword>Head</keyword>
+        <keyword>Alignment</keyword>
+        <keyword>print</keyword>
+        <keyword>printouts</keyword>
+        <keyword>become</keyword>
+        <indexterm>Print</indexterm>
+        <indexterm>Head</indexterm>
+        <indexterm>Alignment</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+   <body>
+      <p>If your printouts become grainy or blurry, you notice misalignment of vertical lines, or you see dark or light horizontal bands, you may need to align the print head.</p>
+      <note type="note">Banding may also occur if your print head nozzles need cleaning.</note>
+   </body>
+</topic>

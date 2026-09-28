@@ -1,0 +1,132 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE task
+  PUBLIC "-//OASIS//DTD DITA 2.x Task//EN" "task.dtd">
+<task id="Cleaning_the_Print_Head_Path" xml:lang="en-us">
+   <title>Cleaning the Print Head Path</title>
+   <shortdesc>If the print quality has not improved after cleaning and aligning the print head and</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>placeholder</keyword>
+        <keyword>print</keyword>
+        <keyword>product</keyword>
+        <keyword>translucent</keyword>
+        <keyword>clean</keyword>
+        <keyword>scanner</keyword>
+        <indexterm>placeholder</indexterm>
+        <indexterm>print</indexterm>
+        <indexterm>product</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+   <taskbody>
+      <context>
+         <p>If the print quality has not improved after cleaning and aligning the print head and cleaning the paper path, the print head path inside the printer may be smeared with ink.</p>
+         <p>To clean the print head path, use the following:</p>
+         <ul id="ul_05013296">
+            <li>Several cotton swabs</li>
+            <li>¼ cup (59 ml) water containing 2 to 3 drops of mild dish detergent</li>
+            <li>A small flashlight</li>
+         </ul>
+         <note type="caution">Do not use any other liquid to clean the print head path or you may damage your product. Do not use tissue paper to clean the inside of the product. The print head nozzles may become clogged with lint.</note>
+      </context>
+      <steps id="steps_05013297">
+         <step>
+            <cmd>Turn off the product.</cmd>
+         </step>
+         <step>
+            <cmd>Unplug the power cable.</cmd>
+         </step>
+         <step>
+            <cmd>Disconnect any connected cables.</cmd>
+         </step>
+         <step>
+            <cmd>Close the document cover, if necessary.</cmd>
+         </step>
+         <step>
+            <cmd>Lift up the scanner unit with both hands until it locks.</cmd>
+            <info>
+               <fig>
+                  <title>placeholder</title>
+                  <image height="242" href="../media/image194.png" placement="break" width="332">
+                     <alt>placeholder</alt>
+                  </image>
+               </fig>
+               <note type="caution">Do not touch the flat white cable, translucent film, or ink tubes inside the product. Doing so may cause a malfunction.</note>
+               <fig>
+                  <title>placeholder</title>
+                  <image height="143" href="../media/image195.png" placement="break" width="328">
+                     <alt>placeholder</alt>
+                  </image>
+               </fig>
+            </info>
+         </step>
+         <step>
+            <cmd>Using the flashlight, check the translucent film shown here for ink smears.</cmd>
+            <info>
+               <p>
+                  <image height="360" href="../media/image196.png" placement="break" width="404">
+                     <alt>placeholder</alt>
+                  </image>
+                  <image height="360" href="../media/image197.png" placement="break" width="404">
+                     <alt>placeholder</alt>
+                  </image>
+                  <image height="360" href="../media/image198.png" placement="break" width="404">
+                     <alt>placeholder</alt>
+                  </image>
+               </p>
+            </info>
+         </step>
+         <step>
+            <cmd>Translucent film</cmd>
+         </step>
+         <step>
+            <cmd>Print head rail</cmd>
+            <info>
+               <note type="caution">Do not touch the print head rail or wipe the grease off of it. You may not be able to print.</note>
+            </info>
+         </step>
+         <step>
+            <cmd>Moisten a cotton swab with the water and detergent mixture, and squeeze out any excess moisture. Lightly wipe the ink off the translucent film.</cmd>
+            <info>
+               <p>
+                  <image height="163" href="../media/image202.png" placement="break" width="291">
+                     <alt>placeholder</alt>
+                  </image>
+                  <image height="163" href="../media/image203.png" placement="break" width="291">
+                     <alt>placeholder</alt>
+                  </image>
+                  <image height="163" href="../media/image204.png" placement="break" width="291">
+                     <alt>placeholder</alt>
+                  </image>
+                  <image height="163" href="../media/image205.png" placement="break" width="291">
+                     <alt>placeholder</alt>
+                  </image>
+                  <image height="163" href="../media/image206.png" placement="break" width="291">
+                     <alt>placeholder</alt>
+                  </image>
+               </p>
+               <note type="caution">Do not press too hard on the film or you may dislocate the anchor springs and damage your product.</note>
+            </info>
+         </step>
+         <step>
+            <cmd>Use a new, dry cotton swab to dry the translucent film.</cmd>
+         </step>
+         <step>
+            <cmd>Repeat steps 7 and 8 as necessary to clean all ink smears.</cmd>
+         </step>
+         <step>
+            <cmd>When the translucent film is dry, close the scanner unit.</cmd>
+            <info>
+               <note type="note">The scanner unit is designed to close slowly with slight resistance to help prevent injury to your fingers. Continue to close the scanner unit even if you feel some resistance.</note>
+            </info>
+         </step>
+         <step>
+            <cmd>Reconnect any disconnected cables, plug in the power cord, and turn on the product.</cmd>
+         </step>
+      </steps>
+   </taskbody>
+</task>

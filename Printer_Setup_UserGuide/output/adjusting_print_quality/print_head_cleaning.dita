@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA 2.x Concept//EN" "concept.dtd">
+<concept id="Print_Head_Cleaning" xml:lang="en-us">
+   <title>Print Head Cleaning</title>
+   <shortdesc>If print quality has declined and the nozzle check pattern indicates clogged nozzles, you can</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>print</keyword>
+        <keyword>clean</keyword>
+        <keyword>Print</keyword>
+        <keyword>Head</keyword>
+        <keyword>Cleaning</keyword>
+        <keyword>level</keyword>
+        <indexterm>print</indexterm>
+        <indexterm>clean</indexterm>
+        <indexterm>Print</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+   <conbody>
+      <p>If print quality has declined and the nozzle check pattern indicates clogged nozzles, you can clean the print head.</p>
+      <note type="note">You cannot clean the print head if the ink level has reached the lower line on the ink tank, and may not be able to clean it when the ink level in any of the tanks is low. You must refill the ink tank first.</note>
+   </conbody>
+</concept>

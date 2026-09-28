@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE task
+  PUBLIC "-//OASIS//DTD DITA 2.x Task//EN" "task.dtd">
+<task id="Cleaning_the_Paper_Guide" xml:lang="en-us">
+   <title>Cleaning the Paper Guide</title>
+   <shortdesc>If you see ink on the back of a printout, you can clean the paper</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>paper</keyword>
+        <keyword>placeholder</keyword>
+        <keyword>clean</keyword>
+        <keyword>scanner</keyword>
+        <keyword>Cleaning</keyword>
+        <keyword>Paper</keyword>
+        <indexterm>paper</indexterm>
+        <indexterm>placeholder</indexterm>
+        <indexterm>clean</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+   <taskbody>
+      <context>
+         <p>If you see ink on the back of a printout, you can clean the paper guide rollers to remove any excess ink.</p>
+      </context>
+      <steps id="steps_05013293">
+         <step>
+            <cmd>If printouts are smeared or scuffed, load plain paper in this size: Letter (8.5 × 11 inches [216 × 279 mm]) or A4 (8.3 × 11.7 inches [210 × 297 mm]).</cmd>
+         </step>
+         <step>
+            <cmd>Select <b>Maintenance</b>&gt; <b>Paper</b>
+               <b>Guide</b>
+               <b>Cleaning</b>.</cmd>
+         </step>
+         <step>
+            <cmd>Follow the on-screen instructions to clean the paper guide.</cmd>
+         </step>
+         <step>
+            <cmd>Repeat these steps as necessary until the paper comes out clean.</cmd>
+         </step>
+         <step>
+            <cmd>If the paper is still smeared with ink, turn off the product and lift up the scanner unit with both hands until it locks.</cmd>
+            <info>
+               <fig>
+                  <title>placeholder</title>
+                  <image height="242" href="../media/image191.png" placement="break" width="332">
+                     <alt>placeholder</alt>
+                  </image>
+               </fig>
+            </info>
+         </step>
+         <step>
+            <cmd>Using a cotton swab, wipe off any ink smears on the part shown in the illustration below.</cmd>
+            <info>
+               <fig>
+                  <title>placeholder</title>
+                  <image height="193" href="../media/image192.png" placement="break" width="452">
+                     <alt>placeholder</alt>
+                  </image>
+               </fig>
+               <note type="caution">Do not use tissue paper to clean the inside of the product as lint can clog the print head nozzles. Do not touch the flat white cable, the translucent film, or the ink tubes inside the product.</note>
+               <fig>
+                  <title>placeholder</title>
+                  <image height="145" href="../media/image193.png" placement="break" width="334">
+                     <alt>placeholder</alt>
+                  </image>
+               </fig>
+            </info>
+         </step>
+         <step>
+            <cmd>Close the scanner unit.</cmd>
+         </step>
+      </steps>
+      <result>
+         <note type="note">The scanner unit is designed to close slowly with slight resistance to help prevent injury to your fingers. Continue to close the scanner unit even if you feel some resistance.</note>
+      </result>
+   </taskbody>
+</task>

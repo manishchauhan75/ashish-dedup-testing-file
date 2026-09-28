@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA 2.x Concept//EN" "concept.dtd">
+<concept id="Checking_Ink_Levels_-_Windows" xml:lang="en-us">
+   <title>Checking Ink Levels - Windows</title>
+   <shortdesc>A low ink reminder appears if you try to print when ink is low, and</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>Windows</keyword>
+        <keyword>levels</keyword>
+        <keyword>placeholder</keyword>
+        <keyword>check</keyword>
+        <keyword>click</keyword>
+        <keyword>product</keyword>
+        <indexterm>Windows</indexterm>
+        <indexterm>levels</indexterm>
+        <indexterm>placeholder</indexterm>
+        <indexterm>result</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname/>
+      </prodinfo>
+    </metadata>
+  </prolog>
+   <conbody><p>A low ink reminder appears if you try to print when ink is low, and you can check your ink levels at any time using a utility on your Windows computer.</p>
+    <ol>
+    <li><p><image height="40" href="../media/image147.png" placement="break" width="32">
+                  <alt>placeholder</alt>
+               </image>To check your ink levels, access the Windows Desktop and double-click the icon for your product in the right side of the Windows taskbar, or click the up arrow and double-click  .</p>
+      <fig><title>Image147</title><image height="40" href="../media/image147.png" placement="break" width="32">
+                  <alt>placeholder</alt>
+               </image></fig><p>You see a window like this:</p>
+               <fig>
+                  <title>Image149</title>
+                  <image height="386" href="../media/image149.jpeg" placement="break" width="360">
+                     <alt>placeholder</alt>
+                  </image>
+               </fig></li>
+    <li>Refill any ink tank as needed.</li>
+    </ol>
+    <section>
+      <title>Result</title>
+      <note type="note">The ink levels displayed are an estimate and may differ from the actual ink remaining in the ink tanks. To confirm the actual remaining ink, visually check the ink levels in the ink tanks. Continued use of the product when the ink level is below the lower line on the tank could damage the product.</note>
+    </section></conbody>
+</concept>

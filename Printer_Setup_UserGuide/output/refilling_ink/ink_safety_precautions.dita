@@ -1,0 +1,91 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA 2.x Concept//EN" "concept.dtd">
+<concept id="Ink_Safety_Precautions" xml:lang="en-us">
+   <title>Ink Safety Precautions</title>
+   <shortdesc>As a precaution, perform regular visual inspections of the ink tanks to ensure ink levels</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>product</keyword>
+        <keyword>bottles</keyword>
+        <keyword>bottle</keyword>
+        <keyword>tanks</keyword>
+        <keyword>print</keyword>
+        <keyword>levels</keyword>
+        <indexterm>product</indexterm>
+        <indexterm>bottles</indexterm>
+        <indexterm>bottle</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+   <conbody>
+      <note type="note">MetR strongly recommends the use of genuine ink to ensure optimal print quality and performance.</note>
+      <note type="note">The product has a low ink alert system. The accuracy of this system depends on the user refilling the ink tanks correctly. The product cannot directly measure the ink levels in the tanks; instead it estimates the amount of ink remaining by internally monitoring ink usage. The low ink alert system may generate inaccurate messages if the ink tanks are not refilled according to these instructions.</note>
+      <p>As a precaution, perform regular visual inspections of the ink tanks to ensure ink levels do not fall below the lower line. Continued use of the product when the ink level is below the lower line on the tank could damage the product.</p>
+      <ul>
+         <li>
+            <p>
+               <b>Ink</b>
+               <b>Handling</b>
+               <b>Precautions</b>
+            </p>
+         </li>
+      </ul>
+      <ul id="ul_05013244">
+         <li>Keep ink bottles and the ink tanks out of the reach of children. Do not allow children to drink from or handle the ink bottles and bottle caps.</li>
+         <li>Do not tilt or shake an ink bottle after opening it; otherwise, ink may leak.</li>
+         <li>Be careful not to touch any ink when you handle the ink tanks, ink tank caps, and opened ink bottles or ink bottle caps.</li>
+         <li>If ink gets on your skin, wash it thoroughly with soap and water. If ink gets into your eyes, flush them immediately with water. If discomfort or problems persist, see a doctor immediately. If ink gets into your mouth, spit it out and see a doctor right away.</li>
+         <li>Do not shake or squeeze the ink bottles.</li>
+         <li>If ink spills, wipe it up immediately. To prevent the ink from spreading, blot the spill with a dry cloth, then wipe it with a damp cloth. The ink will be hard to remove once it has dried.</li>
+      </ul>
+      <p>
+         <b>Ink</b>
+         <b>Refilling</b>
+         <b>Precautions</b>
+      </p>
+      <ul id="ul_05013245">
+         <li>Use ink bottles with the correct part number for this product.</li>
+         <li>MetR's warranties do not extend to any damage caused by the use of third-party ink or ink not designed for your printer.</li>
+         <li>This product requires careful handling of ink. Ink may splatter when the ink tanks are filled or refilled with ink. If ink gets on your clothes or belongings, it may not come off.</li>
+         <li>Do not open the ink bottle package until you are ready to fill an ink tank. Ink bottles are vacuum packed to maintain reliability. If you leave an ink bottle unpacked for a long time before using it, print quality may be affected.</li>
+         <li>If the ink level is below the lower line on an ink tank, refill the ink. Continued use of the product when the ink level is below the lower line on an ink tank could damage the product.</li>
+         <li>Visually check the ink levels in the product’s ink tanks to confirm the actual ink levels. Continued use of the product when the ink is expended could damage the product.</li>
+         <li>Do not maintain low ink levels for extended periods of time.</li>
+         <li>MetR recommends filling an ink tank to the upper line before resetting the ink level.</li>
+         <li>For optimum printing results, refill the ink tanks to the upper line at least once a year.</li>
+         <li>After bringing an ink bottle inside from a cold storage site, allow it to warm up at room temperature for at least three hours before using it.</li>
+         <li>Use the ink bottle before the date printed on the package.</li>
+         <li>After opening an ink bottle, MetR recommends using it as soon as possible.</li>
+         <li>Store ink bottles in a cool, dark place. Keep them out of direct sunlight.</li>
+         <li>Do not store the ink bottles in high or freezing temperatures.</li>
+         <li>Store the ink bottles in the same environment as the product. When storing or transporting an opened ink bottle, do not tilt the bottle and do not subject it to impacts or temperature changes. Otherwise, ink</li>
+      </ul>
+      <p>may leak even if the cap on the ink bottle is tightened securely. Be sure to keep the ink bottle upright when tightening the cap, and take measures to prevent ink from leaking when you transport the bottle.</p>
+      <ul>
+         <li>
+            <p>
+               <b>Ink</b>
+               <b>Bottle</b>
+               <b>and</b>
+               <b>Ink</b>
+               <b>Tank</b>
+               <b>Information</b>
+            </p>
+         </li>
+      </ul>
+      <ul id="ul_05013246">
+         <li>To maintain optimum print head performance, some ink is consumed from all ink tanks during printing and when performing maintenance operations, such as cleaning the print head. Ink may also be consumed when the product is turned on.</li>
+         <li>Some ink in the ink bottles supplied with your product is used during initial setup; these ink bottles may print fewer pages compared to subsequent ink bottles.</li>
+         <li>The ink bottles may contain recycled materials, but this does not affect product function or performance.</li>
+         <li>The specification and appearance of the ink bottles are subject to change without prior notice for improvement.</li>
+         <li>If an ink bottle is dented, you can still use the ink. The quality and quantity of ink will not be affected.</li>
+         <li>When printing in monochrome or grayscale, color ink may be used instead of black ink, depending on the paper type or print quality settings. This is because a mixture of color inks is used to create black.</li>
+         <li>A reserve amount of ink remains in the tank when your product indicates that a refill is necessary. The yields quoted for you do not include this reserve.</li>
+      </ul>
+   </conbody>
+</concept>

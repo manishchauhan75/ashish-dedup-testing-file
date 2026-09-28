@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE task
+  PUBLIC "-//OASIS//DTD DITA 2.x Task//EN" "task.dtd">
+<task id="Selecting_the_Default_Paper_Source_Setti" xml:lang="en-us">
+   <title>Selecting the Default Paper Source Settings</title>
+   <shortdesc>You can change default paper source settings using the control panel on the product.</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>Settings</keyword>
+        <keyword>error</keyword>
+        <keyword>Paper</keyword>
+        <keyword>Source</keyword>
+        <keyword>Select</keyword>
+        <keyword>occurs</keyword>
+        <indexterm>Settings</indexterm>
+        <indexterm>error</indexterm>
+        <indexterm>Paper</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+   <taskbody>
+      <context>
+         <p>You can change default paper source settings using the control panel on the product.</p>
+      </context>
+      <steps id="steps_05013233">
+         <step>
+            <cmd>Press the <image height="13" href="../media/image66.png" placement="break" width="17">
+                  <alt>placeholder</alt>
+               </image> home button, if necessary.</cmd>
+         </step>
+         <step>
+            <cmd>Select <b>Settings</b>&gt; <b>Printer</b>
+               <b>Setup</b>.</cmd>
+         </step>
+         <step>
+            <cmd>Select <b>Auto</b>
+               <b>Error</b>
+               <b>Solver</b>and select one of these options:</cmd>
+            <info>
+               <ul id="ul_05013232">
+                  <li>Turn on this setting to display a warning and print single-sided when a 2-sided printing error occurs, or to print only what the printer could process when a memory full error occurs.</li>
+                  <li>Turn off this setting to display an error message and stop printing if an error occurs.</li>
+               </ul>
+            </info>
+         </step>
+         <step>
+            <cmd>Select the <b>Paper</b>
+               <b>Source</b>
+               <b>Settings</b>options you want to use.</cmd>
+         </step>
+         <step>
+            <cmd>When you are finished, press the <image height="13" href="../media/image127.png" placement="break" width="17">
+                  <alt>placeholder</alt>
+               </image> home button to exit.</cmd>
+         </step>
+      </steps>
+   </taskbody>
+</task>

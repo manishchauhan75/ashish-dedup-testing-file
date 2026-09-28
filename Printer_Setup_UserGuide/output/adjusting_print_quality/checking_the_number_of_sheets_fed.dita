@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA 2.x Concept//EN" "concept.dtd">
+<concept id="Checking_the_Number_of_Sheets_Fed" xml:lang="en-us">
+   <title>Checking the Number of Sheets Fed</title>
+   <shortdesc>You can view an option that displays the number of sheets of paper that have</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>Checking</keyword>
+        <keyword>Number</keyword>
+        <keyword>Sheets</keyword>
+        <keyword>number</keyword>
+        <keyword>sheets</keyword>
+        <keyword>paper</keyword>
+        <indexterm>Checking</indexterm>
+        <indexterm>Number</indexterm>
+        <indexterm>Sheets</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+   <conbody>
+      <p>You can view an option that displays the number of sheets of paper that have fed through the product.</p>
+      <note type="note">You can also view the number of sheets of paper fed through the product by printing a nozzle check.</note>
+   </conbody>
+</concept>

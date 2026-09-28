@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA 2.x Topic//EN" "topic.dtd">
+<topic id="Print_Head_Nozzle_Check" xml:lang="en-us">
+   <title>Print Head Nozzle Check</title>
+   <shortdesc>You can print a nozzle check pattern to check for clogged nozzles.</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>Print</keyword>
+        <keyword>Head</keyword>
+        <keyword>Nozzle</keyword>
+        <keyword>Check</keyword>
+        <keyword>check</keyword>
+        <keyword>print</keyword>
+        <indexterm>Print</indexterm>
+        <indexterm>Head</indexterm>
+        <indexterm>Nozzle</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+   <body>
+      <p>You can print a nozzle check pattern to check for clogged nozzles.</p>
+   </body>
+</topic>

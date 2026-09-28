@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE task
+  PUBLIC "-//OASIS//DTD DITA 2.x Task//EN" "task.dtd">
+<task id="Checking_the_Sheet_Counter_-_Windows" xml:lang="en-us">
+   <title>Checking the Sheet Counter - Windows</title>
+   <shortdesc>You can check the number of sheets of paper that have fed through the product</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>Windows</keyword>
+        <keyword>click</keyword>
+        <keyword>placeholder</keyword>
+        <keyword>number</keyword>
+        <keyword>sheets</keyword>
+        <keyword>right</keyword>
+        <indexterm>Windows</indexterm>
+        <indexterm>click</indexterm>
+        <indexterm>placeholder</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+   <taskbody>
+      <context>
+         <p>You can check the number of sheets of paper that have fed through the product by checking the sheet counter.</p>
+      </context>
+      <steps id="steps_050132104">
+         <step>
+            <cmd>Access the Windows Desktop and right-click the <image height="19" href="../media/image147.png" placement="break" width="19">
+                  <alt>placeholder</alt>
+               </image> icon for your product in the right side of the Windows taskbar, or click the up arrow and right-click <image height="19" href="../media/image147.png" placement="break" width="19">
+                  <alt>placeholder</alt>
+               </image>.</cmd>
+         </step>
+         <step>
+            <cmd>Select <b>Printer</b>
+               <b>Settings</b>.</cmd>
+         </step>
+         <step>
+            <cmd>Click the <b>Maintenance</b>tab.</cmd>
+         </step>
+         <step>
+            <cmd>Select <b>Printer</b>
+               <b>and</b>
+               <b>Option</b>
+               <b>Information</b>.</cmd>
+            <info>
+               <p>You see this window:</p>
+               <fig>
+                  <title>placeholder</title>
+                  <image height="171" href="../media/image212.jpeg" placement="break" width="300">
+                     <alt>placeholder</alt>
+                  </image>
+               </fig>
+            </info>
+         </step>
+         <step>
+            <cmd>After checking the number of sheets fed into the printer, click <b>OK</b>to close the window.</cmd>
+         </step>
+      </steps>
+      <result>
+         <note type="note">The number of sheets is displayed only when MetR Status Monitor 3 is enabled.</note>
+      </result>
+   </taskbody>
+</task>

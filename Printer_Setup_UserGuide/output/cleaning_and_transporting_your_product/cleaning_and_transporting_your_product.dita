@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA 2.x Topic//EN" "topic.dtd">
+<topic id="Cleaning_and_Transporting_Your_Product" xml:lang="en-us">
+   <title>Cleaning and Transporting Your Product</title>
+   <shortdesc>See these sections if you need to clean or transport your product.</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>Cleaning</keyword>
+        <keyword>Transporting</keyword>
+        <keyword>Your</keyword>
+        <keyword>Product</keyword>
+        <keyword>these</keyword>
+        <keyword>sections</keyword>
+        <indexterm>Cleaning</indexterm>
+        <indexterm>Transporting</indexterm>
+        <indexterm>Your</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+   <body>
+      <p>See these sections if you need to clean or transport your product.</p>
+   </body>
+</topic>

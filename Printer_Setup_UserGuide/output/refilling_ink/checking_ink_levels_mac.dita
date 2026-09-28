@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE task
+  PUBLIC "-//OASIS//DTD DITA 2.x Task//EN" "task.dtd">
+<task id="Checking_Ink_Levels_-_Mac" xml:lang="en-us">
+   <title>Checking Ink Levels - Mac</title>
+   <shortdesc>You can check your ink levels using a utility on your Mac.</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>levels</keyword>
+        <keyword>select</keyword>
+        <keyword>Select</keyword>
+        <keyword>product</keyword>
+        <keyword>Checking</keyword>
+        <keyword>Levels</keyword>
+        <indexterm>levels</indexterm>
+        <indexterm>select</indexterm>
+        <indexterm>Select</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+   <taskbody>
+      <context>
+         <p>You can check your ink levels using a utility on your Mac.</p>
+      </context>
+      <steps id="steps_05013249">
+         <step>
+            <cmd>In the Apple menu or the Dock, select <b>System</b>
+               <b>Preferences</b>. Select <b>Print</b>
+               <b>&amp; Fax</b>, <b>Print</b>
+               <b>&amp; Scan</b>, or <b>Printers</b>
+               <b>&amp;</b>
+               <b>Scanners</b>, select your product, and select <b>Options</b>
+               <b>&amp;</b>
+               <b>Supplies</b>. Select <b>Utility</b>and select <b>Open Printer Utility</b>.</cmd>
+         </step>
+         <step>
+            <cmd>Select <b>METR</b>
+               <b>Status</b>
+               <b>Monitor</b>. You see a window like this:</cmd>
+            <info>
+               <fig>
+                  <title>placeholder</title>
+                  <image height="308" href="../media/image150.jpeg" placement="break" width="360">
+                     <alt>placeholder</alt>
+                  </image>
+               </fig>
+            </info>
+         </step>
+         <step>
+            <cmd>Refill any ink tank as needed.</cmd>
+         </step>
+      </steps>
+      <result>
+         <note type="note">To update or refresh the displayed ink levels, click Update .</note>
+         <note type="note">The ink levels displayed are an estimate and may differ from the actual ink remaining in the ink tanks. To confirm the actual remaining ink, visually check the ink levels in the ink tanks. Continued use of the product when the ink level is below the lower line on the tank could damage the product.</note>
+      </result>
+   </taskbody>
+</task>

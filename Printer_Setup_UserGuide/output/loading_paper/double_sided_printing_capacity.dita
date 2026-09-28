@@ -1,0 +1,185 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA 2.x Concept//EN" "concept.dtd">
+<concept id="Double-sided_Printing_Capacity" xml:lang="en-us">
+   <title>Double-sided Printing Capacity</title>
+   <shortdesc>You can print double-sided using Auto or Manual mode on the following paper types and</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>Paper</keyword>
+        <keyword>MetR</keyword>
+        <keyword>inches</keyword>
+        <keyword>Premium</keyword>
+        <keyword>sided</keyword>
+        <keyword>paper</keyword>
+        <indexterm>Paper</indexterm>
+        <indexterm>MetR</indexterm>
+        <indexterm>inches</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+   <conbody>
+      <p>You can print double-sided using Auto or Manual mode on the following paper types and sizes.</p>
+      <table frame="all" colsep="1" rowsep="1">
+         <tgroup cols="4">
+            <colspec colname="c1"/>
+            <colspec colname="c2"/>
+            <colspec colname="c3"/>
+            <colspec colname="c4"/>
+            <tbody>
+               <row>
+                  <entry morerows="1">
+                     <b>Paper</b>
+                     <b>type</b>
+                  </entry>
+                  <entry morerows="1">
+                     <b>Size</b>
+                  </entry>
+                  <entry namest="c3" nameend="c4">
+                     <b>Double-sided</b>
+                     <b>printing</b>
+                     <b>capacity</b>
+                  </entry>
+               </row>
+               <row>
+                  <entry namest="c1" nameend="c2">
+                     <b>Auto</b>
+                  </entry>
+                  <entry namest="c3" nameend="c4">
+                     <b>Manual</b>
+                  </entry>
+               </row>
+               <row>
+                  <entry>Plain paper Copier paper Letterhead paper</entry>
+                  <entry>Letter (8.5 × 11 inches [216 × 279 mm]) or A4 (8.3 × 11.7 inches [210 × 297 mm])</entry>
+                  <entry>100 sheets</entry>
+                  <entry>30 sheets</entry>
+               </row>
+               <row>
+                  <entry/>
+                  <entry>, Executive (7.25 × 10.5</entry>
+                  <entry>—</entry>
+                  <entry>30 sheets</entry>
+               </row>
+               <row>
+                  <entry/>
+                  <entry>inches [184 × 267 mm]),</entry>
+                  <entry/>
+                  <entry/>
+               </row>
+               <row>
+                  <entry/>
+                  <entry>Half Letter (5.5 × 8.5 inches</entry>
+                  <entry/>
+                  <entry/>
+               </row>
+               <row>
+                  <entry/>
+                  <entry>[140 × 216 mm]), A6</entry>
+                  <entry/>
+                  <entry/>
+               </row>
+               <row>
+                  <entry/>
+                  <entry>(4.1 × 5.8 inches</entry>
+                  <entry/>
+                  <entry/>
+               </row>
+               <row>
+                  <entry/>
+                  <entry>[105 × 148 mm])</entry>
+                  <entry/>
+                  <entry/>
+               </row>
+               <row>
+                  <entry/>
+                  <entry>Legal (8.5 × 14 inches</entry>
+                  <entry>—</entry>
+                  <entry>1 sheet</entry>
+               </row>
+               <row>
+                  <entry/>
+                  <entry>[216 × 356 mm]), Mexico-</entry>
+                  <entry/>
+                  <entry/>
+               </row>
+               <row>
+                  <entry/>
+                  <entry>Oficio (8.5 × 13.4 inches</entry>
+                  <entry/>
+                  <entry/>
+               </row>
+               <row>
+                  <entry/>
+                  <entry>[216 × 340 mm]), 8.5 × 13</entry>
+                  <entry/>
+                  <entry/>
+               </row>
+               <row>
+                  <entry/>
+                  <entry>inches (216 × 330 mm),</entry>
+                  <entry/>
+                  <entry/>
+               </row>
+               <row>
+                  <entry/>
+                  <entry>Oficio 9 (8.46 × 12.4 inches</entry>
+                  <entry/>
+                  <entry/>
+               </row>
+               <row>
+                  <entry/>
+                  <entry>[215 × 315 mm])</entry>
+                  <entry/>
+                  <entry/>
+               </row>
+               <row>
+                  <entry>MetR EcoTank Premium Paper</entry>
+                  <entry>Letter (8.5 × 11 inches [216 × 279 mm])</entry>
+                  <entry>100 sheets</entry>
+                  <entry>30 sheets</entry>
+               </row>
+               <row>
+                  <entry>MetR Bright White Pro Paper</entry>
+                  <entry/>
+                  <entry/>
+                  <entry/>
+               </row>
+               <row>
+                  <entry>MetR Bright White Premium Paper</entry>
+                  <entry/>
+                  <entry/>
+                  <entry/>
+               </row>
+               <row>
+                  <entry>MetR Multipurpose Plus Paper</entry>
+                  <entry/>
+                  <entry/>
+                  <entry/>
+               </row>
+               <row>
+                  <entry>MetR Premium Presentation Paper Matte Double-sided</entry>
+                  <entry>Letter (8.5 × 11 inches [216 × 279 mm])</entry>
+                  <entry>—</entry>
+                  <entry>1 sheet</entry>
+               </row>
+            </tbody>
+         </tgroup>
+      </table>
+      <p>You cannot print double-sided on the following paper types:</p>
+      <ul id="ul_05013227">
+         <li>MetR Presentation Paper Matte</li>
+         <li>MetR Photo Paper Glossy</li>
+         <li>MetR Premium Photo Paper Glossy</li>
+         <li>MetR Premium Photo Paper Semi-gloss</li>
+         <li>MetR Ultra Premium Photo Paper Glossy</li>
+         <li>MetR Premium Presentation Paper Matte</li>
+         <li>MetR Value Photo Paper Glossy</li>
+         <li>Envelopes</li>
+      </ul>
+   </conbody>
+</concept>

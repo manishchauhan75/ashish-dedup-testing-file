@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA 2.x Concept//EN" "concept.dtd">
+<concept id="Solving_Problems" xml:lang="en-us">
+   <title>Copyright Notice</title>
+   <shortdesc>All rights reserved. No part of this publication may be reproduced, stored in a retrieval</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>MetR</keyword>
+        <keyword>Copyright</keyword>
+        <keyword>Notice</keyword>
+        <keyword>information</keyword>
+        <keyword>rights</keyword>
+        <keyword>reserved</keyword>
+        <indexterm>MetR</indexterm>
+        <indexterm>Copyright</indexterm>
+        <indexterm>Notice</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+   <conbody>
+      <p>All rights reserved. No part of this publication may be reproduced, stored in a retrieval system, or transmitted in any form or by any means, electronic, mechanical, photocopying, recording, or otherwise, without the prior written permission of MetR Corporation. The information contained herein isdesigned only for use with this MetR product. MetR is not responsible for any use of this information as applied to other products.</p>
+   </conbody>
+</concept>

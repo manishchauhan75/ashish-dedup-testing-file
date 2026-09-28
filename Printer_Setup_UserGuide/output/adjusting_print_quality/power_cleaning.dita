@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA 2.x Task//EN" "task.dtd">
+<task id="Power_Cleaning" xml:lang="en-us">
+   <title>Power Cleaning</title>
+   <shortdesc>If you still see white or dark lines or missing nozzles in your printouts, even</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>Power</keyword>
+        <keyword>Cleaning</keyword>
+        <keyword>running</keyword>
+        <keyword>product</keyword>
+        <keyword>after</keyword>
+        <keyword>least</keyword>
+        <indexterm>Power</indexterm>
+        <indexterm>Cleaning</indexterm>
+        <indexterm>running</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+   <taskbody>  <context>
+    <p>If you still see white or dark lines or missing nozzles in your printouts, even after cleaning the print head several times, you can run a Power Cleaning.</p><p>If you do not see improvement after running a Power Cleaning, turn off the product and wait at least 12 hours before running another Power Cleaning.</p><note type="caution">Running a Power Cleaning consumes a lot of ink, so you should run it only if necessary. Make sure each ink tank is at least one-third full before running a Power Cleaning, or it may damage the product.</note><note type="caution">Power Cleaning may cause the ink pads to reach their capacity sooner. When an ink pad reaches the end of its service life, the product stops printing and you must contact MetR for support.</note>
+  </context></taskbody>
+</task>

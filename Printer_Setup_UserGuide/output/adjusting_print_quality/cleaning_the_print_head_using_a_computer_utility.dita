@@ -1,0 +1,248 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE task
+  PUBLIC "-//OASIS//DTD DITA 2.x Task//EN" "task.dtd">
+<task id="Cleaning_the_Print_Head_Using_a_Computer" xml:lang="en-us">
+   <title>Cleaning the Print Head Using a Computer Utility</title>
+   <shortdesc>You can clean the print head using a utility on your Windows or Mac computer.</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>placeholder</keyword>
+        <keyword>Print</keyword>
+        <keyword>click</keyword>
+        <keyword>cleaning</keyword>
+        <keyword>Cleaning</keyword>
+        <keyword>print</keyword>
+        <indexterm>placeholder</indexterm>
+        <indexterm>Print</indexterm>
+        <indexterm>click</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+   <taskbody>
+      <context>
+         <p>You can clean the print head using a utility on your Windows or Mac computer.</p>
+      </context>
+      <steps id="steps_05013278">
+         <step>
+            <cmd>Make sure there are no errors on the LCD screen and the output tray is extended.</cmd>
+         </step>
+         <step>
+            <cmd>Load a few sheets of plain paper in the product.</cmd>
+         </step>
+         <step>
+            <cmd>Do one of the following:</cmd>
+            <info>
+               <ul id="ul_05013276">
+                  <li>
+                     <b>Windows:</b>Access the Windows Desktop and right-click the <image height="19" href="../media/image147.png" placement="break" width="19">
+                        <alt>placeholder</alt>
+                     </image> icon for your product in the right side of the Windows taskbar, or click the up arrow and right-click <image height="19" href="../media/image147.png" placement="break" width="19">
+                        <alt>placeholder</alt>
+                     </image>.</li>
+                  <li>
+                     <b>Mac</b>: In the Apple menu or the Dock, select <b>System</b>
+                     <b>Preferences</b>. Select <b>Print</b>
+                     <b>&amp;</b>
+                     <b>Fax</b>, <b>Print</b>
+                     <b>&amp; Scan</b>, or <b>Printers</b>
+                     <b>&amp; Scanners</b>, select your product, and select <b>Options</b>
+                     <b>&amp; Supplies</b>. Select <b>Utility</b>and select <b>Open Printer Utility</b>.</li>
+               </ul>
+            </info>
+         </step>
+         <step>
+            <cmd>Select <b>Print</b>
+               <b>Head</b>
+               <b>Cleaning</b>.</cmd>
+            <info>
+               <p>You see a window like this:</p>
+               <fig>
+                  <title>placeholder</title>
+                  <image height="289" href="../media/image186.jpeg" placement="break" width="300">
+                     <alt>placeholder</alt>
+                  </image>
+               </fig>
+            </info>
+         </step>
+         <step>
+            <cmd>Click <b>Start</b>to begin the cleaning cycle.</cmd>
+            <info>
+               <p>The <image height="12" href="../media/image41.png" placement="break" width="12">
+                     <alt>placeholder</alt>
+                  </image> power light flashes throughout the cleaning cycle and stays on when the cleaning cycle is finished.</p>
+               <note type="caution">Never turn off the product or open the scanner unit during a cleaning cycle or you may not be able to print.</note>
+            </info>
+         </step>
+         <step>
+            <cmd>When the cleaning cycle is finished, you can check to see if the nozzles are clean; click <b>Print</b>
+               <b>Nozzle Check Pattern</b>and click <b>Print</b>.</cmd>
+         </step>
+         <step>
+            <cmd>Check the printed pattern to see if there are gaps in the lines.</cmd>
+         </step>
+      </steps>
+      <result>
+         <p>
+            <b>Print</b>
+            <b>head</b>
+            <b>is</b>
+            <b>clean</b>
+         </p>
+         <p>
+            <fig>
+               <title>placeholder</title>
+               <image height="126" href="../media/image162.png" placement="break" width="80">
+                  <alt>placeholder</alt>
+               </image>
+            </fig>
+         </p>
+         <p>
+            <b>Print</b>
+            <b>head</b>
+            <b>needs</b>
+            <b>cleaning</b>
+         </p>
+         <p>
+            <fig>
+               <title>placeholder</title>
+               <image height="126" href="../media/image163.png" placement="break" width="80">
+                  <alt>placeholder</alt>
+               </image>
+            </fig>
+         </p>
+         <p>
+            <image height="5" href="../media/image164.png" placement="break" width="21">
+               <alt>placeholder</alt>
+            </image>
+            <image height="1" href="../media/image165.png" placement="break" width="5">
+               <alt>placeholder</alt>
+            </image>
+            <image height="1" href="../media/image166.png" placement="break" width="5">
+               <alt>placeholder</alt>
+            </image>
+            <image height="1" href="../media/image167.png" placement="break" width="5">
+               <alt>placeholder</alt>
+            </image>
+            <image height="1" href="../media/image166.png" placement="break" width="5">
+               <alt>placeholder</alt>
+            </image>
+            <image height="1" href="../media/image168.png" placement="break" width="5">
+               <alt>placeholder</alt>
+            </image>
+            <image height="1" href="../media/image169.png" placement="break" width="5">
+               <alt>placeholder</alt>
+            </image>
+            <image height="1" href="../media/image166.png" placement="break" width="5">
+               <alt>placeholder</alt>
+            </image>
+            <image height="1" href="../media/image166.png" placement="break" width="5">
+               <alt>placeholder</alt>
+            </image>
+            <image height="1" href="../media/image165.png" placement="break" width="5">
+               <alt>placeholder</alt>
+            </image>
+            <image height="1" href="../media/image165.png" placement="break" width="5">
+               <alt>placeholder</alt>
+            </image>
+            <image height="1" href="../media/image167.png" placement="break" width="5">
+               <alt>placeholder</alt>
+            </image>
+            <image height="1" href="../media/image165.png" placement="break" width="5">
+               <alt>placeholder</alt>
+            </image>
+            <image height="1" href="../media/image165.png" placement="break" width="5">
+               <alt>placeholder</alt>
+            </image>
+            <image height="1" href="../media/image168.png" placement="break" width="5">
+               <alt>placeholder</alt>
+            </image>
+            <image height="1" href="../media/image165.png" placement="break" width="5">
+               <alt>placeholder</alt>
+            </image>
+            <image height="1" href="../media/image165.png" placement="break" width="5">
+               <alt>placeholder</alt>
+            </image>
+            <b>Print</b>
+            <b>head</b>
+            <b>needs</b>
+            <b>Power</b>
+            <b>Cleaning</b>
+         </p>
+         <p>
+            <image height="14" href="../media/image170.png" placement="break" width="5">
+               <alt>placeholder</alt>
+            </image>
+            <image height="6" href="../media/image171.png" placement="break" width="10">
+               <alt>placeholder</alt>
+            </image>
+            <image height="6" href="../media/image172.png" placement="break" width="5">
+               <alt>placeholder</alt>
+            </image>
+         </p>
+         <p>
+            <image height="1" href="../media/image173.png" placement="break" width="10">
+               <alt>placeholder</alt>
+            </image>
+            <image height="5" href="../media/image174.png" placement="break" width="10">
+               <alt>placeholder</alt>
+            </image>
+         </p>
+         <p>
+            <fig>
+               <title>placeholder</title>
+               <image height="1" href="../media/image175.png" placement="break" width="10">
+                  <alt>placeholder</alt>
+               </image>
+            </fig>
+         </p>
+         <p>
+            <image height="6" href="../media/image176.png" placement="break" width="10">
+               <alt>placeholder</alt>
+            </image>
+            <image height="1" href="../media/image177.png" placement="break" width="10">
+               <alt>placeholder</alt>
+            </image>
+            <image height="30" href="../media/image178.png" placement="break" width="25">
+               <alt>placeholder</alt>
+            </image>
+            <image height="30" href="../media/image179.png" placement="break" width="25">
+               <alt>placeholder</alt>
+            </image>
+            <image height="11" href="../media/image182.png" placement="break" width="5">
+               <alt>placeholder</alt>
+            </image>
+         </p>
+         <ul id="ul_05013277">
+            <li>
+               <image height="1" href="../media/image165.png" placement="break" width="5">
+                  <alt>placeholder</alt>
+               </image>
+               <image height="1" href="../media/image166.png" placement="break" width="5">
+                  <alt>placeholder</alt>
+               </image>
+               <image height="1" href="../media/image166.png" placement="break" width="5">
+                  <alt>placeholder</alt>
+               </image>
+               <image height="1" href="../media/image168.png" placement="break" width="5">
+                  <alt>placeholder</alt>
+               </image>
+               <image height="1" href="../media/image183.png" placement="break" width="5">
+                  <alt>placeholder</alt>
+               </image>
+               <image height="1" href="../media/image166.png" placement="break" width="5">
+                  <alt>placeholder</alt>
+               </image>
+               <image height="1" href="../media/image166.png" placement="break" width="5">
+                  <alt>placeholder</alt>
+               </image>If there are no gaps, click <b>Finish</b>.</li>
+            <li>If there are gaps or the pattern is faint, click <b>Clean</b>to clean the print head again.</li>
+            <li>If almost the entire pattern is missing, click <b>Finish</b>and perform a Power Cleaning.</li>
+         </ul>
+         <p>If you don’t see any improvement after cleaning the print head up to 3 times, turn off the product and wait at least 12 hours. Then check the print head nozzles and try cleaning the print head again, if necessary. If quality still does not improve, run a Power Cleaning.</p>
+      </result>
+   </taskbody>
+</task>

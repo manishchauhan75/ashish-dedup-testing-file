@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE task
+  PUBLIC "-//OASIS//DTD DITA 2.x Task//EN" "task.dtd">
+<task id="Selecting_the_Paper_Settings_-_Control_P" xml:lang="en-us">
+   <title>Selecting the Paper Settings - Control Panel</title>
+   <shortdesc>You can change the default paper size and paper type using the control panel on</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>Paper</keyword>
+        <keyword>Select</keyword>
+        <keyword>paper</keyword>
+        <keyword>Settings</keyword>
+        <keyword>placeholder</keyword>
+        <keyword>Selecting</keyword>
+        <indexterm>Paper</indexterm>
+        <indexterm>Select</indexterm>
+        <indexterm>paper</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+   <taskbody>
+      <context>
+         <p>You can change the default paper size and paper type using the control panel on the product.</p>
+         <note type="note">These settings appear automatically when paper is inserted when you set the Paper Setup Auto Display setting to On .</note>
+      </context>
+      <steps id="steps_05013230">
+         <step>
+            <cmd>Press the <image height="13" href="../media/image66.png" placement="break" width="17">
+                  <alt>placeholder</alt>
+               </image> home button, if necessary.</cmd>
+         </step>
+         <step>
+            <cmd>Select <b>Settings</b>&gt; <b>Printer</b>
+               <b>Setup</b>&gt; <b>Paper</b>
+               <b>Source</b>
+               <b>Settings</b>&gt; <b>Paper</b>
+               <b>Setting</b>. You see a screen like this:</cmd>
+            <info>
+               <fig>
+                  <title>placeholder</title>
+                  <image height="199" href="../media/image125.jpeg" placement="break" width="199">
+                     <alt>placeholder</alt>
+                  </image>
+               </fig>
+            </info>
+         </step>
+         <step>
+            <cmd>Select <b>Paper</b>
+               <b>Size</b>.</cmd>
+         </step>
+         <step>
+            <cmd>Select the paper size you loaded.</cmd>
+         </step>
+         <step>
+            <cmd>Select <b>Paper</b>
+               <b>Type</b>.</cmd>
+         </step>
+         <step>
+            <cmd>Select the paper type you loaded.</cmd>
+         </step>
+         <step>
+            <cmd>Select the <image height="13" href="../media/image126.png" placement="break" width="17">
+                  <alt>placeholder</alt>
+               </image> home button to exit.</cmd>
+         </step>
+      </steps>
+   </taskbody>
+</task>

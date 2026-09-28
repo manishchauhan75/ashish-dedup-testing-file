@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA 2.x Concept//EN" "concept.dtd">
+<concept id="Borderless_Paper_Type_Compatibility" xml:lang="en-us">
+   <title>Borderless Paper Type Compatibility</title>
+   <shortdesc>You can print borderless photos on compatible paper types in compatible sizes:</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>Paper</keyword>
+        <keyword>MetR</keyword>
+        <keyword>Premium</keyword>
+        <keyword>Photo</keyword>
+        <keyword>inches</keyword>
+        <keyword>Borderless</keyword>
+        <indexterm>Paper</indexterm>
+        <indexterm>MetR</indexterm>
+        <indexterm>Premium</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+   <conbody>
+      <p>You can print borderless photos on compatible paper types in compatible sizes:</p>
+      <p>
+         <b>Borderless</b>
+         <b>Paper</b>
+         <b>Types</b>
+      </p>
+      <ul id="ul_05013228">
+         <li>MetR EcoTank Premium Paper</li>
+         <li>MetR Bright White Pro Paper</li>
+         <li>MetR Photo Paper Glossy</li>
+         <li>MetR Premium Photo Paper Glossy</li>
+         <li>MetR Ultra Premium Photo Paper Glossy</li>
+         <li>MetR Premium Photo Paper Semi-gloss</li>
+         <li>MetR Premium Presentation Paper Matte</li>
+         <li>MetR Premium Presentation Paper Matte Double-sided</li>
+         <li>MetR Presentation Paper Matte</li>
+         <li>MetR Value Photo Paper Glossy</li>
+      </ul>
+      <p>
+         <b>Borderless</b>
+         <b>Paper</b>
+         <b>Sizes</b>
+      </p>
+      <ul id="ul_05013229">
+         <li>4 × 6 inches (102 × 152 mm)</li>
+         <li>5 × 7 inches (127 × 178 mm)</li>
+         <li>8 × 10 inches (203 × 254 mm)</li>
+         <li>A4 (8.3 × 11.7 inches [210 × 297 mm])</li>
+         <li>Letter (8.5 × 11 inches [216 × 279 mm])</li>
+      </ul>
+   </conbody>
+</concept>

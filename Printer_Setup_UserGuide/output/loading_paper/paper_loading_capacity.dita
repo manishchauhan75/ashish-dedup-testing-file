@@ -1,0 +1,89 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA 2.x Concept//EN" "concept.dtd">
+<concept id="Paper_Loading_Capacity" xml:lang="en-us">
+   <title>Paper Loading Capacity</title>
+   <shortdesc>See the table here for the loading capacity of the rear paper feeder.</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>Paper</keyword>
+        <keyword>inches</keyword>
+        <keyword>MetR</keyword>
+        <keyword>Premium</keyword>
+        <keyword>paper</keyword>
+        <keyword>Photo</keyword>
+        <indexterm>Paper</indexterm>
+        <indexterm>inches</indexterm>
+        <indexterm>MetR</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+   <conbody><p>See the table here for the loading capacity of the rear paper feeder.</p>
+<table frame="all" colsep="1" rowsep="1">
+            <tgroup cols="2">
+               <colspec colname="c1"/>
+               <colspec colname="c2"/>
+               <tbody>
+                  <row>
+                     <entry>
+                        <b>Paper</b>
+                        <b>type</b>
+                     </entry>
+                     <entry>
+                        <b>Loading</b>
+                        <b>capacity</b>
+                     </entry>
+                  </row>
+                  <row>
+                     <entry morerows="1">Plain paper Copy paper Letterhead paper</entry>
+                     <entry>Letter (8.5 × 11 inches [216 × 279 mm]), Executive (7.25 × 10.5 inches [184 × 267 mm]), Half Letter (5.5 × 8.5 inches [140 × 216 mm]), A6 (4.1 × 5.8 inches [105 × 148 mm]), or A4 (8.3 × 11.7 inches [210 × 297 mm]): 100 sheets</entry>
+                  </row>
+                  <row>
+                     <entry namest="c1" nameend="c2">Legal (8.5 × 14 inches [216 × 356 mm]), Mexico- Oficio (8.5 × 13.4 inches [216 × 340 mm]), 8.5 × 13 inches (216 × 330 mm), Oficio 9 (8.46 × 12.4 inches [215 × 315 mm]), user-defined (7.17 × 10.12 inches to 8.5 × 11.69 inches [182 × 257 mm to 215.9 × 297 mm])*, or user-defined (2.13 × 3.39 inches to 8.5 × 87.24 inches [54 × 86 mm to 215.9 × 1200 mm])* size: 1 sheet</entry>
+                  </row>
+                  <row>
+                     <entry>MetR EcoTank Premium Paper MetR Bright White Pro Paper MetR Bright White Premium Paper MetR Multipurpose Plus Paper</entry>
+                     <entry>Up to the line indicated by the arrow mark</entry>
+                  </row>
+                  <row>
+                     <entry>MetR Presentation Paper Matte</entry>
+                     <entry>Letter (8.5 × 11 inches [216 × 279 mm]) or A4 (8.3 × 11.7 inches [210 × 297 mm]): 80 sheets</entry>
+                  </row>
+               </tbody>
+            </tgroup>
+         </table>
+<table frame="all" colsep="1" rowsep="1">
+            <tgroup cols="2">
+               <colspec colname="c1"/>
+               <colspec colname="c2"/>
+               <tbody>
+                  <row>
+                     <entry>
+                        <b>Paper</b>
+                        <b>type</b>
+                     </entry>
+                     <entry>
+                        <b>Loading</b>
+                        <b>capacity</b>
+                     </entry>
+                  </row>
+                  <row>
+                     <entry>MetR Premium Presentation Paper Matte MetR Photo Paper Glossy MetR Premium Photo Paper Glossy MetR Ultra Premium Photo Paper Glossy MetR Premium Photo Paper Semi-gloss MetR Value Photo Paper Glossy</entry>
+                     <entry>20 sheets If paper feeds incorrectly, or printing is uneven or smeared, load 1 sheet at a time.</entry>
+                  </row>
+                  <row>
+                     <entry>MetR Premium Presentation Paper Matte Double-sided</entry>
+                     <entry>1 sheet</entry>
+                  </row>
+                  <row>
+                     <entry>Envelopes</entry>
+                     <entry>10 envelopes</entry>
+                  </row>
+               </tbody>
+            </tgroup>
+         </table>
+<p>* Printing from computer only.</p></conbody>
+</concept>

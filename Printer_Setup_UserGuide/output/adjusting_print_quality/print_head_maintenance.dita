@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA 2.x Task//EN" "task.dtd">
+<task id="Print_Head_Maintenance" xml:lang="en-us">
+   <title>Print Head Maintenance</title>
+   <shortdesc>If your printouts become too light, or you see dark or light bands across them,</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>clean</keyword>
+        <keyword>print</keyword>
+        <keyword>nozzles</keyword>
+        <keyword>Print</keyword>
+        <keyword>Head</keyword>
+        <keyword>Maintenance</keyword>
+        <indexterm>clean</indexterm>
+        <indexterm>print</indexterm>
+        <indexterm>nozzles</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+   <taskbody>  <context>
+    <p>If your printouts become too light, or you see dark or light bands across them, you may need to clean the print head nozzles. Cleaning uses ink, so clean the nozzles only if print quality declines.</p><p>You can check for clogged nozzles before you clean them so you don’t clean them unnecessarily.</p><note type="note">You cannot clean the print head if the ink level has reached the lower line on the ink tank, and may not be able to clean it when the ink level in any of the tanks is low. You must refill the ink tank first.</note><p>If you still see white or dark lines or gaps in your printouts, even after cleaning the print head several times, you can run a Power Cleaning.</p>
+  </context></taskbody>
+</task>

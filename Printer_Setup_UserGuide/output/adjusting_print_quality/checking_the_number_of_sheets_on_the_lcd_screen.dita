@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE task
+  PUBLIC "-//OASIS//DTD DITA 2.x Task//EN" "task.dtd">
+<task id="Checking_the_Number_of_Sheets_on_the_LCD" xml:lang="en-us">
+   <title>Checking the Number of Sheets on the LCD Screen</title>
+   <shortdesc>You can view the total number of prints, black-and-white prints, and color prints that have</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>prints</keyword>
+        <keyword>Checking</keyword>
+        <keyword>Number</keyword>
+        <keyword>Sheets</keyword>
+        <keyword>Screen</keyword>
+        <keyword>number</keyword>
+        <indexterm>prints</indexterm>
+        <indexterm>Checking</indexterm>
+        <indexterm>Number</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+   <taskbody>
+      <context>
+         <p>You can view the total number of prints, black-and-white prints, and color prints that have been printed.</p>
+      </context>
+      <steps id="steps_050132103">
+         <step>
+            <cmd>Press the <image height="13" href="../media/image65.png" placement="break" width="17">
+                  <alt>placeholder</alt>
+               </image> home button, if necessary.</cmd>
+         </step>
+         <step>
+            <cmd>Select <b>Settings</b>&gt; <b>Print</b>
+               <b>Counter</b>to view the number of prints.</cmd>
+         </step>
+      </steps>
+   </taskbody>
+</task>

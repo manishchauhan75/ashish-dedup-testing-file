@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA 2.x Task//EN" "task.dtd">
+<task id="Adjusting_Print_Quality" xml:lang="en-us">
+   <title>Adjusting Print Quality</title>
+   <shortdesc>If your print quality declines, you may need to run a utility to clean or</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>print</keyword>
+        <keyword>Adjusting</keyword>
+        <keyword>Print</keyword>
+        <keyword>Quality</keyword>
+        <keyword>clean</keyword>
+        <keyword>quality</keyword>
+        <indexterm>print</indexterm>
+        <indexterm>Adjusting</indexterm>
+        <indexterm>Print</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+   <taskbody>  <context>
+    <p>If your print quality declines, you may need to run a utility to clean or align the print head.</p><p>If running these utilities does not solve the problem, you may need to run a Power Cleaning or clean the paper or print head path.</p>
+  </context></taskbody>
+</task>

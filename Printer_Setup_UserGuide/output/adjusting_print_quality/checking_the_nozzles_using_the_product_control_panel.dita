@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA 2.x Concept//EN" "concept.dtd">
+<concept id="Checking_the_Nozzles_Using_the_Product_C" xml:lang="en-us">
+   <title>Checking the Nozzles Using the Product Control Panel</title>
+   <shortdesc>You can check the print head nozzles using the control panel on your product.</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>print</keyword>
+        <keyword>placeholder</keyword>
+        <keyword>button</keyword>
+        <keyword>there</keyword>
+        <keyword>check</keyword>
+        <keyword>product</keyword>
+        <indexterm>print</indexterm>
+        <indexterm>placeholder</indexterm>
+        <indexterm>button</indexterm>
+        <indexterm>result</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname/>
+      </prodinfo>
+    </metadata>
+  </prolog>
+   <conbody><p>You can check the print head nozzles using the control panel on your product.</p>
+    <ol>
+    <li>Make sure there are no errors on the LCD screen and the output tray is extended.</li>
+    <li>Load a few sheets of plain paper in the product.</li>
+    <li>Press the <image height="13" href="../media/image66.png" placement="break" width="17">
+                  <alt>placeholder</alt>
+               </image> home button, if necessary.</li>
+    <li>Select <b>Maintenance</b>&gt; <b>Nozzle</b>
+               <b>Check</b>.</li>
+    <li>Press the <image height="11" href="../media/image47.png" placement="break" width="11">
+                  <alt>placeholder</alt>
+               </image> start button to print. The nozzle check pattern is printed.</li>
+    <li><p>Check the printed pattern to see if there are gaps in the lines.</p>
+      <p>
+                  <b>Print</b>
+                  <b>head</b>
+                  <b>is</b>
+                  <b>clean</b>
+               </p>
+               <fig>
+                  <title>Image159</title>
+                  <image height="126" href="../media/image159.png" placement="break" width="80">
+                     <alt>placeholder</alt>
+                  </image>
+               </fig>
+               <p>
+                  <b>Print</b>
+                  <b>head</b>
+                  <b>needs</b>
+                  <b>cleaning</b>
+               </p>
+               <fig>
+                  <title>Image160</title>
+                  <image height="126" href="../media/image160.png" placement="break" width="80">
+                     <alt>placeholder</alt>
+                  </image>
+               </fig>
+               <p>
+                  <b>Print</b>
+                  <b>head</b>
+                  <b>needs</b>
+                  <b>Power</b>
+                  <b>Cleaning</b>
+               </p></li>
+    <li>Do one of the following:</li>
+    </ol>
+    <section>
+      <title>Result</title>
+      <ul id="ul_05013262">
+            <li>If there are no gaps, the print head is clean. Select <b>No</b>and press the <b>OK</b>button.</li>
+            <li>If there are gaps or the pattern is faint, select <b>Yes</b>and press the <b>OK</b>button. Follow the instructions on the screen to clean the print head.</li>
+            <li>If most lines are missing or not printed, most of the nozzles are clogged. Select <b>No</b>and press the</li>
+         </ul>
+         <p>
+            <b>OK</b>button, then run a Power Cleaning. See the link below.</p>
+         <p>If you don’t see any improvement after cleaning the print head up to 3 times, turn the product off and wait at least 12 hours. Then run a nozzle check and try cleaning the print head again. If quality still does not improve, run a Power Cleaning.</p>
+    </section></conbody>
+</concept>

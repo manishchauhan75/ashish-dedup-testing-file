@@ -1,0 +1,101 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE task
+  PUBLIC "-//OASIS//DTD DITA 2.x Task//EN" "task.dtd">
+<task id="Copying_Documents_or_Photos" xml:lang="en-us">
+   <title>Copying Documents or Photos</title>
+   <shortdesc>You can copy documents or photos onto various sizes and types of paper, including MetR</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>button</keyword>
+        <keyword>placeholder</keyword>
+        <keyword>press</keyword>
+        <keyword>Press</keyword>
+        <keyword>arrow</keyword>
+        <keyword>print</keyword>
+        <indexterm>button</indexterm>
+        <indexterm>placeholder</indexterm>
+        <indexterm>press</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+   <taskbody>
+      <context>
+         <p>You can copy documents or photos onto various sizes and types of paper, including MetR special papers.</p>
+      </context>
+      <steps id="steps_05013239">
+         <step>
+            <cmd>Load the paper you want to print on in the product.</cmd>
+         </step>
+         <step>
+            <cmd>Place your original document or photo on the scanner glass.</cmd>
+         </step>
+         <step>
+            <cmd>Press the <image height="13" href="../media/image65.png" placement="break" width="17">
+                  <alt>placeholder</alt>
+               </image> home button, if necessary.</cmd>
+         </step>
+         <step>
+            <cmd>Press the left or right arrow button to select <b>Copy</b>and press the <b>OK</b>button. You see this screen:</cmd>
+            <info>
+               <fig>
+                  <title>placeholder</title>
+                  <image height="199" href="../media/image143.jpeg" placement="break" width="199">
+                     <alt>placeholder</alt>
+                  </image>
+               </fig>
+            </info>
+         </step>
+         <step>
+            <cmd>To print more than one copy, press the up or down arrow button to select the number (up to 99).</cmd>
+         </step>
+         <step>
+            <cmd>Press the left or right arrow button to select one of the following:</cmd>
+            <info>
+               <ul id="ul_05013238">
+                  <li>
+                     <b>Color</b>: for color copies</li>
+                  <li>
+                     <b>B&amp;W</b>: for black-and-white copies</li>
+               </ul>
+            </info>
+         </step>
+         <step>
+            <cmd>Press the <b>OK</b>button to view the print settings for the copies. You see a screen like this:</cmd>
+            <info>
+               <fig>
+                  <title>placeholder</title>
+                  <image height="199" href="../media/image144.jpeg" placement="break" width="199">
+                     <alt>placeholder</alt>
+                  </image>
+               </fig>
+            </info>
+         </step>
+         <step>
+            <cmd>Press the down arrow button to view the individual settings. You see this screen:</cmd>
+            <info>
+               <fig>
+                  <title>placeholder</title>
+                  <image height="199" href="../media/image145.jpeg" placement="break" width="199">
+                     <alt>placeholder</alt>
+                  </image>
+               </fig>
+            </info>
+         </step>
+         <step>
+            <cmd>To change the print settings, press the left or right arrow button and select the necessary settings. When you are finished, press the <b>OK</b>button.</cmd>
+         </step>
+         <step>
+            <cmd>When you are ready to copy, press the <image height="11" href="../media/image47.png" placement="break" width="11">
+                  <alt>placeholder</alt>
+               </image> start button.</cmd>
+         </step>
+      </steps>
+      <result>
+         <note type="note">To cancel copying, press the stop button.</note>
+      </result>
+   </taskbody>
+</task>

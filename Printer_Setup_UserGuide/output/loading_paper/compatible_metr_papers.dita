@@ -1,0 +1,207 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA 2.x Concept//EN" "concept.dtd">
+<concept id="Compatible_Epson_Papers" xml:lang="en-us">
+   <title>Compatible MetR Papers</title>
+   <shortdesc>You can purchase genuine MetR ink and paper at metR.com (U.S. sales) or metR.ca (Canadian</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>inches</keyword>
+        <keyword>MetR</keyword>
+        <keyword>Paper</keyword>
+        <keyword>Letter</keyword>
+        <keyword>Premium</keyword>
+        <keyword>Photo</keyword>
+        <indexterm>inches</indexterm>
+        <indexterm>MetR</indexterm>
+        <indexterm>Paper</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+   <conbody><p>You can purchase genuine MetR ink and paper at metR.com (U.S. sales) or metR.ca (Canadian sales). You can also purchase supplies from an MetR authorized reseller. To find the nearest one, call 800-GO-METR (800-463-7766) in the U.S. or 800-807-7766 in Canada.</p>
+<note type="note">Paper/media availability varies by country.</note>
+<table frame="all" colsep="1" rowsep="1">
+            <tgroup cols="4">
+               <colspec colname="c1"/>
+               <colspec colname="c2"/>
+               <colspec colname="c3"/>
+               <colspec colname="c4"/>
+               <tbody>
+                  <row>
+                     <entry>
+                        <b>Paper</b>
+                        <b>Type</b>
+                     </entry>
+                     <entry>
+                        <b>Size</b>
+                     </entry>
+                     <entry>
+                        <b>Part</b>
+                        <b>number</b>
+                     </entry>
+                     <entry>
+                        <b>Sheet</b>
+                        <b>count</b>
+                     </entry>
+                  </row>
+                  <row>
+                     <entry>MetR EcoTank Premium Paper</entry>
+                     <entry>Letter (8.5 × 11 inches [216 × 279 mm])</entry>
+                     <entry>S041586-ET</entry>
+                     <entry>500</entry>
+                  </row>
+                  <row>
+                     <entry>MetR Bright White Pro Paper</entry>
+                     <entry>Letter (8.5 × 11 inches [216 × 279 mm])</entry>
+                     <entry>S041586</entry>
+                     <entry>500</entry>
+                  </row>
+                  <row>
+                     <entry>MetR Bright White Premium Paper</entry>
+                     <entry>Letter (8.5 × 11 inches [216 × 279 mm])</entry>
+                     <entry>S450218-4</entry>
+                     <entry>500</entry>
+                  </row>
+                  <row>
+                     <entry>MetR Multipurpose Plus Paper</entry>
+                     <entry>Letter (8.5 × 11 inches [216 × 279 mm])</entry>
+                     <entry>S450217-4</entry>
+                     <entry>500</entry>
+                  </row>
+                  <row>
+                     <entry>MetR Presentation Paper Matte</entry>
+                     <entry>Letter (8.5 × 11 inches [216 × 279 mm])</entry>
+                     <entry>S041062</entry>
+                     <entry>100</entry>
+                  </row>
+                  <row>
+                     <entry morerows="1">MetR Premium Presentation Paper Matte</entry>
+                     <entry>8 × 10 inches (203 × 254 mm)</entry>
+                     <entry>S041467</entry>
+                     <entry>50</entry>
+                  </row>
+                  <row>
+                     <entry>Letter (8.5 × 11 inches [216 × 279 mm])</entry>
+                     <entry>S041257 S042180</entry>
+                     <entry namest="c3" nameend="c4">50 100</entry>
+                  </row>
+                  <row>
+                     <entry>MetR Premium Presentation Paper Matte Double-sided</entry>
+                     <entry>Letter (8.5 × 11 inches [216 × 279 mm])</entry>
+                     <entry>S041568</entry>
+                     <entry>50</entry>
+                  </row>
+               </tbody>
+            </tgroup>
+         </table>
+<table frame="all" colsep="1" rowsep="1">
+            <tgroup cols="4">
+               <colspec colname="c1"/>
+               <colspec colname="c2"/>
+               <colspec colname="c3"/>
+               <colspec colname="c4"/>
+               <tbody>
+                  <row>
+                     <entry>
+                        <b>Paper</b>
+                        <b>Type</b>
+                     </entry>
+                     <entry>
+                        <b>Size</b>
+                     </entry>
+                     <entry>
+                        <b>Part</b>
+                        <b>number</b>
+                     </entry>
+                     <entry>
+                        <b>Sheet</b>
+                        <b>count</b>
+                     </entry>
+                  </row>
+                  <row>
+                     <entry morerows="2">MetR Photo Paper Glossy</entry>
+                     <entry>4 × 6 inches (102 × 152 mm)</entry>
+                     <entry>S041809 S042038</entry>
+                     <entry>50 100</entry>
+                  </row>
+                  <row>
+                     <entry>Letter (8.5 × 11 inches [216 × 279 mm])</entry>
+                     <entry>S041141 S041649 S041271</entry>
+                     <entry namest="c3" nameend="c4">20 50 100</entry>
+                  </row>
+                  <row>
+                     <entry>A4 (8.3 × 11.7 inches [210 × 297 mm])</entry>
+                     <entry>S041140</entry>
+                     <entry namest="c3" nameend="c4">20</entry>
+                  </row>
+                  <row>
+                     <entry morerows="3">MetR Premium Photo Paper Glossy</entry>
+                     <entry>4 × 6 inches (102 × 152 mm)</entry>
+                     <entry>S041727</entry>
+                     <entry>100</entry>
+                  </row>
+                  <row>
+                     <entry>5 × 7 inches (127 × 178 mm)</entry>
+                     <entry>S041464</entry>
+                     <entry namest="c3" nameend="c4">20</entry>
+                  </row>
+                  <row>
+                     <entry>8 × 10 inches (203 × 254 mm)</entry>
+                     <entry>S041465</entry>
+                     <entry namest="c3" nameend="c4">20</entry>
+                  </row>
+                  <row>
+                     <entry>Letter (8.5 × 11 inches [216 × 279 mm])</entry>
+                     <entry>S042183 S041667</entry>
+                     <entry namest="c3" nameend="c4">25 50</entry>
+                  </row>
+                  <row>
+                     <entry morerows="3">MetR Ultra Premium Photo Paper Glossy</entry>
+                     <entry>4 × 6 inches (102 × 152 mm)</entry>
+                     <entry>S042181 S042174</entry>
+                     <entry>60 100</entry>
+                  </row>
+                  <row>
+                     <entry>5 × 7 inches (127 × 178 mm)</entry>
+                     <entry>S041945</entry>
+                     <entry namest="c3" nameend="c4">20</entry>
+                  </row>
+                  <row>
+                     <entry>8 × 10 inches (203 × 254 mm)</entry>
+                     <entry>S041946</entry>
+                     <entry namest="c3" nameend="c4">20</entry>
+                  </row>
+                  <row>
+                     <entry>Letter (8.5 × 11 inches [216 × 279 mm])</entry>
+                     <entry>S042182 S042175</entry>
+                     <entry namest="c3" nameend="c4">25 50</entry>
+                  </row>
+                  <row>
+                     <entry morerows="1">MetR Premium Photo Paper Semi-gloss</entry>
+                     <entry>4 × 6 inches (102 × 152 mm)</entry>
+                     <entry>S041982</entry>
+                     <entry>40</entry>
+                  </row>
+                  <row>
+                     <entry>Letter (8.5 × 11 inches [216 × 279 mm])</entry>
+                     <entry>S041331</entry>
+                     <entry namest="c3" nameend="c4">20</entry>
+                  </row>
+                  <row>
+                     <entry morerows="1">MetR Value Photo Paper Glossy</entry>
+                     <entry>4 × 6 inches (102 × 152 mm)</entry>
+                     <entry>S400032 S400033 S400034</entry>
+                     <entry>20 50 100</entry>
+                  </row>
+                  <row>
+                     <entry>Letter (8.5 × 11 inches [216 × 279 mm])</entry>
+                     <entry>S400031</entry>
+                     <entry namest="c3" nameend="c4">50</entry>
+                  </row>
+               </tbody>
+            </tgroup>
+         </table></conbody>
+</concept>

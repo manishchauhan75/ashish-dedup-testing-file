@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE task
+  PUBLIC "-//OASIS//DTD DITA 2.x Task//EN" "task.dtd">
+<task id="Checking_the_Sheet_Counter_-_Mac" xml:lang="en-us">
+   <title>Checking the Sheet Counter - Mac</title>
+   <shortdesc>You see this window:</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>select</keyword>
+        <keyword>Select</keyword>
+        <keyword>Checking</keyword>
+        <keyword>Sheet</keyword>
+        <keyword>Counter</keyword>
+        <keyword>Print</keyword>
+        <indexterm>select</indexterm>
+        <indexterm>Select</indexterm>
+        <indexterm>Checking</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+   <taskbody>
+      <steps id="steps_050132106">
+         <step>
+            <cmd>In the Apple menu or the Dock, select <b>System</b>
+               <b>Preferences</b>. Select <b>Print</b>
+               <b>&amp; Fax</b>, <b>Print</b>
+               <b>&amp; Scan</b>, or <b>Printers</b>
+               <b>&amp;</b>
+               <b>Scanners</b>, select your product, and select <b>Options</b>
+               <b>&amp;</b>
+               <b>Supplies</b>. Select <b>Utility</b>and select <b>Open Printer Utility</b>.</cmd>
+         </step>
+         <step>
+            <cmd>Select <b>Printer</b>
+               <b>and</b>
+               <b>Option</b>
+               <b>Information</b>.</cmd>
+            <info>
+               <p>You see this window:</p>
+               <fig>
+                  <title>placeholder</title>
+                  <image height="200" href="../media/image213.jpeg" placement="break" width="360">
+                     <alt>placeholder</alt>
+                  </image>
+               </fig>
+            </info>
+         </step>
+         <step>
+            <cmd>After checking the number of sheets fed into the printer, click <b>OK</b>to close the window.</cmd>
+         </step>
+      </steps>
+   </taskbody>
+</task>

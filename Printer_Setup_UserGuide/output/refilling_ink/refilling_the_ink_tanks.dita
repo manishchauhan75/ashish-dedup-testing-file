@@ -1,0 +1,144 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE task
+  PUBLIC "-//OASIS//DTD DITA 2.x Task//EN" "task.dtd">
+<task id="Refilling_the_Ink_Tanks" xml:lang="en-us">
+   <title>Refilling the Ink Tanks</title>
+   <shortdesc>Make sure you have new ink bottles handy and have read the ink safety precautions</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>bottle</keyword>
+        <keyword>placeholder</keyword>
+        <keyword>product</keyword>
+        <keyword>tanks</keyword>
+        <keyword>color</keyword>
+        <keyword>close</keyword>
+        <indexterm>bottle</indexterm>
+        <indexterm>placeholder</indexterm>
+        <indexterm>product</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+   <taskbody>
+      <context>
+         <p>Make sure you have new ink bottles handy and have read the ink safety precautions before you begin.</p>
+         <p>You can continue to use the product even if one or more ink tanks are not filled all the way. However, for the most accurate ink level monitoring, fill all the ink tanks up to the top line.</p>
+         <note type="note">The product has a low ink alert system. The accuracy of this system depends on the user refilling the ink tanks correctly. The product cannot directly measure the ink levels in the tanks; instead it estimates the amount of ink remaining by internally monitoring ink usage. The low ink alert system may generate inaccurate messages if the ink tanks are not refilled according to these instructions.</note>
+         <p>As a precaution, perform regular visual inspections of the ink tanks to ensure ink levels do not fall below the lower line. Continued use of the product when the ink level is below the lower line on the tank could damage the product.</p>
+         <note type="caution">Wear disposable gloves while refilling the ink tanks to avoid staining your hands. If ink spills, wipe it off immediately with a damp towel to avoid permanent stains. If ink gets on your clothes or belongings, it may not come off.</note>
+      </context>
+      <steps id="steps_05013253">
+         <step>
+            <cmd>Turn on your product.</cmd>
+         </step>
+         <step>
+            <cmd>Close the document cover if it is open.</cmd>
+         </step>
+         <step>
+            <cmd>Lift up the scanner unit with both hands until it locks.</cmd>
+            <info>
+               <fig>
+                  <title>placeholder</title>
+                  <image height="242" href="../media/image152.png" placement="break" width="332">
+                     <alt>placeholder</alt>
+                  </image>
+               </fig>
+            </info>
+         </step>
+         <step>
+            <cmd>Open the ink tank cover.</cmd>
+            <info>
+               <fig>
+                  <title>placeholder</title>
+                  <image height="145" href="../media/image153.png" placement="break" width="151">
+                     <alt>placeholder</alt>
+                  </image>
+               </fig>
+            </info>
+         </step>
+         <step>
+            <cmd>Read the precautions on the screen and then proceed to the next screen.</cmd>
+         </step>
+         <step>
+            <cmd>Open the cap for the ink tank you are going to fill.</cmd>
+            <info>
+               <fig>
+                  <title>placeholder</title>
+                  <image height="213" href="../media/image154.png" placement="break" width="389">
+                     <alt>placeholder</alt>
+                  </image>
+               </fig>
+               <note type="note">Make sure that the color of the ink tank matches the ink color that you want to refill.</note>
+            </info>
+         </step>
+         <step>
+            <cmd>Hold the ink bottle upright and slowly turn the bottle cap to remove it.</cmd>
+            <info>
+               <fig>
+                  <title>placeholder</title>
+                  <image height="190" href="../media/image155.png" placement="break" width="90">
+                     <alt>placeholder</alt>
+                  </image>
+               </fig>
+               <note type="caution">Do not shake or squeeze the bottle. Do not touch the top of the bottle after its cap is removed.</note>
+               <note type="warning">If ink gets on your skin, wash it thoroughly with soap and water. If ink gets into your eyes, flush them immediately with water. If ink gets into your mouth, spit it out immediately. Seek medical advice if problems persist. Keep the ink bottles out of the reach of children and do not drink the ink.</note>
+            </info>
+         </step>
+         <step>
+            <cmd>Position the top of the ink bottle with the filling port and then insert the bottle straight onto the port. Ink flows into the tank.</cmd>
+            <info>
+               <note type="note">Refer to the color-coded sticker on the ink tank unit to identify the color of each tank. Do not force the bottles into position; they are keyed for each color.</note>
+            </info>
+         </step>
+         <step>
+            <cmd>Wait for the ink to fill the tank. Do not squeeze the bottle. Ink flows into the tank and stops automatically when the ink is filled to the upper line.</cmd>
+            <info>
+               <fig>
+                  <title>placeholder</title>
+                  <image height="431" href="../media/image157.png" placement="break" width="402">
+                     <alt>placeholder</alt>
+                  </image>
+               </fig>
+               <note type="note">If ink does not flow from the bottle, lift and reinsert the bottle. If the ink has reached the upper line of the tank, do not remove and reinsert the bottle or ink may leak.</note>
+            </info>
+         </step>
+         <step>
+            <cmd>When the ink tank is full, remove the ink bottle and securely close the ink bottle cap.</cmd>
+            <info>
+               <note type="note">Do not leave the ink bottle inserted. The bottle may be damaged or ink may leak. If any ink remains in the bottle, replace the bottle cap and tighten it. Store the bottle upright for later use.</note>
+            </info>
+         </step>
+         <step>
+            <cmd>Securely close the ink tank cap.</cmd>
+         </step>
+         <step>
+            <cmd>Repeat the previous steps as necessary for each ink tank you need to refill.</cmd>
+         </step>
+         <step>
+            <cmd>Close the ink tank cover, then close the scanner unit using both hands.</cmd>
+            <info>
+               <fig>
+                  <title>placeholder</title>
+                  <image height="159" href="../media/image158.png" placement="break" width="286">
+                     <alt>placeholder</alt>
+                  </image>
+               </fig>
+               <note type="note">The scanner unit is designed to close slowly and resist a little as a precaution against injuring your fingers. Continue to close the scanner unit even if you feel some resistance.</note>
+            </info>
+         </step>
+         <step>
+            <cmd>Press the <image height="13" href="../media/image126.png" placement="break" width="17">
+                  <alt>placeholder</alt>
+               </image> home button to display the Home screen, then select <b>Maintenance</b>&gt; <b>Set</b>
+               <b>Ink</b>
+               <b>Level</b>. Follow the on-screen instructions to reset the ink level for the colors you refilled.</cmd>
+         </step>
+      </steps>
+      <result>
+         <p>Even if you do not refill ink up to the upper line on the ink tank, you can continue using the product. To keep your product operating at its best, however, fill ink tank up to the upper line and reset the ink level immediately.</p>
+      </result>
+   </taskbody>
+</task>
