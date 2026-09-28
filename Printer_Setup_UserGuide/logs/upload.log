@@ -1,0 +1,21 @@
+================================================================================
+ metR DOCX DocMigrate — UPLOAD REPORT
+================================================================================
+ Source File           : Printer_Setup_UserGuide.docx
+ File Format           : .DOCX
+ File Size             : 4.04 MB
+ Started               : 2026-09-28 05:01:29 UTC
+ Completed             : 2026-09-28 05:01:30 UTC
+ Duration              : 1s
+ Overall Status        : SUCCESS
+--------------------------------------------------------------------------------
+
+[2026-09-28T05:01:29.669071+00:00] Upload Endpoint Received request to upload 'Printer_Setup_UserGuide.docx'.
+[2026-09-28T05:01:29.669117+00:00] upload_received Upload request received for file 'Printer_Setup_UserGuide.docx'.
+[2026-09-28T05:01:29.674468+00:00] Upload Endpoint Processing slot acquired.
+[2026-09-28T05:01:29.674516+00:00] lock_acquired Processing slot acquired.
+[2026-09-28T05:01:29.678526+00:00] upload_started Upload started.
+[2026-09-28T05:01:30.757246+00:00] upload_completed successfully.
+
+ File uploaded successfully.
+================================================================================

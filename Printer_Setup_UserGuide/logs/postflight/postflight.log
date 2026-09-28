@@ -1,0 +1,90 @@
+================================================================================
+ metR DocMigrate — POST-FLIGHT VALIDATION REPORT
+================================================================================
+ Total Files Validated : 71
+ Violations (pre-XSLT) : 109 errors, 345 warnings
+ Violations (post-XSLT): 0 errors, 0 warnings
+ Started               : 2026-09-28 05:01:32 UTC
+ Completed             : 2026-09-28 05:01:42 UTC
+ Duration              : 10s
+ Overall Status        : SUCCESS
+--------------------------------------------------------------------------------
+
+[2026-09-28T05:01:32.429043+00:00] postflight_started working.
+[2026-09-28T05:01:32.433535+00:00] DitaPostProcessor Post-processing all generated DITA files.
+[2026-09-28T05:01:32.433578+00:00] step_post_process_started Step 6/7: Post-processing DITA files (image paths, cross-references, DTD headers).
+[2026-09-28T05:01:32.434498+00:00] post_process_files_started Post-processing 63 DITA file(s) and 8 DITAMAP file(s).
+[2026-09-28T05:01:32.435538+00:00] DitaPostProcessor Starting EMF->image conversion.
+[2026-09-28T05:01:32.436217+00:00] DitaPostProcessor No EMF files converted (none found or all failed).
+[2026-09-28T05:01:32.501280+00:00] post_process_files_complete Post-processing complete: image paths, cross-references, and DTD headers applied to 63 file(s).
+[2026-09-28T05:01:32.502362+00:00] DitaPostProcessor Post-processing complete.
+[2026-09-28T05:01:32.502516+00:00] step_post_process_complete Post-processing complete.
+[2026-09-28T05:01:32.503283+00:00] PipelineOrchestrator Running concept reclassification pass on topic files.
+[2026-09-28T05:01:32.503928+00:00] PipelineOrchestrator Concept reclassification complete — no files required updating.
+[2026-09-28T05:01:32.503964+00:00] HyperlinkResolver Resolving internal hyperlinks.
+[2026-09-28T05:01:32.503978+00:00] step_hyperlinks_started Step 6.5/7: Resolving internal hyperlinks.
+[2026-09-28T05:01:32.504679+00:00] HyperlinkResolver Resolving internal hyperlinks in 63 DITA file(s).
+[2026-09-28T05:01:32.518838+00:00] HyperlinkResolver Hyperlink resolution complete -- no anchor xrefs required updating.
+[2026-09-28T05:01:32.518902+00:00] HyperlinkResolver Hyperlink resolution complete.
+[2026-09-28T05:01:32.518918+00:00] step_hyperlinks_complete Hyperlink resolution complete.
+[2026-09-28T05:01:32.519817+00:00] PipelineOrchestrator Running DTD compliance validation on all output files.
+[2026-09-28T05:01:32.519852+00:00] step_validation_started Step 7/7: Running DTD compliance validation on all output files.
+[2026-09-28T05:01:42.673488+00:00] postflight_completed successfully.
+
+================================================================================
+ INITIAL VALIDATION SUMMARY
+================================================================================
+  Total files : 71
+  Passed      : 71
+  Failed      : 0
+----------------------------------------
+  Total Dita Files generated         : 63
+  Total Headings counted             : 7
+  Total subheadings under Heading (per heading name):
+    - Adjusting Print Quality                           : 19 file(s)
+    - Cleaning And Transporting Your Product            : 4 file(s)
+    - Copying                                           : 3 file(s)
+    - Loading Paper                                     : 11 file(s)
+    - Placing Originals On The Product                  : 2 file(s)
+    - Product Basics                                    : 14 file(s)
+    - Refilling Ink                                     : 10 file(s)
+  Total Ditamap Files generated      : 8
+  Root Ditamap                       : printer_user_s_guide.ditamap
+  Total images counted               : 235
+========================================================================
+[GUI] Validating generated DITA maps and topics.
+
+================================================================================
+POST FLIGHT SUMMARY
+------------------------------------------------------------------------
+  Total Files Validated   : 71
+  Files Fully Valid       : 71
+  Files With Errors       : 0
+  Total Errors            : 0
+  Total Warnings          : 0
+
+========================================================================
+
+[GUI] Generating validation report.
+
+
+SUPPORTING REPORTS (postflight folder)
+--------------------------------------------------------------------------------
+ File                            Contents
+--------------------------------------------------------------------------------
+ schematron.csv                  Full pre-XSLT validation results — every
+                                 violation found before the correction pass, one
+                                 row per issue.
+ xslt.csv                        XSLT correction pass log — every stylesheet
+                                 applied per file, execution time, and pass/fail
+                                 status.
+ post_xslt_schematron.csv        Full validation results after correction —
+                                 every violation still remaining, one row per
+                                 issue.
+--------------------------------------------------------------------------------
+
+[GUI] Preparing content for AI enrichment.
+
+================================================================================
+ [GUI] Success: Post-flight validation completed successfully.
+================================================================================

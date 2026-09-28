@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA 2.x Concept//EN" "concept.dtd">
+<concept id="Purchase_Epson_Ink" xml:lang="en-us">
+   <title>Purchase MetR Ink</title>
+   <shortdesc>You can purchase genuine MetR ink and paper at metR.com (U.S. sales) or metR.ca (Canadian</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>MetR</keyword>
+        <keyword>printer</keyword>
+        <keyword>bottles</keyword>
+        <keyword>Purchase</keyword>
+        <keyword>purchase</keyword>
+        <keyword>paper</keyword>
+        <indexterm>MetR</indexterm>
+        <indexterm>printer</indexterm>
+        <indexterm>bottles</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+   <conbody>
+      <p>You can purchase genuine MetR ink and paper at <xref href="https://www.epson.com/" scope="external" format="html">metR.com</xref> (U.S. sales) or <xref href="https://www.epson.ca/" scope="external" format="html">metR.ca</xref> (Canadian sales). You can also purchase supplies from an MetR authorized reseller. To find the nearest one, call 800-GO-METR (800-463-7766) in the U.S. or 800-807-7766 in Canada.</p>
+      <note type="note">MetR's warranties do not extend to any damage caused by the use of third-party ink or ink not designed for your printer.</note>
+      <p>The included initial ink bottles must be used for printer setup and are not for resale. The printer ships with full ink bottles and part of the ink from the first bottles is used to charge the print head. Yields vary considerably based on images printed, print settings, paper type, frequency of use and temperature.</p>
+   </conbody>
+</concept>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA 2.x Concept//EN" "concept.dtd">
+<concept id="Check_Ink_Levels" xml:lang="en-us">
+   <title>Check Ink Levels</title>
+   <shortdesc>Your product and its printing software will let you know when an ink tank is</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>Check</keyword>
+        <keyword>Levels</keyword>
+        <keyword>Your</keyword>
+        <keyword>product</keyword>
+        <keyword>printing</keyword>
+        <keyword>software</keyword>
+        <indexterm>Check</indexterm>
+        <indexterm>Levels</indexterm>
+        <indexterm>Your</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+   <conbody>
+      <p>Your product and its printing software will let you know when an ink tank is low or expended.</p>
+   </conbody>
+</concept>

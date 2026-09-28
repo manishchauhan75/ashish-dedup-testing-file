@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA 2.x Topic//EN" "topic.dtd">
+<topic id="Placing_Originals_on_the_Product" xml:lang="en-us">
+   <title>Placing Originals on the Product</title>
+   <shortdesc>Follow the instructions here to place your original documents or photos on the product.</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>Placing</keyword>
+        <keyword>Originals</keyword>
+        <keyword>Product</keyword>
+        <keyword>place</keyword>
+        <keyword>product</keyword>
+        <keyword>Follow</keyword>
+        <indexterm>Placing</indexterm>
+        <indexterm>Originals</indexterm>
+        <indexterm>Product</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+   <body>
+      <p>Follow the instructions here to place your original documents or photos on the product.</p>
+      <note type="caution">Do not place anything on top of your product or use its cover as a writing surface to avoid damaging it.</note>
+   </body>
+</topic>

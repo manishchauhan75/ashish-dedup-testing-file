@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA 2.x Concept//EN" "concept.dtd">
+<concept id="Refilling_Ink" xml:lang="en-us">
+   <title>Refilling Ink</title>
+   <shortdesc>When the ink level is below the lower line on an ink tank, you need</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>level</keyword>
+        <keyword>below</keyword>
+        <keyword>lower</keyword>
+        <keyword>Refilling</keyword>
+        <keyword>product</keyword>
+        <keyword>When</keyword>
+        <indexterm>level</indexterm>
+        <indexterm>below</indexterm>
+        <indexterm>lower</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+   <conbody>
+      <p>When the ink level is below the lower line on an ink tank, you need to refill it. Periodically check the ink tanks to see if they need to be refilled.</p>
+      <p>Before checking the ink levels or refilling an ink tank as described here, be sure to read the ink safety precautions.</p>
+      <note type="caution">If the ink level is below the lower line on the ink tank, fill it to the upper line on the ink tank. Continued use of the product when the ink level is below the lower line on a tank could damage the product.</note>
+   </conbody>
+</concept>

@@ -1,0 +1,67 @@
+metR DOCX DocMigrate — AI ENRICHMENT REPORT
+================================================================================
+ DITA OUTPUT               : transformed output
+ Total Files               : 71 (63 DITA, 8 DITAMAP)
+ Topics Reclassified       : 28
+ Shortdescs Generated      : 63
+ Metadata Generated        : 63
+ Alt Text Filled           : 0 of 0 images
+ Author Suggestions        : 29 (all pending review)
+ AI Enrichment Mode        : AI available for this run
+ Overall Status            : WARNING (issues remain — manual review required)
+--------------------------------------------------------------------------------
+
+PRE-CLEAN CORRECTIONS APPLIED
+--------------------------------------------------------------------------------
+ Structural Pre-fixes       : 0 files modified, 0 failed
+ Zone 1 Auto-fixes         : 0 applied
+--------------------------------------------------------------------------------
+
+POST ENRICHMENT & VALIDATION (4-gate DITA 2.x validation)
+--------------------------------------------------------------------------------
+ Files validated           : 71
+ Files with violations     : 3
+ Total violations          : 3  (0 ERROR, 3 WARNING)
+   Gate 1 (vocabulary)     : 0
+   Gate 2 (structure)      : 3
+   Gate 3 (content model)  : 0
+   Gate 4 (attributes)     : 0
+ Fix passes applied        : Pass 1 — 33 fixes / 3 files
+--------------------------------------------------------------------------------
+ MANUAL ACTION REQUIRED — please review before packaging
+--------------------------------------------------------------------------------
+
+ 1. Add product name to all 63 files            [HIGH PRIORITY]
+    No product name could be determined automatically.
+    Every topic's <prodname> field is currently empty.
+
+ 2. Review 29 pending author suggestions before final packaging:
+      table_missing_title             9
+      missing_steps                   9
+      table_col_mismatch              5
+      step_empty_cmd                  3
+      dtd_violation                   3
+
+ 3. 46 structural issues remain open after enrichment:
+      table_col_mismatch              25
+      table_missing_title             12
+      missing_steps                   9
+      step_empty_cmd                  9
+
+--------------------------------------------------------------------------------
+
+SUPPORTING REPORTS (aienrichment folder)
+--------------------------------------------------------------------------------
+ File                                Contents
+--------------------------------------------------------------------------------
+ pre_enrichment.json                 File inventory, structural-issue scan, and
+                                      initial 4-gate DITA validation.
+ post_enrichment.json                Full per-file enrichment results, quality
+                                      metrics and validation fixes.
+ author_suggestions.json             All 29 author suggestions listed above,
+                                      with file, line, and suggested fix.
+ topic_inference_map.json            Per-topic classification detail — type,
+                                      confidence, and reasoning for every file.
+ ai_enrichment_full.log              Full technical run log (all layers, all
+                                      files) — for troubleshooting use only.
+--------------------------------------------------------------------------------

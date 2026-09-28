@@ -1,0 +1,2575 @@
+{
+  "Adjusting Print Quality": {
+    "topic_type": "task",
+    "confidence": "low",
+    "reasoning": "Heuristic fallback due to API error",
+    "ontology_hints": {},
+    "semantic_signals": {
+      "structural_signals": {
+        "heading_depth": 1,
+        "parent_title": "",
+        "position_in_doc": 0.0,
+        "paragraph_count": 1,
+        "step_list_count": 0,
+        "table_count": 0,
+        "has_code_block": false
+      },
+      "lexical_signals": {
+        "task_verb_hits": 2,
+        "concept_pattern_hits": 0,
+        "reference_pattern_hits": 0,
+        "imperative_sentence_ratio": 0.0,
+        "avg_paragraph_length_words": 47
+      },
+      "context_frame": "procedural",
+      "keyword_set": [
+        "Adjusting",
+        "Print",
+        "Quality",
+        "print",
+        "need",
+        "clean",
+        "head",
+        "your",
+        "quality",
+        "declines",
+        "utility",
+        "align"
+      ],
+      "compact_excerpt": "Adjusting Print Quality If your print quality declines, you may need to run a utility to clean or align the print head. If running these utilities does not solve the problem, you may need to run a Power Cleaning or clean the paper or print head path."
+    },
+    "classified_at": 1790571704.5069675
+  },
+  "Checking the Nozzles Using a Computer Utility": {
+    "topic_type": "task",
+    "confidence": "low",
+    "reasoning": "Heuristic fallback due to API error",
+    "ontology_hints": {},
+    "semantic_signals": {
+      "structural_signals": {
+        "heading_depth": 1,
+        "parent_title": "",
+        "position_in_doc": 0.032,
+        "paragraph_count": 1,
+        "step_list_count": 0,
+        "table_count": 0,
+        "has_code_block": false
+      },
+      "lexical_signals": {
+        "task_verb_hits": 14,
+        "concept_pattern_hits": 8,
+        "reference_pattern_hits": 0,
+        "imperative_sentence_ratio": 0.176,
+        "avg_paragraph_length_words": 298
+      },
+      "context_frame": "descriptive",
+      "keyword_set": [
+        "placeholder",
+        "head",
+        "Print",
+        "Utility",
+        "click",
+        "Checking",
+        "Nozzles",
+        "Using",
+        "Computer",
+        "print",
+        "Windows",
+        "there"
+      ],
+      "compact_excerpt": "Checking the Nozzles Using a Computer Utility You can check the print head nozzles using a utility on your Windows or Mac computer. Make sure there are no errors on the LCD screen and the output tray is extended. Load a few sheets of plain paper in the product. Do one of the following: Windows: Access the Windows Desktop and right-click the icon for your product in the right side of the Windows ta"
+    },
+    "classified_at": 1790571704.590237
+  },
+  "Checking the Nozzles Using the Product Control Panel": {
+    "topic_type": "concept",
+    "confidence": "low",
+    "reasoning": "Heuristic fallback due to API error",
+    "ontology_hints": {},
+    "semantic_signals": {
+      "structural_signals": {
+        "heading_depth": 1,
+        "parent_title": "",
+        "position_in_doc": 0.048,
+        "paragraph_count": 1,
+        "step_list_count": 0,
+        "table_count": 0,
+        "has_code_block": false
+      },
+      "lexical_signals": {
+        "task_verb_hits": 8,
+        "concept_pattern_hits": 11,
+        "reference_pattern_hits": 0,
+        "imperative_sentence_ratio": 0.105,
+        "avg_paragraph_length_words": 230
+      },
+      "context_frame": "descriptive",
+      "keyword_set": [
+        "head",
+        "print",
+        "placeholder",
+        "button",
+        "Checking",
+        "Nozzles",
+        "Using",
+        "Product",
+        "Control",
+        "Panel",
+        "there",
+        "check"
+      ],
+      "compact_excerpt": "Checking the Nozzles Using the Product Control Panel You can check the print head nozzles using the control panel on your product. Make sure there are no errors on the LCD screen and the output tray is extended. Load a few sheets of plain paper in the product. Press the home button, if necessary. placeholder Select Maintenance > Nozzle Check . Press the start button to print. The nozzle check patt"
+    },
+    "classified_at": 1790571704.598907
+  },
+  "Checking the Number of Sheets Fed": {
+    "topic_type": "concept",
+    "confidence": "low",
+    "reasoning": "Heuristic fallback due to API error",
+    "ontology_hints": {},
+    "semantic_signals": {
+      "structural_signals": {
+        "heading_depth": 1,
+        "parent_title": "",
+        "position_in_doc": 0.064,
+        "paragraph_count": 1,
+        "step_list_count": 0,
+        "table_count": 0,
+        "has_code_block": false
+      },
+      "lexical_signals": {
+        "task_verb_hits": 0,
+        "concept_pattern_hits": 0,
+        "reference_pattern_hits": 0,
+        "imperative_sentence_ratio": 0.0,
+        "avg_paragraph_length_words": 44
+      },
+      "context_frame": "descriptive",
+      "keyword_set": [
+        "Checking",
+        "Number",
+        "Sheets",
+        "Fed",
+        "You",
+        "view",
+        "number",
+        "sheets",
+        "paper",
+        "through",
+        "product",
+        "option"
+      ],
+      "compact_excerpt": "Checking the Number of Sheets Fed You can view an option that displays the number of sheets of paper that have fed through the product. You can also view the number of sheets of paper fed through the product by printing a nozzle check."
+    },
+    "classified_at": 1790571704.6037621
+  },
+  "Aligning the Print Head Using the Product Control Panel": {
+    "topic_type": "task",
+    "confidence": "low",
+    "reasoning": "Heuristic fallback due to API error",
+    "ontology_hints": {},
+    "semantic_signals": {
+      "structural_signals": {
+        "heading_depth": 1,
+        "parent_title": "",
+        "position_in_doc": 0.016,
+        "paragraph_count": 1,
+        "step_list_count": 0,
+        "table_count": 0,
+        "has_code_block": false
+      },
+      "lexical_signals": {
+        "task_verb_hits": 6,
+        "concept_pattern_hits": 4,
+        "reference_pattern_hits": 0,
+        "imperative_sentence_ratio": 0.083,
+        "avg_paragraph_length_words": 142
+      },
+      "context_frame": "descriptive",
+      "keyword_set": [
+        "placeholder",
+        "Print",
+        "Head",
+        "button",
+        "Alignment",
+        "Aligning",
+        "Using",
+        "Product",
+        "Control",
+        "Panel",
+        "Press",
+        "Select"
+      ],
+      "compact_excerpt": "Aligning the Print Head Using the Product Control Panel You can align the print head using the control panel on your product. Make sure there are no errors on the LCD screen and the output tray is extended. Load a few sheets of plain paper in the product. Press the home button, if necessary. placeholder Select Maintenance > Print Head Alignment . Do one of the following: Select Vertical Alignment "
+    },
+    "classified_at": 1790571704.6133249
+  },
+  "Checking the Number of Sheets on the LCD Screen": {
+    "topic_type": "task",
+    "confidence": "low",
+    "reasoning": "Heuristic fallback due to API error",
+    "ontology_hints": {},
+    "semantic_signals": {
+      "structural_signals": {
+        "heading_depth": 1,
+        "parent_title": "",
+        "position_in_doc": 0.079,
+        "paragraph_count": 1,
+        "step_list_count": 0,
+        "table_count": 0,
+        "has_code_block": false
+      },
+      "lexical_signals": {
+        "task_verb_hits": 1,
+        "concept_pattern_hits": 0,
+        "reference_pattern_hits": 0,
+        "imperative_sentence_ratio": 0.0,
+        "avg_paragraph_length_words": 44
+      },
+      "context_frame": "descriptive",
+      "keyword_set": [
+        "Checking",
+        "Number",
+        "Sheets",
+        "LCD",
+        "Screen",
+        "prints",
+        "view",
+        "number",
+        "You",
+        "total",
+        "black",
+        "white"
+      ],
+      "compact_excerpt": "Checking the Number of Sheets on the LCD Screen You can view the total number of prints, black-and-white prints, and color prints that have been printed. Press the home button, if necessary. placeholder Select Settings > Print Counter to view the number of prints."
+    },
+    "classified_at": 1790571704.7930577
+  },
+  "Checking the Sheet Counter - Mac": {
+    "topic_type": "task",
+    "confidence": "low",
+    "reasoning": "Heuristic fallback due to API error",
+    "ontology_hints": {},
+    "semantic_signals": {
+      "structural_signals": {
+        "heading_depth": 1,
+        "parent_title": "",
+        "position_in_doc": 0.095,
+        "paragraph_count": 1,
+        "step_list_count": 0,
+        "table_count": 0,
+        "has_code_block": false
+      },
+      "lexical_signals": {
+        "task_verb_hits": 10,
+        "concept_pattern_hits": 0,
+        "reference_pattern_hits": 0,
+        "imperative_sentence_ratio": 0.5,
+        "avg_paragraph_length_words": 76
+      },
+      "context_frame": "procedural",
+      "keyword_set": [
+        "Checking",
+        "Sheet",
+        "Counter",
+        "Mac",
+        "select",
+        "Select",
+        "Print",
+        "Utility",
+        "Printer",
+        "window",
+        "placeholder",
+        "Apple"
+      ],
+      "compact_excerpt": "Checking the Sheet Counter - Mac In the Apple menu or the Dock, select System Preferences . Select Print & Fax , Print & Scan , or Printers & Scanners , select your product, and select Options & Supplies . Select Utility and select Open Printer Utility . Select Printer and Option Information . You see this window: placeholder placeholder After checking the number of sheets fed into the printer, cl"
+    },
+    "classified_at": 1790571704.8800333
+  },
+  "Cleaning the Paper Guide": {
+    "topic_type": "task",
+    "confidence": "low",
+    "reasoning": "Heuristic fallback due to API error",
+    "ontology_hints": {},
+    "semantic_signals": {
+      "structural_signals": {
+        "heading_depth": 1,
+        "parent_title": "",
+        "position_in_doc": 0.127,
+        "paragraph_count": 1,
+        "step_list_count": 0,
+        "table_count": 0,
+        "has_code_block": false
+      },
+      "lexical_signals": {
+        "task_verb_hits": 5,
+        "concept_pattern_hits": 3,
+        "reference_pattern_hits": 0,
+        "imperative_sentence_ratio": 0.062,
+        "avg_paragraph_length_words": 202
+      },
+      "context_frame": "descriptive",
+      "keyword_set": [
+        "paper",
+        "placeholder",
+        "Cleaning",
+        "Paper",
+        "Guide",
+        "clean",
+        "scanner",
+        "unit",
+        "product",
+        "guide",
+        "smeared",
+        "inches"
+      ],
+      "compact_excerpt": "Cleaning the Paper Guide If you see ink on the back of a printout, you can clean the paper guide rollers to remove any excess ink. If printouts are smeared or scuffed, load plain paper in this size: Letter (8.5 \u00d7 11 inches [216 \u00d7 279 mm]) or A4 (8.3 \u00d7 11.7 inches [210 \u00d7 297 mm]). Select Maintenance > Paper Guide Cleaning . Follow the on-screen instructions to clean the paper guide. Repeat these st"
+    },
+    "classified_at": 1790571704.8907042
+  },
+  "Checking the Sheet Counter - Windows": {
+    "topic_type": "task",
+    "confidence": "low",
+    "reasoning": "Heuristic fallback due to API error",
+    "ontology_hints": {},
+    "semantic_signals": {
+      "structural_signals": {
+        "heading_depth": 1,
+        "parent_title": "",
+        "position_in_doc": 0.111,
+        "paragraph_count": 1,
+        "step_list_count": 0,
+        "table_count": 0,
+        "has_code_block": false
+      },
+      "lexical_signals": {
+        "task_verb_hits": 6,
+        "concept_pattern_hits": 2,
+        "reference_pattern_hits": 0,
+        "imperative_sentence_ratio": 0.25,
+        "avg_paragraph_length_words": 105
+      },
+      "context_frame": "procedural",
+      "keyword_set": [
+        "Windows",
+        "Checking",
+        "Sheet",
+        "Counter",
+        "click",
+        "placeholder",
+        "number",
+        "sheets",
+        "right",
+        "You",
+        "product",
+        "checking"
+      ],
+      "compact_excerpt": "Checking the Sheet Counter - Windows You can check the number of sheets of paper that have fed through the product by checking the sheet counter. Access the Windows Desktop and right-click the icon for your product in the right side of the Windows taskbar, or click the up arrow and right-click placeholder . placeholder Select Printer Settings . Click the Maintenance tab. Select Printer and Option "
+    },
+    "classified_at": 1790571704.8975394
+  },
+  "Cleaning the Print Head Path": {
+    "topic_type": "task",
+    "confidence": "low",
+    "reasoning": "Heuristic fallback due to API error",
+    "ontology_hints": {},
+    "semantic_signals": {
+      "structural_signals": {
+        "heading_depth": 1,
+        "parent_title": "",
+        "position_in_doc": 0.143,
+        "paragraph_count": 1,
+        "step_list_count": 0,
+        "table_count": 0,
+        "has_code_block": false
+      },
+      "lexical_signals": {
+        "task_verb_hits": 4,
+        "concept_pattern_hits": 2,
+        "reference_pattern_hits": 0,
+        "imperative_sentence_ratio": 0.042,
+        "avg_paragraph_length_words": 324
+      },
+      "context_frame": "descriptive",
+      "keyword_set": [
+        "placeholder",
+        "print",
+        "head",
+        "film",
+        "product",
+        "Print",
+        "translucent",
+        "Cleaning",
+        "Head",
+        "Path",
+        "path",
+        "clean"
+      ],
+      "compact_excerpt": "Cleaning the Print Head Path If the print quality has not improved after cleaning and aligning the print head and cleaning the paper path, the print head path inside the printer may be smeared with ink. To clean the print head path, use the following: Several cotton swabs \u00bc cup (59 ml) water containing 2 to 3 drops of mild dish detergent A small flashlight Do not use any other liquid to clean the "
+    },
+    "classified_at": 1790571704.904087
+  },
+  "Cleaning the Print Head Using a Computer Utility": {
+    "topic_type": "task",
+    "confidence": "low",
+    "reasoning": "Heuristic fallback due to API error",
+    "ontology_hints": {},
+    "semantic_signals": {
+      "structural_signals": {
+        "heading_depth": 1,
+        "parent_title": "",
+        "position_in_doc": 0.159,
+        "paragraph_count": 1,
+        "step_list_count": 0,
+        "table_count": 0,
+        "has_code_block": false
+      },
+      "lexical_signals": {
+        "task_verb_hits": 18,
+        "concept_pattern_hits": 11,
+        "reference_pattern_hits": 0,
+        "imperative_sentence_ratio": 0.15,
+        "avg_paragraph_length_words": 368
+      },
+      "context_frame": "descriptive",
+      "keyword_set": [
+        "placeholder",
+        "Print",
+        "Cleaning",
+        "head",
+        "click",
+        "cleaning",
+        "Utility",
+        "print",
+        "Head",
+        "product",
+        "cycle",
+        "Using"
+      ],
+      "compact_excerpt": "Cleaning the Print Head Using a Computer Utility You can clean the print head using a utility on your Windows or Mac computer. Make sure there are no errors on the LCD screen and the output tray is extended. Load a few sheets of plain paper in the product. Do one of the following: Windows: Access the Windows Desktop and right-click the icon for your product in the right side of the Windows taskbar"
+    },
+    "classified_at": 1790571705.0543725
+  },
+  "Cleaning the Print Head Using the Product Control Panel": {
+    "topic_type": "task",
+    "confidence": "low",
+    "reasoning": "Heuristic fallback due to API error",
+    "ontology_hints": {},
+    "semantic_signals": {
+      "structural_signals": {
+        "heading_depth": 1,
+        "parent_title": "",
+        "position_in_doc": 0.175,
+        "paragraph_count": 1,
+        "step_list_count": 0,
+        "table_count": 0,
+        "has_code_block": false
+      },
+      "lexical_signals": {
+        "task_verb_hits": 9,
+        "concept_pattern_hits": 11,
+        "reference_pattern_hits": 0,
+        "imperative_sentence_ratio": 0.05,
+        "avg_paragraph_length_words": 326
+      },
+      "context_frame": "descriptive",
+      "keyword_set": [
+        "placeholder",
+        "head",
+        "Cleaning",
+        "cleaning",
+        "Print",
+        "print",
+        "Head",
+        "clean",
+        "button",
+        "cycle",
+        "Using",
+        "Product"
+      ],
+      "compact_excerpt": "Cleaning the Print Head Using the Product Control Panel You can clean the print head nozzles using the control panel on your product. Make sure there are no errors on the LCD screen and the output tray is extended. Load a few sheets of plain paper in the product. Press the home button, if necessary. placeholder Select Maintenance > Head Cleaning . placeholder placeholder Press the start button to "
+    },
+    "classified_at": 1790571705.154995
+  },
+  "Power Cleaning Using a Computer Utility": {
+    "topic_type": "task",
+    "confidence": "low",
+    "reasoning": "Heuristic fallback due to API error",
+    "ontology_hints": {},
+    "semantic_signals": {
+      "structural_signals": {
+        "heading_depth": 1,
+        "parent_title": "",
+        "position_in_doc": 0.206,
+        "paragraph_count": 1,
+        "step_list_count": 0,
+        "table_count": 0,
+        "has_code_block": false
+      },
+      "lexical_signals": {
+        "task_verb_hits": 15,
+        "concept_pattern_hits": 3,
+        "reference_pattern_hits": 0,
+        "imperative_sentence_ratio": 0.312,
+        "avg_paragraph_length_words": 235
+      },
+      "context_frame": "procedural",
+      "keyword_set": [
+        "Cleaning",
+        "Power",
+        "Utility",
+        "Using",
+        "Computer",
+        "Windows",
+        "product",
+        "click",
+        "placeholder",
+        "Select",
+        "select",
+        "your"
+      ],
+      "compact_excerpt": "Power Cleaning Using a Computer Utility You can run a Power Cleaning using a utility on your Windows or Mac computer. After running a Power Cleaning, you must turn off the product and wait at least 12 hours before running another Power Cleaning. Make sure there are no errors on the LCD screen and the output tray is extended. Load a few sheets of plain paper in the product. Do one of the following:"
+    },
+    "classified_at": 1790571705.1795838
+  },
+  "Power Cleaning": {
+    "topic_type": "task",
+    "confidence": "low",
+    "reasoning": "Heuristic fallback due to API error",
+    "ontology_hints": {},
+    "semantic_signals": {
+      "structural_signals": {
+        "heading_depth": 1,
+        "parent_title": "",
+        "position_in_doc": 0.191,
+        "paragraph_count": 1,
+        "step_list_count": 0,
+        "table_count": 0,
+        "has_code_block": false
+      },
+      "lexical_signals": {
+        "task_verb_hits": 2,
+        "concept_pattern_hits": 1,
+        "reference_pattern_hits": 0,
+        "imperative_sentence_ratio": 0.0,
+        "avg_paragraph_length_words": 128
+      },
+      "context_frame": "descriptive",
+      "keyword_set": [
+        "Power",
+        "Cleaning",
+        "running",
+        "product",
+        "after",
+        "least",
+        "before",
+        "still",
+        "white",
+        "dark",
+        "lines",
+        "missing"
+      ],
+      "compact_excerpt": "Power Cleaning If you still see white or dark lines or missing nozzles in your printouts, even after cleaning the print head several times, you can run a Power Cleaning. If you do not see improvement after running a Power Cleaning, turn off the product and wait at least 12 hours before running another Power Cleaning. Running a Power Cleaning consumes a lot of ink, so you should run it only if nece"
+    },
+    "classified_at": 1790571705.1977763
+  },
+  "Power Cleaning Using the Product Control Panel": {
+    "topic_type": "task",
+    "confidence": "low",
+    "reasoning": "Heuristic fallback due to API error",
+    "ontology_hints": {},
+    "semantic_signals": {
+      "structural_signals": {
+        "heading_depth": 1,
+        "parent_title": "",
+        "position_in_doc": 0.222,
+        "paragraph_count": 1,
+        "step_list_count": 0,
+        "table_count": 0,
+        "has_code_block": false
+      },
+      "lexical_signals": {
+        "task_verb_hits": 6,
+        "concept_pattern_hits": 7,
+        "reference_pattern_hits": 0,
+        "imperative_sentence_ratio": 0.071,
+        "avg_paragraph_length_words": 187
+      },
+      "context_frame": "descriptive",
+      "keyword_set": [
+        "Cleaning",
+        "Power",
+        "Using",
+        "Product",
+        "Control",
+        "Panel",
+        "product",
+        "least",
+        "running",
+        "check",
+        "turn",
+        "wait"
+      ],
+      "compact_excerpt": "Power Cleaning Using the Product Control Panel You can run a Power Cleaning using the control panel on your product. After a Power Cleaning, you must turn off the product and wait at least 12 hours before running another Power Cleaning. Make sure there are no errors on the LCD screen and the output tray is extended. Visually check the ink levels and make sure each ink tank is at least one-third fu"
+    },
+    "classified_at": 1790571705.2052464
+  },
+  "Print Head Alignment": {
+    "topic_type": "topic",
+    "confidence": "low",
+    "reasoning": "Heuristic fallback due to API error",
+    "ontology_hints": {},
+    "semantic_signals": {
+      "structural_signals": {
+        "heading_depth": 1,
+        "parent_title": "",
+        "position_in_doc": 0.238,
+        "paragraph_count": 1,
+        "step_list_count": 0,
+        "table_count": 0,
+        "has_code_block": false
+      },
+      "lexical_signals": {
+        "task_verb_hits": 0,
+        "concept_pattern_hits": 0,
+        "reference_pattern_hits": 0,
+        "imperative_sentence_ratio": 0.0,
+        "avg_paragraph_length_words": 43
+      },
+      "context_frame": "descriptive",
+      "keyword_set": [
+        "Print",
+        "Head",
+        "Alignment",
+        "your",
+        "need",
+        "print",
+        "head",
+        "printouts",
+        "become",
+        "grainy",
+        "blurry",
+        "notice"
+      ],
+      "compact_excerpt": "Print Head Alignment If your printouts become grainy or blurry, you notice misalignment of vertical lines, or you see dark or light horizontal bands, you may need to align the print head. Banding may also occur if your print head nozzles need cleaning."
+    },
+    "classified_at": 1790571705.3108761
+  },
+  "Print Head Cleaning": {
+    "topic_type": "concept",
+    "confidence": "low",
+    "reasoning": "Heuristic fallback due to API error",
+    "ontology_hints": {},
+    "semantic_signals": {
+      "structural_signals": {
+        "heading_depth": 1,
+        "parent_title": "",
+        "position_in_doc": 0.254,
+        "paragraph_count": 1,
+        "step_list_count": 0,
+        "table_count": 0,
+        "has_code_block": false
+      },
+      "lexical_signals": {
+        "task_verb_hits": 0,
+        "concept_pattern_hits": 1,
+        "reference_pattern_hits": 0,
+        "imperative_sentence_ratio": 0.0,
+        "avg_paragraph_length_words": 67
+      },
+      "context_frame": "descriptive",
+      "keyword_set": [
+        "Print",
+        "Head",
+        "Cleaning",
+        "print",
+        "clean",
+        "head",
+        "You",
+        "level",
+        "tank",
+        "quality",
+        "declined",
+        "nozzle"
+      ],
+      "compact_excerpt": "Print Head Cleaning If print quality has declined and the nozzle check pattern indicates clogged nozzles, you can clean the print head. You cannot clean the print head if the ink level has reached the lower line on the ink tank, and may not be able to clean it when the ink level in any of the tanks is low. You must refill the ink tank first."
+    },
+    "classified_at": 1790571705.441483
+  },
+  "Print Head Maintenance": {
+    "topic_type": "task",
+    "confidence": "low",
+    "reasoning": "Heuristic fallback due to API error",
+    "ontology_hints": {},
+    "semantic_signals": {
+      "structural_signals": {
+        "heading_depth": 1,
+        "parent_title": "",
+        "position_in_doc": 0.27,
+        "paragraph_count": 1,
+        "step_list_count": 0,
+        "table_count": 0,
+        "has_code_block": false
+      },
+      "lexical_signals": {
+        "task_verb_hits": 1,
+        "concept_pattern_hits": 1,
+        "reference_pattern_hits": 0,
+        "imperative_sentence_ratio": 0.0,
+        "avg_paragraph_length_words": 127
+      },
+      "context_frame": "descriptive",
+      "keyword_set": [
+        "clean",
+        "Print",
+        "Head",
+        "Maintenance",
+        "print",
+        "them",
+        "head",
+        "nozzles",
+        "You",
+        "your",
+        "printouts",
+        "light"
+      ],
+      "compact_excerpt": "Print Head Maintenance If your printouts become too light, or you see dark or light bands across them, you may need to clean the print head nozzles. Cleaning uses ink, so clean the nozzles only if print quality declines. You can check for clogged nozzles before you clean them so you don\u2019t clean them unnecessarily. You cannot clean the print head if the ink level has reached the lower line on the i"
+    },
+    "classified_at": 1790571705.474306
+  },
+  "Print Head Nozzle Check": {
+    "topic_type": "topic",
+    "confidence": "low",
+    "reasoning": "Heuristic fallback due to API error",
+    "ontology_hints": {},
+    "semantic_signals": {
+      "structural_signals": {
+        "heading_depth": 1,
+        "parent_title": "",
+        "position_in_doc": 0.286,
+        "paragraph_count": 1,
+        "step_list_count": 0,
+        "table_count": 0,
+        "has_code_block": false
+      },
+      "lexical_signals": {
+        "task_verb_hits": 0,
+        "concept_pattern_hits": 0,
+        "reference_pattern_hits": 0,
+        "imperative_sentence_ratio": 0.0,
+        "avg_paragraph_length_words": 16
+      },
+      "context_frame": "descriptive",
+      "keyword_set": [
+        "Print",
+        "Head",
+        "Nozzle",
+        "Check",
+        "check",
+        "You",
+        "print",
+        "nozzle",
+        "pattern",
+        "clogged",
+        "nozzles"
+      ],
+      "compact_excerpt": "Print Head Nozzle Check You can print a nozzle check pattern to check for clogged nozzles."
+    },
+    "classified_at": 1790571705.4813797
+  },
+  "Cleaning and Transporting Your Product": {
+    "topic_type": "topic",
+    "confidence": "low",
+    "reasoning": "Heuristic fallback due to API error",
+    "ontology_hints": {},
+    "semantic_signals": {
+      "structural_signals": {
+        "heading_depth": 1,
+        "parent_title": "",
+        "position_in_doc": 0.302,
+        "paragraph_count": 1,
+        "step_list_count": 0,
+        "table_count": 0,
+        "has_code_block": false
+      },
+      "lexical_signals": {
+        "task_verb_hits": 0,
+        "concept_pattern_hits": 0,
+        "reference_pattern_hits": 0,
+        "imperative_sentence_ratio": 0.0,
+        "avg_paragraph_length_words": 17
+      },
+      "context_frame": "descriptive",
+      "keyword_set": [
+        "Cleaning",
+        "Transporting",
+        "Your",
+        "Product",
+        "See",
+        "these",
+        "sections",
+        "need",
+        "clean",
+        "transport",
+        "your",
+        "product"
+      ],
+      "compact_excerpt": "Cleaning and Transporting Your Product See these sections if you need to clean or transport your product."
+    },
+    "classified_at": 1790571705.4898114
+  },
+  "Cleaning Your Product": {
+    "topic_type": "task",
+    "confidence": "low",
+    "reasoning": "Heuristic fallback due to API error",
+    "ontology_hints": {},
+    "semantic_signals": {
+      "structural_signals": {
+        "heading_depth": 1,
+        "parent_title": "",
+        "position_in_doc": 0.318,
+        "paragraph_count": 1,
+        "step_list_count": 0,
+        "table_count": 0,
+        "has_code_block": false
+      },
+      "lexical_signals": {
+        "task_verb_hits": 4,
+        "concept_pattern_hits": 1,
+        "reference_pattern_hits": 0,
+        "imperative_sentence_ratio": 0.2,
+        "avg_paragraph_length_words": 166
+      },
+      "context_frame": "descriptive",
+      "keyword_set": [
+        "product",
+        "glass",
+        "Cleaning",
+        "Your",
+        "Product",
+        "clean",
+        "inside",
+        "soft",
+        "cloth",
+        "moistened",
+        "water",
+        "Clean"
+      ],
+      "compact_excerpt": "Cleaning Your Product To keep your product working at its best, you should clean it several times a year. Do not use a hard brush, alcohol, or paint thinner to clean the product or you may damage it. Do not use oil or other lubricants inside the product or let water get inside it. Do not touch the flat white cable, translucent film, or ink tubes inside the product. Turn off the product. Unplug the"
+    },
+    "classified_at": 1790571705.5686865
+  },
+  "Copyright Notice": {
+    "topic_type": "concept",
+    "confidence": "low",
+    "reasoning": "Heuristic fallback due to API error",
+    "ontology_hints": {},
+    "semantic_signals": {
+      "structural_signals": {
+        "heading_depth": 1,
+        "parent_title": "",
+        "position_in_doc": 0.333,
+        "paragraph_count": 1,
+        "step_list_count": 0,
+        "table_count": 0,
+        "has_code_block": false
+      },
+      "lexical_signals": {
+        "task_verb_hits": 0,
+        "concept_pattern_hits": 2,
+        "reference_pattern_hits": 0,
+        "imperative_sentence_ratio": 0.0,
+        "avg_paragraph_length_words": 68
+      },
+      "context_frame": "descriptive",
+      "keyword_set": [
+        "Copyright",
+        "Notice",
+        "MetR",
+        "information",
+        "All",
+        "rights",
+        "reserved",
+        "part",
+        "publication",
+        "reproduced",
+        "stored",
+        "retrieval"
+      ],
+      "compact_excerpt": "Copyright Notice All rights reserved. No part of this publication may be reproduced, stored in a retrieval system, or transmitted in any form or by any means, electronic, mechanical, photocopying, recording, or otherwise, without the prior written permission of MetR Corporation. The information contained herein isdesigned only for use with this MetR product. MetR is not responsible for any use of "
+    },
+    "classified_at": 1790571705.7189994
+  },
+  "Transporting Your Product": {
+    "topic_type": "task",
+    "confidence": "low",
+    "reasoning": "Heuristic fallback due to API error",
+    "ontology_hints": {},
+    "semantic_signals": {
+      "structural_signals": {
+        "heading_depth": 1,
+        "parent_title": "",
+        "position_in_doc": 0.349,
+        "paragraph_count": 1,
+        "step_list_count": 0,
+        "table_count": 0,
+        "has_code_block": false
+      },
+      "lexical_signals": {
+        "task_verb_hits": 7,
+        "concept_pattern_hits": 4,
+        "reference_pattern_hits": 0,
+        "imperative_sentence_ratio": 0.107,
+        "avg_paragraph_length_words": 407
+      },
+      "context_frame": "descriptive",
+      "keyword_set": [
+        "placeholder",
+        "product",
+        "print",
+        "your",
+        "head",
+        "Transporting",
+        "Your",
+        "Product",
+        "bottle",
+        "power",
+        "scanner",
+        "unit"
+      ],
+      "compact_excerpt": "Transporting Your Product If you need to store your product or transport it some distance, prepare it for transportation as described here. Caution : During transportation and storage, follow these guidelines: Avoid tilting the product, placing it vertically, or turning it upside down; otherwise ink may leak. placeholder placeholder When storing or transporting an ink bottle after it has been open"
+    },
+    "classified_at": 1790571705.7623894
+  },
+  "Copying": {
+    "topic_type": "topic",
+    "confidence": "low",
+    "reasoning": "Heuristic fallback due to API error",
+    "ontology_hints": {},
+    "semantic_signals": {
+      "structural_signals": {
+        "heading_depth": 1,
+        "parent_title": "",
+        "position_in_doc": 0.365,
+        "paragraph_count": 1,
+        "step_list_count": 0,
+        "table_count": 0,
+        "has_code_block": false
+      },
+      "lexical_signals": {
+        "task_verb_hits": 0,
+        "concept_pattern_hits": 0,
+        "reference_pattern_hits": 0,
+        "imperative_sentence_ratio": 0.0,
+        "avg_paragraph_length_words": 24
+      },
+      "context_frame": "descriptive",
+      "keyword_set": [
+        "Copying",
+        "your",
+        "See",
+        "information",
+        "here",
+        "copy",
+        "documents",
+        "photos",
+        "using",
+        "product",
+        "Copies",
+        "exactly"
+      ],
+      "compact_excerpt": "Copying See the information here to copy documents or photos using your product. Copies may not be exactly the same size as your originals."
+    },
+    "classified_at": 1790571705.769551
+  },
+  "Copying Documents or Photos": {
+    "topic_type": "task",
+    "confidence": "low",
+    "reasoning": "Heuristic fallback due to API error",
+    "ontology_hints": {},
+    "semantic_signals": {
+      "structural_signals": {
+        "heading_depth": 1,
+        "parent_title": "",
+        "position_in_doc": 0.381,
+        "paragraph_count": 1,
+        "step_list_count": 0,
+        "table_count": 0,
+        "has_code_block": false
+      },
+      "lexical_signals": {
+        "task_verb_hits": 6,
+        "concept_pattern_hits": 2,
+        "reference_pattern_hits": 0,
+        "imperative_sentence_ratio": 0.0,
+        "avg_paragraph_length_words": 192
+      },
+      "context_frame": "descriptive",
+      "keyword_set": [
+        "button",
+        "placeholder",
+        "press",
+        "Press",
+        "arrow",
+        "Copying",
+        "Documents",
+        "Photos",
+        "You",
+        "print",
+        "select",
+        "settings"
+      ],
+      "compact_excerpt": "Copying Documents or Photos You can copy documents or photos onto various sizes and types of paper, including MetR special papers. Load the paper you want to print on in the product. Place your original document or photo on the scanner glass. Press the home button, if necessary. placeholder Press the left or right arrow button to select Copy and press the OK button. You see this screen: placeholde"
+    },
+    "classified_at": 1790571705.7788265
+  },
+  "Copying Options": {
+    "topic_type": "task",
+    "confidence": "low",
+    "reasoning": "Heuristic fallback due to API error",
+    "ontology_hints": {},
+    "semantic_signals": {
+      "structural_signals": {
+        "heading_depth": 1,
+        "parent_title": "",
+        "position_in_doc": 0.397,
+        "paragraph_count": 1,
+        "step_list_count": 0,
+        "table_count": 0,
+        "has_code_block": false
+      },
+      "lexical_signals": {
+        "task_verb_hits": 3,
+        "concept_pattern_hits": 0,
+        "reference_pattern_hits": 0,
+        "imperative_sentence_ratio": 0.0,
+        "avg_paragraph_length_words": 164
+      },
+      "context_frame": "descriptive",
+      "keyword_set": [
+        "original",
+        "Copying",
+        "size",
+        "Options",
+        "Size",
+        "amount",
+        "Copies",
+        "Custom",
+        "Adjusts",
+        "onto",
+        "sheet",
+        "settings"
+      ],
+      "compact_excerpt": "Copying Options Copying option Available settings Description Reduce/Enlarge Actual Size Copies the original at its full size Auto Fit Automatically sizes the image to fit the paper size you selected Custom 100% and other conversions Displays the amount to re-size the original. Change the amount by adjusting the Custom Size setting. Custom Size 25 - 400 in 1% increments Adjusts the amount to re-si"
+    },
+    "classified_at": 1790571705.929387
+  },
+  "Borderless Paper Type Compatibility": {
+    "topic_type": "concept",
+    "confidence": "low",
+    "reasoning": "Heuristic fallback due to API error",
+    "ontology_hints": {},
+    "semantic_signals": {
+      "structural_signals": {
+        "heading_depth": 1,
+        "parent_title": "",
+        "position_in_doc": 0.413,
+        "paragraph_count": 1,
+        "step_list_count": 0,
+        "table_count": 0,
+        "has_code_block": false
+      },
+      "lexical_signals": {
+        "task_verb_hits": 0,
+        "concept_pattern_hits": 0,
+        "reference_pattern_hits": 0,
+        "imperative_sentence_ratio": 0.0,
+        "avg_paragraph_length_words": 113
+      },
+      "context_frame": "descriptive",
+      "keyword_set": [
+        "Paper",
+        "MetR",
+        "Borderless",
+        "Premium",
+        "Photo",
+        "inches",
+        "Type",
+        "Compatibility",
+        "Glossy",
+        "Presentation",
+        "Matte",
+        "compatible"
+      ],
+      "compact_excerpt": "Borderless Paper Type Compatibility You can print borderless photos on compatible paper types in compatible sizes: Borderless Paper Types MetR EcoTank Premium Paper MetR Bright White Pro Paper MetR Photo Paper Glossy MetR Premium Photo Paper Glossy MetR Ultra Premium Photo Paper Glossy MetR Premium Photo Paper Semi-gloss MetR Premium Presentation Paper Matte MetR Premium Presentation Paper Matte D"
+    },
+    "classified_at": 1790571706.002728
+  },
+  "Compatible MetR Papers": {
+    "topic_type": "concept",
+    "confidence": "low",
+    "reasoning": "Heuristic fallback due to API error",
+    "ontology_hints": {},
+    "semantic_signals": {
+      "structural_signals": {
+        "heading_depth": 1,
+        "parent_title": "",
+        "position_in_doc": 0.429,
+        "paragraph_count": 1,
+        "step_list_count": 0,
+        "table_count": 0,
+        "has_code_block": false
+      },
+      "lexical_signals": {
+        "task_verb_hits": 0,
+        "concept_pattern_hits": 0,
+        "reference_pattern_hits": 0,
+        "imperative_sentence_ratio": 0.0,
+        "avg_paragraph_length_words": 382
+      },
+      "context_frame": "descriptive",
+      "keyword_set": [
+        "inches",
+        "MetR",
+        "Paper",
+        "Letter",
+        "Premium",
+        "Photo",
+        "Compatible",
+        "Papers",
+        "Glossy",
+        "Presentation",
+        "Matte",
+        "You"
+      ],
+      "compact_excerpt": "Compatible MetR Papers You can purchase genuine MetR ink and paper at metR.com (U.S. sales) or metR.ca (Canadian sales). You can also purchase supplies from an MetR authorized reseller. To find the nearest one, call 800-GO-METR (800-463-7766) in the U.S. or 800-807-7766 in Canada. Paper/media availability varies by country. Paper Type Size Part number Sheet count MetR EcoTank Premium Paper Letter "
+    },
+    "classified_at": 1790571706.0458164
+  },
+  "Loading Paper": {
+    "topic_type": "topic",
+    "confidence": "low",
+    "reasoning": "Heuristic fallback due to API error",
+    "ontology_hints": {},
+    "semantic_signals": {
+      "structural_signals": {
+        "heading_depth": 1,
+        "parent_title": "",
+        "position_in_doc": 0.46,
+        "paragraph_count": 1,
+        "step_list_count": 0,
+        "table_count": 0,
+        "has_code_block": false
+      },
+      "lexical_signals": {
+        "task_verb_hits": 0,
+        "concept_pattern_hits": 0,
+        "reference_pattern_hits": 0,
+        "imperative_sentence_ratio": 0.0,
+        "avg_paragraph_length_words": 15
+      },
+      "context_frame": "descriptive",
+      "keyword_set": [
+        "Loading",
+        "Paper",
+        "Before",
+        "print",
+        "load",
+        "paper",
+        "type",
+        "printing"
+      ],
+      "compact_excerpt": "Loading Paper Before you print, load paper for the type of printing you will do."
+    },
+    "classified_at": 1790571706.0552237
+  },
+  "Double-sided Printing Capacity": {
+    "topic_type": "concept",
+    "confidence": "low",
+    "reasoning": "Heuristic fallback due to API error",
+    "ontology_hints": {},
+    "semantic_signals": {
+      "structural_signals": {
+        "heading_depth": 1,
+        "parent_title": "",
+        "position_in_doc": 0.444,
+        "paragraph_count": 1,
+        "step_list_count": 0,
+        "table_count": 0,
+        "has_code_block": false
+      },
+      "lexical_signals": {
+        "task_verb_hits": 0,
+        "concept_pattern_hits": 0,
+        "reference_pattern_hits": 0,
+        "imperative_sentence_ratio": 0.0,
+        "avg_paragraph_length_words": 221
+      },
+      "context_frame": "descriptive",
+      "keyword_set": [
+        "Paper",
+        "MetR",
+        "inches",
+        "Premium",
+        "Double",
+        "sided",
+        "paper",
+        "sheets",
+        "Photo",
+        "Printing",
+        "Capacity",
+        "Letter"
+      ],
+      "compact_excerpt": "Double-sided Printing Capacity You can print double-sided using Auto or Manual mode on the following paper types and sizes. Paper type Size Double-sided printing capacity Auto Manual Plain paper Copier paper Letterhead paper Letter (8.5 \u00d7 11 inches [216 \u00d7 279 mm]) or A4 (8.3 \u00d7 11.7 inches [210 \u00d7 297 mm]) 100 sheets 30 sheets , Executive (7.25 \u00d7 10.5 \u2014 30 sheets inches [184 \u00d7 267 mm]), Half Letter "
+    },
+    "classified_at": 1790571706.0644684
+  },
+  "Loading Paper in the Rear Paper Feeder": {
+    "topic_type": "concept",
+    "confidence": "low",
+    "reasoning": "Heuristic fallback due to API error",
+    "ontology_hints": {},
+    "semantic_signals": {
+      "structural_signals": {
+        "heading_depth": 1,
+        "parent_title": "",
+        "position_in_doc": 0.476,
+        "paragraph_count": 1,
+        "step_list_count": 0,
+        "table_count": 0,
+        "has_code_block": false
+      },
+      "lexical_signals": {
+        "task_verb_hits": 7,
+        "concept_pattern_hits": 11,
+        "reference_pattern_hits": 0,
+        "imperative_sentence_ratio": 0.0,
+        "avg_paragraph_length_words": 634
+      },
+      "context_frame": "descriptive",
+      "keyword_set": [
+        "paper",
+        "placeholder",
+        "edge",
+        "Paper",
+        "loading",
+        "printing",
+        "first",
+        "size",
+        "load",
+        "Load",
+        "long",
+        "letterhead"
+      ],
+      "compact_excerpt": "Loading Paper in the Rear Paper Feeder You can print documents and photos on a variety of paper types and sizes. Flip the feeder guard forward, then raise the paper support. placeholder placeholder placeholder placeholder Slide the edge guides out all the way. placeholder placeholder placeholder placeholder placeholder If you are inserting a stack of paper, fan the sheets first and tap the stack o"
+    },
+    "classified_at": 1790571706.1937854
+  },
+  "Paper Loading Capacity": {
+    "topic_type": "concept",
+    "confidence": "low",
+    "reasoning": "Heuristic fallback due to API error",
+    "ontology_hints": {},
+    "semantic_signals": {
+      "structural_signals": {
+        "heading_depth": 1,
+        "parent_title": "",
+        "position_in_doc": 0.492,
+        "paragraph_count": 1,
+        "step_list_count": 0,
+        "table_count": 0,
+        "has_code_block": false
+      },
+      "lexical_signals": {
+        "task_verb_hits": 0,
+        "concept_pattern_hits": 1,
+        "reference_pattern_hits": 0,
+        "imperative_sentence_ratio": 0.0,
+        "avg_paragraph_length_words": 274
+      },
+      "context_frame": "descriptive",
+      "keyword_set": [
+        "Paper",
+        "inches",
+        "MetR",
+        "Premium",
+        "Loading",
+        "paper",
+        "Photo",
+        "Capacity",
+        "Glossy",
+        "capacity",
+        "Letter",
+        "sheets"
+      ],
+      "compact_excerpt": "Paper Loading Capacity See the table here for the loading capacity of the rear paper feeder. Paper type Loading capacity Plain paper Copy paper Letterhead paper Letter (8.5 \u00d7 11 inches [216 \u00d7 279 mm]), Executive (7.25 \u00d7 10.5 inches [184 \u00d7 267 mm]), Half Letter (5.5 \u00d7 8.5 inches [140 \u00d7 216 mm]), A6 (4.1 \u00d7 5.8 inches [105 \u00d7 148 mm]), or A4 (8.3 \u00d7 11.7 inches [210 \u00d7 297 mm]): 100 sheets Legal (8.5 \u00d7 "
+    },
+    "classified_at": 1790571706.279088
+  },
+  "Paper or Media Type Settings - Control Panel": {
+    "topic_type": "task",
+    "confidence": "low",
+    "reasoning": "Heuristic fallback due to API error",
+    "ontology_hints": {},
+    "semantic_signals": {
+      "structural_signals": {
+        "heading_depth": 1,
+        "parent_title": "",
+        "position_in_doc": 0.508,
+        "paragraph_count": 1,
+        "step_list_count": 0,
+        "table_count": 0,
+        "has_code_block": false
+      },
+      "lexical_signals": {
+        "task_verb_hits": 1,
+        "concept_pattern_hits": 0,
+        "reference_pattern_hits": 0,
+        "imperative_sentence_ratio": 0.0,
+        "avg_paragraph_length_words": 98
+      },
+      "context_frame": "descriptive",
+      "keyword_set": [
+        "Paper",
+        "MetR",
+        "Premium",
+        "Glossy",
+        "Type",
+        "Media",
+        "Photo",
+        "Matte",
+        "Settings",
+        "Control",
+        "Panel",
+        "paper"
+      ],
+      "compact_excerpt": "Paper or Media Type Settings - Control Panel For this paper Select this paper Type or Media Type setting Plain paper MetR EcoTank Premium Paper MetR Bright White Pro Paper MetR Bright White Premium Paper MetR Multipurpose Plus Paper Plain Paper Letterhead paper Letterhead Envelopes Envelope MetR Ultra Premium Photo Paper Glossy Ultra Glossy MetR Premium Photo Paper Glossy MetR Value Photo Paper Gl"
+    },
+    "classified_at": 1790571706.326579
+  },
+  "Paper Source Settings Options": {
+    "topic_type": "task",
+    "confidence": "low",
+    "reasoning": "Heuristic fallback due to API error",
+    "ontology_hints": {},
+    "semantic_signals": {
+      "structural_signals": {
+        "heading_depth": 1,
+        "parent_title": "",
+        "position_in_doc": 0.54,
+        "paragraph_count": 1,
+        "step_list_count": 0,
+        "table_count": 0,
+        "has_code_block": false
+      },
+      "lexical_signals": {
+        "task_verb_hits": 6,
+        "concept_pattern_hits": 2,
+        "reference_pattern_hits": 0,
+        "imperative_sentence_ratio": 0.0,
+        "avg_paragraph_length_words": 137
+      },
+      "context_frame": "descriptive",
+      "keyword_set": [
+        "Paper",
+        "paper",
+        "Source",
+        "Settings",
+        "Select",
+        "size",
+        "Options",
+        "type",
+        "selected",
+        "Notice",
+        "source",
+        "print"
+      ],
+      "compact_excerpt": "Paper Source Settings Options Select the paper source options you want to use for your print jobs. Paper Source Settings option Available settings Description Paper Setting Various Select the paper size and type for each paper source A4/Letter Auto Switching On Select On to switch the selected paper size to match the loaded paper (Letter or A4) if the wrong size is selected Off Error Notice Paper "
+    },
+    "classified_at": 1790571706.3373961
+  },
+  "Paper or Media Type Settings - Printing Software": {
+    "topic_type": "task",
+    "confidence": "low",
+    "reasoning": "Heuristic fallback due to API error",
+    "ontology_hints": {},
+    "semantic_signals": {
+      "structural_signals": {
+        "heading_depth": 1,
+        "parent_title": "",
+        "position_in_doc": 0.524,
+        "paragraph_count": 1,
+        "step_list_count": 0,
+        "table_count": 0,
+        "has_code_block": false
+      },
+      "lexical_signals": {
+        "task_verb_hits": 2,
+        "concept_pattern_hits": 1,
+        "reference_pattern_hits": 0,
+        "imperative_sentence_ratio": 0.0,
+        "avg_paragraph_length_words": 147
+      },
+      "context_frame": "descriptive",
+      "keyword_set": [
+        "Paper",
+        "MetR",
+        "Premium",
+        "Photo",
+        "Type",
+        "Glossy",
+        "Media",
+        "paper",
+        "Presentation",
+        "Matte",
+        "Settings",
+        "Printing"
+      ],
+      "compact_excerpt": "Paper or Media Type Settings - Printing Software For this paper Select this paper Type or Media Type setting Plain paper MetR EcoTank Premium Paper MetR Bright White Pro Paper MetR Bright White Premium Paper MetR Multipurpose Plus Paper Plain Paper / Bright White Paper For this paper Select this paper Type or Media Type setting Letterhead paper Letterhead Envelopes Envelope MetR Ultra Premium Phot"
+    },
+    "classified_at": 1790571706.362648
+  },
+  "Selecting the Default Paper Source Settings": {
+    "topic_type": "task",
+    "confidence": "low",
+    "reasoning": "Heuristic fallback due to API error",
+    "ontology_hints": {},
+    "semantic_signals": {
+      "structural_signals": {
+        "heading_depth": 1,
+        "parent_title": "",
+        "position_in_doc": 0.556,
+        "paragraph_count": 1,
+        "step_list_count": 0,
+        "table_count": 0,
+        "has_code_block": false
+      },
+      "lexical_signals": {
+        "task_verb_hits": 5,
+        "concept_pattern_hits": 1,
+        "reference_pattern_hits": 0,
+        "imperative_sentence_ratio": 0.25,
+        "avg_paragraph_length_words": 112
+      },
+      "context_frame": "procedural",
+      "keyword_set": [
+        "Settings",
+        "Paper",
+        "Source",
+        "Selecting",
+        "Default",
+        "error",
+        "Select",
+        "occurs",
+        "home",
+        "button",
+        "placeholder",
+        "options"
+      ],
+      "compact_excerpt": "Selecting the Default Paper Source Settings You can change default paper source settings using the control panel on the product. Press the home button, if necessary. placeholder Select Settings > Printer Setup . Select Auto Error Solver and select one of these options: Turn on this setting to display a warning and print single-sided when a 2-sided printing error occurs, or to print only what the p"
+    },
+    "classified_at": 1790571706.4493556
+  },
+  "Selecting the Paper Settings - Control Panel": {
+    "topic_type": "task",
+    "confidence": "low",
+    "reasoning": "Heuristic fallback due to API error",
+    "ontology_hints": {},
+    "semantic_signals": {
+      "structural_signals": {
+        "heading_depth": 1,
+        "parent_title": "",
+        "position_in_doc": 0.571,
+        "paragraph_count": 1,
+        "step_list_count": 0,
+        "table_count": 0,
+        "has_code_block": false
+      },
+      "lexical_signals": {
+        "task_verb_hits": 7,
+        "concept_pattern_hits": 1,
+        "reference_pattern_hits": 0,
+        "imperative_sentence_ratio": 0.4,
+        "avg_paragraph_length_words": 99
+      },
+      "context_frame": "procedural",
+      "keyword_set": [
+        "Paper",
+        "Settings",
+        "Select",
+        "paper",
+        "Selecting",
+        "Control",
+        "Panel",
+        "placeholder",
+        "You",
+        "size",
+        "type",
+        "when"
+      ],
+      "compact_excerpt": "Selecting the Paper Settings - Control Panel You can change the default paper size and paper type using the control panel on the product. These settings appear automatically when paper is inserted when you set the Paper Setup Auto Display setting to On . Press the home button, if necessary. placeholder Select Settings > Printer Setup > Paper Source Settings > Paper Setting . You see a screen like "
+    },
+    "classified_at": 1790571706.5642095
+  },
+  "Placing Originals on the Product": {
+    "topic_type": "topic",
+    "confidence": "low",
+    "reasoning": "Heuristic fallback due to API error",
+    "ontology_hints": {},
+    "semantic_signals": {
+      "structural_signals": {
+        "heading_depth": 1,
+        "parent_title": "",
+        "position_in_doc": 0.587,
+        "paragraph_count": 1,
+        "step_list_count": 0,
+        "table_count": 0,
+        "has_code_block": false
+      },
+      "lexical_signals": {
+        "task_verb_hits": 0,
+        "concept_pattern_hits": 0,
+        "reference_pattern_hits": 0,
+        "imperative_sentence_ratio": 0.0,
+        "avg_paragraph_length_words": 40
+      },
+      "context_frame": "descriptive",
+      "keyword_set": [
+        "Placing",
+        "Originals",
+        "Product",
+        "place",
+        "your",
+        "product",
+        "Follow",
+        "instructions",
+        "here",
+        "original",
+        "documents",
+        "photos"
+      ],
+      "compact_excerpt": "Placing Originals on the Product Follow the instructions here to place your original documents or photos on the product. Do not place anything on top of your product or use its cover as a writing surface to avoid damaging it."
+    },
+    "classified_at": 1790571706.604458
+  },
+  "Placing Originals on the Scanner Glass": {
+    "topic_type": "task",
+    "confidence": "low",
+    "reasoning": "Heuristic fallback due to API error",
+    "ontology_hints": {},
+    "semantic_signals": {
+      "structural_signals": {
+        "heading_depth": 1,
+        "parent_title": "",
+        "position_in_doc": 0.603,
+        "paragraph_count": 1,
+        "step_list_count": 0,
+        "table_count": 0,
+        "has_code_block": false
+      },
+      "lexical_signals": {
+        "task_verb_hits": 5,
+        "concept_pattern_hits": 3,
+        "reference_pattern_hits": 0,
+        "imperative_sentence_ratio": 0.13,
+        "avg_paragraph_length_words": 281
+      },
+      "context_frame": "descriptive",
+      "keyword_set": [
+        "glass",
+        "scanner",
+        "placeholder",
+        "original",
+        "Originals",
+        "originals",
+        "your",
+        "Placing",
+        "Scanner",
+        "Glass",
+        "place",
+        "document"
+      ],
+      "compact_excerpt": "Placing Originals on the Scanner Glass You can place originals up to this size on the scanner glass: Letter (8.5 \u00d7 11 inches [216 \u00d7 279 mm]) or A4 (8.3 \u00d7 11.7 inches [210 \u00d7 297 mm]). To view animated instructions on how to place originals on the scanner glass, press the help button and select How To > Place Originals Open the document cover. If there is any dust or dirt on the scanner glass, the s"
+    },
+    "classified_at": 1790571706.6150715
+  },
+  "Changing LCD Screen Language": {
+    "topic_type": "task",
+    "confidence": "low",
+    "reasoning": "Heuristic fallback due to API error",
+    "ontology_hints": {},
+    "semantic_signals": {
+      "structural_signals": {
+        "heading_depth": 1,
+        "parent_title": "",
+        "position_in_doc": 0.619,
+        "paragraph_count": 1,
+        "step_list_count": 0,
+        "table_count": 0,
+        "has_code_block": false
+      },
+      "lexical_signals": {
+        "task_verb_hits": 2,
+        "concept_pattern_hits": 0,
+        "reference_pattern_hits": 0,
+        "imperative_sentence_ratio": 0.167,
+        "avg_paragraph_length_words": 44
+      },
+      "context_frame": "procedural",
+      "keyword_set": [
+        "LCD",
+        "Language",
+        "Changing",
+        "Screen",
+        "button",
+        "language",
+        "Press",
+        "home",
+        "placeholder",
+        "Select",
+        "You",
+        "change"
+      ],
+      "compact_excerpt": "Changing LCD Screen Language You can change the language used on the LCD screen. Press the home button, if necessary. placeholder Select Settings > Printer Setup > Language . Select a language and press the OK button. Press the home button to exit. placeholder"
+    },
+    "classified_at": 1790571706.65626
+  },
+  "Changing the Power Off Timer Setting from the Control Panel": {
+    "topic_type": "task",
+    "confidence": "low",
+    "reasoning": "Heuristic fallback due to API error",
+    "ontology_hints": {},
+    "semantic_signals": {
+      "structural_signals": {
+        "heading_depth": 1,
+        "parent_title": "",
+        "position_in_doc": 0.635,
+        "paragraph_count": 1,
+        "step_list_count": 0,
+        "table_count": 0,
+        "has_code_block": false
+      },
+      "lexical_signals": {
+        "task_verb_hits": 2,
+        "concept_pattern_hits": 1,
+        "reference_pattern_hits": 0,
+        "imperative_sentence_ratio": 0.143,
+        "avg_paragraph_length_words": 78
+      },
+      "context_frame": "descriptive",
+      "keyword_set": [
+        "Power",
+        "Off",
+        "Timer",
+        "Changing",
+        "Setting",
+        "Control",
+        "Panel",
+        "button",
+        "product",
+        "time",
+        "automatically",
+        "Press"
+      ],
+      "compact_excerpt": "Changing the Power Off Timer Setting from the Control Panel You can use the product's control panel to change the time period before the printer turns off automatically. Press the home button, if necessary. placeholder Select Settings > Printer Setup > Power Off Timer . Select the length of time after which you want the product to automatically turn off when it is not in use. Then press the OK but"
+    },
+    "classified_at": 1790571706.7257035
+  },
+  "Changing the Sleep Timer Setting from the Control Panel": {
+    "topic_type": "task",
+    "confidence": "low",
+    "reasoning": "Heuristic fallback due to API error",
+    "ontology_hints": {},
+    "semantic_signals": {
+      "structural_signals": {
+        "heading_depth": 1,
+        "parent_title": "",
+        "position_in_doc": 0.651,
+        "paragraph_count": 1,
+        "step_list_count": 0,
+        "table_count": 0,
+        "has_code_block": false
+      },
+      "lexical_signals": {
+        "task_verb_hits": 1,
+        "concept_pattern_hits": 0,
+        "reference_pattern_hits": 0,
+        "imperative_sentence_ratio": 0.0,
+        "avg_paragraph_length_words": 111
+      },
+      "context_frame": "descriptive",
+      "keyword_set": [
+        "Sleep",
+        "Timer",
+        "button",
+        "Changing",
+        "Setting",
+        "Control",
+        "Panel",
+        "product",
+        "before",
+        "Press",
+        "You",
+        "control"
+      ],
+      "compact_excerpt": "Changing the Sleep Timer Setting from the Control Panel You can use the product's control panel to change the time period before the product enters sleep mode. Press the home button, if necessary. placeholder Select Settings > Printer Setup > Sleep Timer . Press the left or right arrow button to move the cursor and press the up or down arrow button to adjust the number of minutes of inactivity bef"
+    },
+    "classified_at": 1790571706.8443742
+  },
+  "Entering Characters on the LCD Screen": {
+    "topic_type": "task",
+    "confidence": "low",
+    "reasoning": "Heuristic fallback due to API error",
+    "ontology_hints": {},
+    "semantic_signals": {
+      "structural_signals": {
+        "heading_depth": 1,
+        "parent_title": "",
+        "position_in_doc": 0.667,
+        "paragraph_count": 1,
+        "step_list_count": 0,
+        "table_count": 0,
+        "has_code_block": false
+      },
+      "lexical_signals": {
+        "task_verb_hits": 7,
+        "concept_pattern_hits": 0,
+        "reference_pattern_hits": 0,
+        "imperative_sentence_ratio": 0.0,
+        "avg_paragraph_length_words": 80
+      },
+      "context_frame": "procedural",
+      "keyword_set": [
+        "placeholder",
+        "Entering",
+        "Characters",
+        "LCD",
+        "Screen",
+        "select",
+        "press",
+        "characters",
+        "button",
+        "character",
+        "Follow",
+        "these"
+      ],
+      "compact_excerpt": "Entering Characters on the LCD Screen Follow these guidelines to enter characters for passwords and other settings. placeholder placeholder To scroll through the characters, press the arrow buttons. To make a selection, press the OK button. To change the character case or type, select A1# or press the reset button. placeholder To move the cursor to the left or right, select or placeholder . placeh"
+    },
+    "classified_at": 1790571706.8879728
+  },
+  "Product Basics": {
+    "topic_type": "topic",
+    "confidence": "low",
+    "reasoning": "Heuristic fallback due to API error",
+    "ontology_hints": {},
+    "semantic_signals": {
+      "structural_signals": {
+        "heading_depth": 1,
+        "parent_title": "",
+        "position_in_doc": 0.682,
+        "paragraph_count": 1,
+        "step_list_count": 0,
+        "table_count": 0,
+        "has_code_block": false
+      },
+      "lexical_signals": {
+        "task_verb_hits": 0,
+        "concept_pattern_hits": 0,
+        "reference_pattern_hits": 0,
+        "imperative_sentence_ratio": 0.0,
+        "avg_paragraph_length_words": 14
+      },
+      "context_frame": "descriptive",
+      "keyword_set": [
+        "Product",
+        "Basics",
+        "See",
+        "these",
+        "sections",
+        "learn",
+        "about",
+        "basic",
+        "features",
+        "your",
+        "product"
+      ],
+      "compact_excerpt": "Product Basics See these sections to learn about the basic features of your product."
+    },
+    "classified_at": 1790571706.8961759
+  },
+  "Product Parts - Back": {
+    "topic_type": "topic",
+    "confidence": "low",
+    "reasoning": "Heuristic fallback due to API error",
+    "ontology_hints": {},
+    "semantic_signals": {
+      "structural_signals": {
+        "heading_depth": 1,
+        "parent_title": "",
+        "position_in_doc": 0.698,
+        "paragraph_count": 1,
+        "step_list_count": 0,
+        "table_count": 0,
+        "has_code_block": false
+      },
+      "lexical_signals": {
+        "task_verb_hits": 0,
+        "concept_pattern_hits": 0,
+        "reference_pattern_hits": 0,
+        "imperative_sentence_ratio": 0.0,
+        "avg_paragraph_length_words": 21
+      },
+      "context_frame": "descriptive",
+      "keyword_set": [
+        "placeholder",
+        "Product",
+        "Parts",
+        "Back",
+        "Rear",
+        "cover",
+        "duplexer",
+        "AC",
+        "inlet",
+        "USB",
+        "port"
+      ],
+      "compact_excerpt": "Product Parts - Back placeholder placeholder placeholder placeholder placeholder placeholder placeholder placeholder placeholder placeholder Rear cover (duplexer) AC inlet USB port"
+    },
+    "classified_at": 1790571706.9525046
+  },
+  "Product Parts - Front": {
+    "topic_type": "topic",
+    "confidence": "low",
+    "reasoning": "Heuristic fallback due to API error",
+    "ontology_hints": {},
+    "semantic_signals": {
+      "structural_signals": {
+        "heading_depth": 1,
+        "parent_title": "",
+        "position_in_doc": 0.714,
+        "paragraph_count": 1,
+        "step_list_count": 0,
+        "table_count": 0,
+        "has_code_block": false
+      },
+      "lexical_signals": {
+        "task_verb_hits": 0,
+        "concept_pattern_hits": 0,
+        "reference_pattern_hits": 0,
+        "imperative_sentence_ratio": 0.0,
+        "avg_paragraph_length_words": 17
+      },
+      "context_frame": "descriptive",
+      "keyword_set": [
+        "Product",
+        "Parts",
+        "Front",
+        "placeholder",
+        "Rear",
+        "paper",
+        "feeder",
+        "Paper",
+        "support",
+        "Feeder",
+        "guard",
+        "Edge"
+      ],
+      "compact_excerpt": "Product Parts - Front placeholder placeholder Rear paper feeder Paper support Feeder guard Edge guides Output tray"
+    },
+    "classified_at": 1790571706.982759
+  },
+  "Product Parts - Inside": {
+    "topic_type": "topic",
+    "confidence": "low",
+    "reasoning": "Heuristic fallback due to API error",
+    "ontology_hints": {},
+    "semantic_signals": {
+      "structural_signals": {
+        "heading_depth": 1,
+        "parent_title": "",
+        "position_in_doc": 0.73,
+        "paragraph_count": 1,
+        "step_list_count": 0,
+        "table_count": 0,
+        "has_code_block": false
+      },
+      "lexical_signals": {
+        "task_verb_hits": 0,
+        "concept_pattern_hits": 0,
+        "reference_pattern_hits": 0,
+        "imperative_sentence_ratio": 0.0,
+        "avg_paragraph_length_words": 33
+      },
+      "context_frame": "descriptive",
+      "keyword_set": [
+        "placeholder",
+        "Product",
+        "Parts",
+        "Inside",
+        "Ink",
+        "cover",
+        "Scanner",
+        "unit",
+        "tank",
+        "Document",
+        "glass",
+        "Control"
+      ],
+      "compact_excerpt": "Product Parts - Inside placeholder placeholder placeholder placeholder placeholder placeholder placeholder placeholder placeholder Document cover Scanner glass Scanner unit Control panel placeholder placeholder Ink tank cover Ink tanks Ink tank unit Print head"
+    },
+    "classified_at": 1790571707.123487
+  },
+  "Product Parts Locations": {
+    "topic_type": "topic",
+    "confidence": "low",
+    "reasoning": "Heuristic fallback due to API error",
+    "ontology_hints": {},
+    "semantic_signals": {
+      "structural_signals": {
+        "heading_depth": 1,
+        "parent_title": "",
+        "position_in_doc": 0.746,
+        "paragraph_count": 1,
+        "step_list_count": 0,
+        "table_count": 0,
+        "has_code_block": false
+      },
+      "lexical_signals": {
+        "task_verb_hits": 0,
+        "concept_pattern_hits": 0,
+        "reference_pattern_hits": 0,
+        "imperative_sentence_ratio": 0.0,
+        "avg_paragraph_length_words": 13
+      },
+      "context_frame": "descriptive",
+      "keyword_set": [
+        "Product",
+        "Parts",
+        "Locations",
+        "See",
+        "these",
+        "sections",
+        "identify",
+        "parts",
+        "your",
+        "product"
+      ],
+      "compact_excerpt": "Product Parts Locations See these sections to identify the parts on your product."
+    },
+    "classified_at": 1790571707.163465
+  },
+  "Status Icon Information": {
+    "topic_type": "concept",
+    "confidence": "low",
+    "reasoning": "Heuristic fallback due to API error",
+    "ontology_hints": {},
+    "semantic_signals": {
+      "structural_signals": {
+        "heading_depth": 1,
+        "parent_title": "",
+        "position_in_doc": 0.762,
+        "paragraph_count": 1,
+        "step_list_count": 0,
+        "table_count": 0,
+        "has_code_block": false
+      },
+      "lexical_signals": {
+        "task_verb_hits": 0,
+        "concept_pattern_hits": 5,
+        "reference_pattern_hits": 0,
+        "imperative_sentence_ratio": 0.0,
+        "avg_paragraph_length_words": 78
+      },
+      "context_frame": "descriptive",
+      "keyword_set": [
+        "placeholder",
+        "product",
+        "Status",
+        "Icon",
+        "Information",
+        "wireless",
+        "network",
+        "status",
+        "connected",
+        "connection",
+        "Wi",
+        "Fi"
+      ],
+      "compact_excerpt": "Status Icon Information Your product displays status icons on the LCD screen for certain product status conditions. Icons Description placeholder placeholder The product is not connected to a wireless network. placeholder placeholder The product is searching for an SSID or experiencing a wireless network connection issue. placeholder placeholder The product is connected to a wireless network. The "
+    },
+    "classified_at": 1790571707.1841638
+  },
+  "The LCD Screen": {
+    "topic_type": "topic",
+    "confidence": "low",
+    "reasoning": "Heuristic fallback due to API error",
+    "ontology_hints": {},
+    "semantic_signals": {
+      "structural_signals": {
+        "heading_depth": 1,
+        "parent_title": "",
+        "position_in_doc": 0.778,
+        "paragraph_count": 1,
+        "step_list_count": 0,
+        "table_count": 0,
+        "has_code_block": false
+      },
+      "lexical_signals": {
+        "task_verb_hits": 0,
+        "concept_pattern_hits": 0,
+        "reference_pattern_hits": 0,
+        "imperative_sentence_ratio": 0.0,
+        "avg_paragraph_length_words": 26
+      },
+      "context_frame": "descriptive",
+      "keyword_set": [
+        "LCD",
+        "Screen",
+        "placeholder",
+        "The",
+        "Displays",
+        "button",
+        "network",
+        "connection",
+        "status",
+        "Press",
+        "arrow",
+        "scroll"
+      ],
+      "compact_excerpt": "The LCD Screen placeholder placeholder placeholder Displays the network connection status Press an arrow button to scroll left or right Menu options Displays available button actions"
+    },
+    "classified_at": 1790571707.229198
+  },
+  "Using Power Saving Settings": {
+    "topic_type": "task",
+    "confidence": "low",
+    "reasoning": "Heuristic fallback due to API error",
+    "ontology_hints": {},
+    "semantic_signals": {
+      "structural_signals": {
+        "heading_depth": 1,
+        "parent_title": "",
+        "position_in_doc": 0.794,
+        "paragraph_count": 1,
+        "step_list_count": 0,
+        "table_count": 0,
+        "has_code_block": false
+      },
+      "lexical_signals": {
+        "task_verb_hits": 1,
+        "concept_pattern_hits": 1,
+        "reference_pattern_hits": 0,
+        "imperative_sentence_ratio": 0.0,
+        "avg_paragraph_length_words": 42
+      },
+      "context_frame": "descriptive",
+      "keyword_set": [
+        "Using",
+        "Power",
+        "Saving",
+        "Settings",
+        "period",
+        "time",
+        "Your",
+        "product",
+        "enters",
+        "sleep",
+        "mode",
+        "automatically"
+      ],
+      "compact_excerpt": "Using Power Saving Settings Your product enters sleep mode automatically and turns off the LCD screen if it is not used for a period of time. You can make the time period shorter and select other options to save energy and resources."
+    },
+    "classified_at": 1790571707.2399206
+  },
+  "Using the Control Panel": {
+    "topic_type": "task",
+    "confidence": "low",
+    "reasoning": "Heuristic fallback due to API error",
+    "ontology_hints": {},
+    "semantic_signals": {
+      "structural_signals": {
+        "heading_depth": 1,
+        "parent_title": "",
+        "position_in_doc": 0.809,
+        "paragraph_count": 1,
+        "step_list_count": 0,
+        "table_count": 0,
+        "has_code_block": false
+      },
+      "lexical_signals": {
+        "task_verb_hits": 3,
+        "concept_pattern_hits": 0,
+        "reference_pattern_hits": 0,
+        "imperative_sentence_ratio": 0.0,
+        "avg_paragraph_length_words": 56
+      },
+      "context_frame": "procedural",
+      "keyword_set": [
+        "placeholder",
+        "button",
+        "Control",
+        "Panel",
+        "Using",
+        "control",
+        "panel",
+        "See",
+        "these",
+        "sections",
+        "learn",
+        "about"
+      ],
+      "compact_excerpt": "Using the Control Panel See these sections to learn about the control panel and select control panel settings. Control Panel Buttons and Lights placeholder placeholder placeholder power button and light placeholder home button placeholder LCD screen help button placeholder stop button placeholder back button placeholder Arrow buttons and OK button reset button placeholder start button placeholder"
+    },
+    "classified_at": 1790571707.3981197
+  },
+  "Viewing Animations": {
+    "topic_type": "task",
+    "confidence": "low",
+    "reasoning": "Heuristic fallback due to API error",
+    "ontology_hints": {},
+    "semantic_signals": {
+      "structural_signals": {
+        "heading_depth": 1,
+        "parent_title": "",
+        "position_in_doc": 0.825,
+        "paragraph_count": 1,
+        "step_list_count": 0,
+        "table_count": 0,
+        "has_code_block": false
+      },
+      "lexical_signals": {
+        "task_verb_hits": 3,
+        "concept_pattern_hits": 1,
+        "reference_pattern_hits": 1,
+        "imperative_sentence_ratio": 0.2,
+        "avg_paragraph_length_words": 58
+      },
+      "context_frame": "procedural",
+      "keyword_set": [
+        "Viewing",
+        "Animations",
+        "view",
+        "screen",
+        "help",
+        "problem",
+        "Select",
+        "instructions",
+        "You",
+        "animations",
+        "LCD",
+        "guide"
+      ],
+      "compact_excerpt": "Viewing Animations You can view animations on the LCD screen to help guide you with a procedure or to troubleshoot a problem. Press the help button. placeholder Select Troubleshooting if you are experiencing a problem or How To to view instructions on common procedures. Select a topic from the list of available topics and follow the on-screen instructions."
+    },
+    "classified_at": 1790571707.435813
+  },
+  "Check Ink Levels": {
+    "topic_type": "concept",
+    "confidence": "low",
+    "reasoning": "Heuristic fallback due to API error",
+    "ontology_hints": {},
+    "semantic_signals": {
+      "structural_signals": {
+        "heading_depth": 1,
+        "parent_title": "",
+        "position_in_doc": 0.841,
+        "paragraph_count": 1,
+        "step_list_count": 0,
+        "table_count": 0,
+        "has_code_block": false
+      },
+      "lexical_signals": {
+        "task_verb_hits": 0,
+        "concept_pattern_hits": 1,
+        "reference_pattern_hits": 0,
+        "imperative_sentence_ratio": 0.0,
+        "avg_paragraph_length_words": 21
+      },
+      "context_frame": "descriptive",
+      "keyword_set": [
+        "Check",
+        "Ink",
+        "Levels",
+        "Your",
+        "product",
+        "printing",
+        "software",
+        "know",
+        "when",
+        "tank",
+        "expended"
+      ],
+      "compact_excerpt": "Check Ink Levels Your product and its printing software will let you know when an ink tank is low or expended."
+    },
+    "classified_at": 1790571707.461463
+  },
+  "Checking Ink Levels on Your Product": {
+    "topic_type": "concept",
+    "confidence": "low",
+    "reasoning": "Heuristic fallback due to API error",
+    "ontology_hints": {},
+    "semantic_signals": {
+      "structural_signals": {
+        "heading_depth": 1,
+        "parent_title": "",
+        "position_in_doc": 0.873,
+        "paragraph_count": 1,
+        "step_list_count": 0,
+        "table_count": 0,
+        "has_code_block": false
+      },
+      "lexical_signals": {
+        "task_verb_hits": 0,
+        "concept_pattern_hits": 3,
+        "reference_pattern_hits": 0,
+        "imperative_sentence_ratio": 0.0,
+        "avg_paragraph_length_words": 145
+      },
+      "context_frame": "descriptive",
+      "keyword_set": [
+        "tanks",
+        "levels",
+        "product",
+        "Checking",
+        "Ink",
+        "Levels",
+        "Your",
+        "Product",
+        "lower",
+        "system",
+        "alert",
+        "below"
+      ],
+      "compact_excerpt": "Checking Ink Levels on Your Product To confirm the actual ink levels, visually check the ink levels in the product\u2019s ink tanks. Make sure the ink levels are above the lower lines on the ink tanks. The product has a low ink alert system. The accuracy of this system depends on the user refilling the ink tanks correctly. The product cannot directly measure the ink levels in the tanks; instead it esti"
+    },
+    "classified_at": 1790571707.503273
+  },
+  "Checking Ink Levels - Mac": {
+    "topic_type": "task",
+    "confidence": "low",
+    "reasoning": "Heuristic fallback due to API error",
+    "ontology_hints": {},
+    "semantic_signals": {
+      "structural_signals": {
+        "heading_depth": 1,
+        "parent_title": "",
+        "position_in_doc": 0.857,
+        "paragraph_count": 1,
+        "step_list_count": 0,
+        "table_count": 0,
+        "has_code_block": false
+      },
+      "lexical_signals": {
+        "task_verb_hits": 11,
+        "concept_pattern_hits": 2,
+        "reference_pattern_hits": 0,
+        "imperative_sentence_ratio": 0.273,
+        "avg_paragraph_length_words": 144
+      },
+      "context_frame": "procedural",
+      "keyword_set": [
+        "Mac",
+        "Checking",
+        "Ink",
+        "Levels",
+        "levels",
+        "select",
+        "your",
+        "Select",
+        "product",
+        "You",
+        "check",
+        "Print"
+      ],
+      "compact_excerpt": "Checking Ink Levels - Mac You can check your ink levels using a utility on your Mac. In the Apple menu or the Dock, select System Preferences . Select Print & Fax , Print & Scan , or Printers & Scanners , select your product, and select Options & Supplies . Select Utility and select Open Printer Utility . Select METR Status Monitor . You see a window like this: placeholder placeholder Refill any i"
+    },
+    "classified_at": 1790571707.5123923
+  },
+  "Checking Ink Levels - Windows": {
+    "topic_type": "concept",
+    "confidence": "low",
+    "reasoning": "Heuristic fallback due to API error",
+    "ontology_hints": {},
+    "semantic_signals": {
+      "structural_signals": {
+        "heading_depth": 1,
+        "parent_title": "",
+        "position_in_doc": 0.889,
+        "paragraph_count": 1,
+        "step_list_count": 0,
+        "table_count": 0,
+        "has_code_block": false
+      },
+      "lexical_signals": {
+        "task_verb_hits": 1,
+        "concept_pattern_hits": 3,
+        "reference_pattern_hits": 0,
+        "imperative_sentence_ratio": 0.0,
+        "avg_paragraph_length_words": 139
+      },
+      "context_frame": "descriptive",
+      "keyword_set": [
+        "Windows",
+        "Checking",
+        "Ink",
+        "Levels",
+        "your",
+        "levels",
+        "placeholder",
+        "check",
+        "click",
+        "product",
+        "when",
+        "double"
+      ],
+      "compact_excerpt": "Checking Ink Levels - Windows A low ink reminder appears if you try to print when ink is low, and you can check your ink levels at any time using a utility on your Windows computer. placeholder To check your ink levels, access the Windows Desktop and double-click the icon for your product in the right side of the Windows taskbar, or click the up arrow and double-click  . placeholder You see a wind"
+    },
+    "classified_at": 1790571707.6768014
+  },
+  "Disabling Special Offers with Windows": {
+    "topic_type": "task",
+    "confidence": "low",
+    "reasoning": "Heuristic fallback due to API error",
+    "ontology_hints": {},
+    "semantic_signals": {
+      "structural_signals": {
+        "heading_depth": 1,
+        "parent_title": "",
+        "position_in_doc": 0.905,
+        "paragraph_count": 1,
+        "step_list_count": 0,
+        "table_count": 0,
+        "has_code_block": false
+      },
+      "lexical_signals": {
+        "task_verb_hits": 4,
+        "concept_pattern_hits": 0,
+        "reference_pattern_hits": 0,
+        "imperative_sentence_ratio": 0.2,
+        "avg_paragraph_length_words": 69
+      },
+      "context_frame": "procedural",
+      "keyword_set": [
+        "Windows",
+        "Offers",
+        "Disabling",
+        "Special",
+        "placeholder",
+        "right",
+        "click",
+        "You",
+        "disable",
+        "offers",
+        "MetR",
+        "your"
+      ],
+      "compact_excerpt": "Disabling Special Offers with Windows You can disable special offers messages from MetR using a utility on your Windows computer. Access the Windows Desktop and right-click the icon for your product in the right side of the Windows taskbar, or click the up arrow and right-click placeholder . Select placeholder Monitoring Preferences . You see this window: placeholder placeholder To disable promoti"
+    },
+    "classified_at": 1790571707.710777
+  },
+  "Ink Bottle Part Numbers": {
+    "topic_type": "topic",
+    "confidence": "low",
+    "reasoning": "Heuristic fallback due to API error",
+    "ontology_hints": {},
+    "semantic_signals": {
+      "structural_signals": {
+        "heading_depth": 1,
+        "parent_title": "",
+        "position_in_doc": 0.921,
+        "paragraph_count": 1,
+        "step_list_count": 0,
+        "table_count": 0,
+        "has_code_block": false
+      },
+      "lexical_signals": {
+        "task_verb_hits": 0,
+        "concept_pattern_hits": 0,
+        "reference_pattern_hits": 0,
+        "imperative_sentence_ratio": 0.0,
+        "avg_paragraph_length_words": 39
+      },
+      "context_frame": "descriptive",
+      "keyword_set": [
+        "Ink",
+        "Part",
+        "Bottle",
+        "Numbers",
+        "Use",
+        "these",
+        "part",
+        "numbers",
+        "when",
+        "order",
+        "purchase",
+        "bottles"
+      ],
+      "compact_excerpt": "Ink Bottle Part Numbers Use these part numbers when you order or purchase new ink bottles, and use the ink by the date printed on the package: Ink color Part number Black 502120 Cyan 502220 Magenta 502320 Yellow 502420"
+    },
+    "classified_at": 1790571707.7470064
+  },
+  "Ink Safety Precautions": {
+    "topic_type": "concept",
+    "confidence": "low",
+    "reasoning": "Heuristic fallback due to API error",
+    "ontology_hints": {},
+    "semantic_signals": {
+      "structural_signals": {
+        "heading_depth": 1,
+        "parent_title": "",
+        "position_in_doc": 0.936,
+        "paragraph_count": 1,
+        "step_list_count": 0,
+        "table_count": 0,
+        "has_code_block": false
+      },
+      "lexical_signals": {
+        "task_verb_hits": 3,
+        "concept_pattern_hits": 17,
+        "reference_pattern_hits": 1,
+        "imperative_sentence_ratio": 0.0,
+        "avg_paragraph_length_words": 855
+      },
+      "context_frame": "descriptive",
+      "keyword_set": [
+        "product",
+        "bottles",
+        "bottle",
+        "Ink",
+        "tanks",
+        "when",
+        "tank",
+        "your",
+        "Precautions",
+        "print",
+        "line",
+        "levels"
+      ],
+      "compact_excerpt": "Ink Safety Precautions MetR strongly recommends the use of genuine ink to ensure optimal print quality and performance. The product has a low ink alert system. The accuracy of this system depends on the user refilling the ink tanks correctly. The product cannot directly measure the ink levels in the tanks; instead it estimates the amount of ink remaining by internally monitoring ink usage. The low"
+    },
+    "classified_at": 1790571707.7836356
+  },
+  "Purchase MetR Ink": {
+    "topic_type": "concept",
+    "confidence": "low",
+    "reasoning": "Heuristic fallback due to API error",
+    "ontology_hints": {},
+    "semantic_signals": {
+      "structural_signals": {
+        "heading_depth": 1,
+        "parent_title": "",
+        "position_in_doc": 0.952,
+        "paragraph_count": 1,
+        "step_list_count": 0,
+        "table_count": 0,
+        "has_code_block": false
+      },
+      "lexical_signals": {
+        "task_verb_hits": 0,
+        "concept_pattern_hits": 2,
+        "reference_pattern_hits": 0,
+        "imperative_sentence_ratio": 0.0,
+        "avg_paragraph_length_words": 121
+      },
+      "context_frame": "descriptive",
+      "keyword_set": [
+        "MetR",
+        "Purchase",
+        "Ink",
+        "printer",
+        "bottles",
+        "You",
+        "purchase",
+        "paper",
+        "sales",
+        "used",
+        "print",
+        "genuine"
+      ],
+      "compact_excerpt": "Purchase MetR Ink You can purchase genuine MetR ink and paper at metR.com (U.S. sales) or metR.ca (Canadian sales). You can also purchase supplies from an MetR authorized reseller. To find the nearest one, call 800-GO-METR (800-463-7766) in the U.S. or 800-807-7766 in Canada. MetR's warranties do not extend to any damage caused by the use of third-party ink or ink not designed for your printer. Th"
+    },
+    "classified_at": 1790571707.79146
+  },
+  "Refilling Ink": {
+    "topic_type": "concept",
+    "confidence": "low",
+    "reasoning": "Heuristic fallback due to API error",
+    "ontology_hints": {},
+    "semantic_signals": {
+      "structural_signals": {
+        "heading_depth": 1,
+        "parent_title": "",
+        "position_in_doc": 0.968,
+        "paragraph_count": 1,
+        "step_list_count": 0,
+        "table_count": 0,
+        "has_code_block": false
+      },
+      "lexical_signals": {
+        "task_verb_hits": 0,
+        "concept_pattern_hits": 3,
+        "reference_pattern_hits": 0,
+        "imperative_sentence_ratio": 0.0,
+        "avg_paragraph_length_words": 98
+      },
+      "context_frame": "descriptive",
+      "keyword_set": [
+        "tank",
+        "Refilling",
+        "Ink",
+        "line",
+        "level",
+        "below",
+        "lower",
+        "need",
+        "product",
+        "When",
+        "refill",
+        "Periodically"
+      ],
+      "compact_excerpt": "Refilling Ink When the ink level is below the lower line on an ink tank, you need to refill it. Periodically check the ink tanks to see if they need to be refilled. Before checking the ink levels or refilling an ink tank as described here, be sure to read the ink safety precautions. If the ink level is below the lower line on the ink tank, fill it to the upper line on the ink tank. Continued use o"
+    },
+    "classified_at": 1790571707.9696589
+  },
+  "Refilling the Ink Tanks": {
+    "topic_type": "task",
+    "confidence": "low",
+    "reasoning": "Heuristic fallback due to API error",
+    "ontology_hints": {},
+    "semantic_signals": {
+      "structural_signals": {
+        "heading_depth": 1,
+        "parent_title": "",
+        "position_in_doc": 0.984,
+        "paragraph_count": 1,
+        "step_list_count": 0,
+        "table_count": 0,
+        "has_code_block": false
+      },
+      "lexical_signals": {
+        "task_verb_hits": 15,
+        "concept_pattern_hits": 10,
+        "reference_pattern_hits": 0,
+        "imperative_sentence_ratio": 0.059,
+        "avg_paragraph_length_words": 698
+      },
+      "context_frame": "descriptive",
+      "keyword_set": [
+        "bottle",
+        "tank",
+        "placeholder",
+        "product",
+        "your",
+        "Ink",
+        "tanks",
+        "line",
+        "unit",
+        "color",
+        "into",
+        "close"
+      ],
+      "compact_excerpt": "Refilling the Ink Tanks Make sure you have new ink bottles handy and have read the ink safety precautions before you begin. You can continue to use the product even if one or more ink tanks are not filled all the way. However, for the most accurate ink level monitoring, fill all the ink tanks up to the top line. The product has a low ink alert system. The accuracy of this system depends on the use"
+    },
+    "classified_at": 1790571707.9954593
+  }
+}

@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE task
+  PUBLIC "-//OASIS//DTD DITA 2.x Task//EN" "task.dtd">
+<task id="Placing_Originals_on_the_Scanner_Glass" xml:lang="en-us">
+   <title>Placing Originals on the Scanner Glass</title>
+   <shortdesc>You can place originals up to this size on the scanner glass: Letter (8.5 ×</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>glass</keyword>
+        <keyword>scanner</keyword>
+        <keyword>placeholder</keyword>
+        <keyword>original</keyword>
+        <keyword>originals</keyword>
+        <keyword>Originals</keyword>
+        <indexterm>glass</indexterm>
+        <indexterm>scanner</indexterm>
+        <indexterm>placeholder</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+   <taskbody>
+      <context>
+         <p>You can place originals up to this size on the scanner glass: Letter (8.5 × 11 inches [216 × 279 mm]) or A4 (8.3 × 11.7 inches [210 × 297 mm]).</p>
+         <note type="note">To view animated instructions on how to place originals on the scanner glass, press the help button and select How To &gt; Place Originals</note>
+      </context>
+      <steps id="steps_05013235">
+         <step>
+            <cmd>Open the document cover.</cmd>
+            <info>
+               <note type="note">If there is any dust or dirt on the scanner glass, the scanning range may expand to include it, so the image of the original may be displaced or reduced. Remove any dust and dirt on the scanner glass before scanning.</note>
+            </info>
+         </step>
+         <step>
+            <cmd>Place your original facedown on the scanner glass with the top facing into the corner. Slide the original to the edges of the indicated corner.</cmd>
+            <info>
+               <p>
+                  <image height="155" href="../media/image129.png" placement="break" width="308">
+                     <alt>placeholder</alt>
+                  </image>
+                  <image height="155" href="../media/image130.png" placement="break" width="308">
+                     <alt>placeholder</alt>
+                  </image>
+                  <image height="155" href="../media/image131.png" placement="break" width="308">
+                     <alt>placeholder</alt>
+                  </image>
+                  <image height="155" href="../media/image132.png" placement="break" width="308">
+                     <alt>placeholder</alt>
+                  </image>
+                  <image height="155" href="../media/image133.png" placement="break" width="308">
+                     <alt>placeholder</alt>
+                  </image>
+                  <image height="155" href="../media/image134.png" placement="break" width="308">
+                     <alt>placeholder</alt>
+                  </image>
+                  <image height="155" href="../media/image135.png" placement="break" width="308">
+                     <alt>placeholder</alt>
+                  </image>
+               </p>
+               <note type="note">If you are using MetR ScanSmart to scan multiple photos at once, just make sure they are at least 0.2 inch (4.5 mm) away from the edge of the scanner glass and at least 0.8 inch (20 mm) away from each other.</note>
+               <note type="note">The edges of your original may be cropped by 0.06 inch (1.5 mm) from the edge of the scanner glass. Manually position your original away from the edges to prevent cropping.</note>
+               <note type="note">When placing bulky originals such as books, prevent exterior light from shining directly onto the scanner glass.</note>
+            </info>
+         </step>
+         <step>
+            <cmd>Close the document cover gently to keep your original in place.</cmd>
+         </step>
+      </steps>
+      <result>
+         <note type="caution">Do not push down on the document cover or scanner glass or you may damage the product.</note>
+         <p>Remove your originals after scanning. If you leave the originals on the scanner glass for a long time, they may stick to the glass surface.</p>
+      </result>
+   </taskbody>
+</task>

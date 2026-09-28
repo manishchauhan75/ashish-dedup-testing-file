@@ -1,0 +1,28 @@
+================================================================================
+ metR DOCX DocMigrate — PRE-FLIGHT REPORT
+================================================================================
+ Total DOCX Files      : 1
+ Started               : 2026-09-28 05:01:29 UTC
+ Completed             : 2026-09-28 05:01:30 UTC
+ Duration              : 1s
+ Overall Status        : SUCCESS
+--------------------------------------------------------------------------------
+
+[2026-09-28T05:01:29.682684+00:00] PreflightService class is running.
+[2026-09-28T05:01:29.682734+00:00] preflight_started working.
+[2026-09-28T05:01:29.687615+00:00] PreflightService Reading uploaded file 'Printer_Setup_UserGuide.docx' in 1 MB chunks (max allowed: 2000 MB).
+[2026-09-28T05:01:29.696035+00:00] PreflightService File read complete - 4.04 MB. Saved.
+[2026-09-28T05:01:29.696079+00:00] PreflightService File saved successfully.
+[2026-09-28T05:01:29.696098+00:00] file_saved 'Printer_Setup_UserGuide.docx' uploaded and saved (4.04 MB).
+[2026-09-28T05:01:30.228866+00:00] PreflightService Validating document structure for 'Printer_Setup_UserGuide.docx'.
+[2026-09-28T05:01:30.228938+00:00] validating_structure Validating document heading structure for 'Printer_Setup_UserGuide.docx'.
+[2026-09-28T05:01:30.232870+00:00] check_docx_starts_with_heading Validating document structure.
+[2026-09-28T05:01:30.234116+00:00] check_docx_starts_with_heading Reading 'word/document.xml' for heading validation.
+[2026-09-28T05:01:30.253175+00:00] check_docx_starts_with_heading Parsing 'word/document.xml' XML.
+[2026-09-28T05:01:30.515768+00:00] check_docx_starts_with_heading Scanning 1333 paragraph(s) for a valid first heading style.
+[2026-09-28T05:01:30.515927+00:00] check_docx_starts_with_heading First styled paragraph uses 'bodytext' — document structure is valid.
+[2026-09-28T05:01:30.753321+00:00] PreflightService class completed successfully.
+[2026-09-28T05:01:30.753364+00:00] preflight_completed File 'Printer_Setup_UserGuide.docx' validated successfully and is ready for conversion.
+
+ [GUI] Success: Pre-flight analysis completed successfully.
+================================================================================

@@ -1,0 +1,924 @@
+{
+  "job_id": "7ff90245-76a7-44e9-82b3-c602ed9b62ea",
+  "output_dir": "/app/Storage/7ff90245-76a7-44e9-82b3-c602ed9b62ea/transformed output",
+  "run_at": "2026-09-28T05:01:58.115463+00:00",
+  "files_discovered": {
+    "dita_file_count": 63,
+    "dita_files": [
+      "adjusting_print_quality/adjusting_print_quality.dita",
+      "adjusting_print_quality/aligning_the_print_head_using_the_product_control_panel.dita",
+      "adjusting_print_quality/checking_the_nozzles_using_a_computer_utility.dita",
+      "adjusting_print_quality/checking_the_nozzles_using_the_product_control_panel.dita",
+      "adjusting_print_quality/checking_the_number_of_sheets_fed.dita",
+      "adjusting_print_quality/checking_the_number_of_sheets_on_the_lcd_screen.dita",
+      "adjusting_print_quality/checking_the_sheet_counter_mac.dita",
+      "adjusting_print_quality/checking_the_sheet_counter_windows.dita",
+      "adjusting_print_quality/cleaning_the_paper_guide.dita",
+      "adjusting_print_quality/cleaning_the_print_head_path.dita",
+      "adjusting_print_quality/cleaning_the_print_head_using_a_computer_utility.dita",
+      "adjusting_print_quality/cleaning_the_print_head_using_the_product_control_panel.dita",
+      "adjusting_print_quality/power_cleaning.dita",
+      "adjusting_print_quality/power_cleaning_using_a_computer_utility.dita",
+      "adjusting_print_quality/power_cleaning_using_the_product_control_panel.dita",
+      "adjusting_print_quality/print_head_alignment.dita",
+      "adjusting_print_quality/print_head_cleaning.dita",
+      "adjusting_print_quality/print_head_maintenance.dita",
+      "adjusting_print_quality/print_head_nozzle_check.dita",
+      "cleaning_and_transporting_your_product/cleaning_and_transporting_your_product.dita",
+      "cleaning_and_transporting_your_product/cleaning_your_product.dita",
+      "cleaning_and_transporting_your_product/copyright_notice.dita",
+      "cleaning_and_transporting_your_product/transporting_your_product.dita",
+      "copying/copying.dita",
+      "copying/copying_documents_or_photos.dita",
+      "copying/copying_options.dita",
+      "loading_paper/borderless_paper_type_compatibility.dita",
+      "loading_paper/compatible_metr_papers.dita",
+      "loading_paper/double_sided_printing_capacity.dita",
+      "loading_paper/loading_paper.dita",
+      "loading_paper/loading_paper_in_the_rear_paper_feeder.dita",
+      "loading_paper/paper_loading_capacity.dita",
+      "loading_paper/paper_or_media_type_settings_control_panel.dita",
+      "loading_paper/paper_or_media_type_settings_printing_software.dita",
+      "loading_paper/paper_source_settings_options.dita",
+      "loading_paper/selecting_the_default_paper_source_settings.dita",
+      "loading_paper/selecting_the_paper_settings_control_panel.dita",
+      "placing_originals_on_the_product/placing_originals_on_the_product.dita",
+      "placing_originals_on_the_product/placing_originals_on_the_scanner_glass.dita",
+      "product_basics/changing_lcd_screen_language.dita",
+      "product_basics/changing_the_power_off_timer_setting_from_the_control_panel.dita",
+      "product_basics/changing_the_sleep_timer_setting_from_the_control_panel.dita",
+      "product_basics/entering_characters_on_the_lcd_screen.dita",
+      "product_basics/product_basics.dita",
+      "product_basics/product_parts_back.dita",
+      "product_basics/product_parts_front.dita",
+      "product_basics/product_parts_inside.dita",
+      "product_basics/product_parts_locations.dita",
+      "product_basics/status_icon_information.dita",
+      "product_basics/the_lcd_screen.dita",
+      "product_basics/using_power_saving_settings.dita",
+      "product_basics/using_the_control_panel.dita",
+      "product_basics/viewing_animations.dita",
+      "refilling_ink/check_ink_levels.dita",
+      "refilling_ink/checking_ink_levels_mac.dita",
+      "refilling_ink/checking_ink_levels_on_your_product.dita",
+      "refilling_ink/checking_ink_levels_windows.dita",
+      "refilling_ink/disabling_special_offers_with_windows.dita",
+      "refilling_ink/ink_bottle_part_numbers.dita",
+      "refilling_ink/ink_safety_precautions.dita",
+      "refilling_ink/purchase_metr_ink.dita",
+      "refilling_ink/refilling_ink.dita",
+      "refilling_ink/refilling_the_ink_tanks.dita"
+    ],
+    "ditamap_file_count": 8,
+    "ditamap_files": [
+      "adjusting_print_quality_map.ditamap",
+      "cleaning_and_transporting_your_product_map.ditamap",
+      "copying_map.ditamap",
+      "loading_paper_map.ditamap",
+      "placing_originals_on_the_product_map.ditamap",
+      "printer_user_s_guide.ditamap",
+      "product_basics_map.ditamap",
+      "refilling_ink_map.ditamap"
+    ]
+  },
+  "document_context": {
+    "prodname": "",
+    "equipment_name": "",
+    "task_type": "maintenance procedures",
+    "document_keywords": [
+      "maintenance procedures"
+    ],
+    "extraction_method": "heuristic"
+  },
+  "structural_issues": [
+    {
+      "severity": "WARNING",
+      "category": "step_empty_cmd",
+      "file": "product_basics/product_parts_back.dita",
+      "message": "step 3 has an empty <cmd> element",
+      "line": 28
+    },
+    {
+      "severity": "WARNING",
+      "category": "missing_shortdesc",
+      "file": "product_basics/product_parts_back.dita",
+      "message": "<shortdesc> element is missing \u2014 required for search previews and navigation"
+    },
+    {
+      "severity": "WARNING",
+      "category": "missing_shortdesc",
+      "file": "product_basics/viewing_animations.dita",
+      "message": "<shortdesc> element is missing \u2014 required for search previews and navigation"
+    },
+    {
+      "severity": "WARNING",
+      "category": "section_missing_title",
+      "file": "product_basics/status_icon_information.dita",
+      "message": "<section> #1 has no <title> \u2014 recommended for DITA compliance",
+      "line": 6
+    },
+    {
+      "severity": "WARNING",
+      "category": "table_missing_title",
+      "file": "product_basics/status_icon_information.dita",
+      "message": "<table> #1 has no <title> element \u2014 required for accessibility and DITA compliance",
+      "line": 8
+    },
+    {
+      "severity": "WARNING",
+      "category": "missing_shortdesc",
+      "file": "product_basics/status_icon_information.dita",
+      "message": "<shortdesc> element is missing \u2014 required for search previews and navigation"
+    },
+    {
+      "severity": "WARNING",
+      "category": "missing_shortdesc",
+      "file": "product_basics/product_parts_inside.dita",
+      "message": "<shortdesc> element is missing \u2014 required for search previews and navigation"
+    },
+    {
+      "severity": "WARNING",
+      "category": "missing_shortdesc",
+      "file": "product_basics/product_parts_locations.dita",
+      "message": "<shortdesc> element is missing \u2014 required for search previews and navigation"
+    },
+    {
+      "severity": "WARNING",
+      "category": "missing_shortdesc",
+      "file": "product_basics/the_lcd_screen.dita",
+      "message": "<shortdesc> element is missing \u2014 required for search previews and navigation"
+    },
+    {
+      "severity": "WARNING",
+      "category": "missing_shortdesc",
+      "file": "product_basics/entering_characters_on_the_lcd_screen.dita",
+      "message": "<shortdesc> element is missing \u2014 required for search previews and navigation"
+    },
+    {
+      "severity": "WARNING",
+      "category": "step_empty_cmd",
+      "file": "product_basics/using_the_control_panel.dita",
+      "message": "step 1 has an empty <cmd> element",
+      "line": 16
+    },
+    {
+      "severity": "WARNING",
+      "category": "step_empty_cmd",
+      "file": "product_basics/using_the_control_panel.dita",
+      "message": "step 2 has an empty <cmd> element",
+      "line": 20
+    },
+    {
+      "severity": "WARNING",
+      "category": "step_empty_cmd",
+      "file": "product_basics/using_the_control_panel.dita",
+      "message": "step 4 has an empty <cmd> element",
+      "line": 27
+    },
+    {
+      "severity": "WARNING",
+      "category": "step_empty_cmd",
+      "file": "product_basics/using_the_control_panel.dita",
+      "message": "step 5 has an empty <cmd> element",
+      "line": 31
+    },
+    {
+      "severity": "WARNING",
+      "category": "step_empty_cmd",
+      "file": "product_basics/using_the_control_panel.dita",
+      "message": "step 6 has an empty <cmd> element",
+      "line": 35
+    },
+    {
+      "severity": "WARNING",
+      "category": "step_empty_cmd",
+      "file": "product_basics/using_the_control_panel.dita",
+      "message": "step 8 has an empty <cmd> element",
+      "line": 42
+    },
+    {
+      "severity": "WARNING",
+      "category": "step_empty_cmd",
+      "file": "product_basics/using_the_control_panel.dita",
+      "message": "step 9 has an empty <cmd> element",
+      "line": 46
+    },
+    {
+      "severity": "WARNING",
+      "category": "missing_shortdesc",
+      "file": "product_basics/using_the_control_panel.dita",
+      "message": "<shortdesc> element is missing \u2014 required for search previews and navigation"
+    },
+    {
+      "severity": "WARNING",
+      "category": "missing_shortdesc",
+      "file": "product_basics/changing_the_sleep_timer_setting_from_the_control_panel.dita",
+      "message": "<shortdesc> element is missing \u2014 required for search previews and navigation"
+    },
+    {
+      "severity": "WARNING",
+      "category": "missing_shortdesc",
+      "file": "product_basics/product_basics.dita",
+      "message": "<shortdesc> element is missing \u2014 required for search previews and navigation"
+    },
+    {
+      "severity": "WARNING",
+      "category": "missing_shortdesc",
+      "file": "product_basics/changing_lcd_screen_language.dita",
+      "message": "<shortdesc> element is missing \u2014 required for search previews and navigation"
+    },
+    {
+      "severity": "WARNING",
+      "category": "missing_shortdesc",
+      "file": "product_basics/product_parts_front.dita",
+      "message": "<shortdesc> element is missing \u2014 required for search previews and navigation"
+    },
+    {
+      "severity": "WARNING",
+      "category": "missing_shortdesc",
+      "file": "product_basics/using_power_saving_settings.dita",
+      "message": "<shortdesc> element is missing \u2014 required for search previews and navigation"
+    },
+    {
+      "severity": "WARNING",
+      "category": "missing_shortdesc",
+      "file": "product_basics/changing_the_power_off_timer_setting_from_the_control_panel.dita",
+      "message": "<shortdesc> element is missing \u2014 required for search previews and navigation"
+    },
+    {
+      "severity": "WARNING",
+      "category": "missing_shortdesc",
+      "file": "cleaning_and_transporting_your_product/cleaning_your_product.dita",
+      "message": "<shortdesc> element is missing \u2014 required for search previews and navigation"
+    },
+    {
+      "severity": "WARNING",
+      "category": "missing_shortdesc",
+      "file": "cleaning_and_transporting_your_product/cleaning_and_transporting_your_product.dita",
+      "message": "<shortdesc> element is missing \u2014 required for search previews and navigation"
+    },
+    {
+      "severity": "WARNING",
+      "category": "missing_shortdesc",
+      "file": "cleaning_and_transporting_your_product/transporting_your_product.dita",
+      "message": "<shortdesc> element is missing \u2014 required for search previews and navigation"
+    },
+    {
+      "severity": "WARNING",
+      "category": "missing_shortdesc",
+      "file": "cleaning_and_transporting_your_product/copyright_notice.dita",
+      "message": "<shortdesc> element is missing \u2014 required for search previews and navigation"
+    },
+    {
+      "severity": "WARNING",
+      "category": "missing_shortdesc",
+      "file": "loading_paper/selecting_the_default_paper_source_settings.dita",
+      "message": "<shortdesc> element is missing \u2014 required for search previews and navigation"
+    },
+    {
+      "severity": "WARNING",
+      "category": "section_missing_title",
+      "file": "loading_paper/paper_or_media_type_settings_printing_software.dita",
+      "message": "<section> #1 has no <title> \u2014 recommended for DITA compliance",
+      "line": 6
+    },
+    {
+      "severity": "WARNING",
+      "category": "table_missing_title",
+      "file": "loading_paper/paper_or_media_type_settings_printing_software.dita",
+      "message": "<table> #1 has no <title> element \u2014 required for accessibility and DITA compliance",
+      "line": 7
+    },
+    {
+      "severity": "WARNING",
+      "category": "table_missing_title",
+      "file": "loading_paper/paper_or_media_type_settings_printing_software.dita",
+      "message": "<table> #2 has no <title> element \u2014 required for accessibility and DITA compliance",
+      "line": 36
+    },
+    {
+      "severity": "WARNING",
+      "category": "missing_shortdesc",
+      "file": "loading_paper/paper_or_media_type_settings_printing_software.dita",
+      "message": "<shortdesc> element is missing \u2014 required for search previews and navigation"
+    },
+    {
+      "severity": "WARNING",
+      "category": "missing_shortdesc",
+      "file": "loading_paper/loading_paper.dita",
+      "message": "<shortdesc> element is missing \u2014 required for search previews and navigation"
+    },
+    {
+      "severity": "WARNING",
+      "category": "missing_shortdesc",
+      "file": "loading_paper/borderless_paper_type_compatibility.dita",
+      "message": "<shortdesc> element is missing \u2014 required for search previews and navigation"
+    },
+    {
+      "severity": "WARNING",
+      "category": "section_missing_title",
+      "file": "loading_paper/paper_loading_capacity.dita",
+      "message": "<section> #1 has no <title> \u2014 recommended for DITA compliance",
+      "line": 6
+    },
+    {
+      "severity": "WARNING",
+      "category": "table_col_mismatch",
+      "file": "loading_paper/paper_loading_capacity.dita",
+      "message": "table 1 row has 1 entries but cols=2"
+    },
+    {
+      "severity": "WARNING",
+      "category": "table_missing_title",
+      "file": "loading_paper/paper_loading_capacity.dita",
+      "message": "<table> #1 has no <title> element \u2014 required for accessibility and DITA compliance",
+      "line": 8
+    },
+    {
+      "severity": "WARNING",
+      "category": "table_missing_title",
+      "file": "loading_paper/paper_loading_capacity.dita",
+      "message": "<table> #2 has no <title> element \u2014 required for accessibility and DITA compliance",
+      "line": 41
+    },
+    {
+      "severity": "WARNING",
+      "category": "missing_shortdesc",
+      "file": "loading_paper/paper_loading_capacity.dita",
+      "message": "<shortdesc> element is missing \u2014 required for search previews and navigation"
+    },
+    {
+      "severity": "WARNING",
+      "category": "missing_shortdesc",
+      "file": "loading_paper/loading_paper_in_the_rear_paper_feeder.dita",
+      "message": "<shortdesc> element is missing \u2014 required for search previews and navigation"
+    },
+    {
+      "severity": "WARNING",
+      "category": "section_missing_title",
+      "file": "loading_paper/paper_or_media_type_settings_control_panel.dita",
+      "message": "<section> #1 has no <title> \u2014 recommended for DITA compliance",
+      "line": 6
+    },
+    {
+      "severity": "WARNING",
+      "category": "table_missing_title",
+      "file": "loading_paper/paper_or_media_type_settings_control_panel.dita",
+      "message": "<table> #1 has no <title> element \u2014 required for accessibility and DITA compliance",
+      "line": 7
+    },
+    {
+      "severity": "WARNING",
+      "category": "missing_shortdesc",
+      "file": "loading_paper/paper_or_media_type_settings_control_panel.dita",
+      "message": "<shortdesc> element is missing \u2014 required for search previews and navigation"
+    },
+    {
+      "severity": "WARNING",
+      "category": "table_col_mismatch",
+      "file": "loading_paper/double_sided_printing_capacity.dita",
+      "message": "table 1 row has 3 entries but cols=4"
+    },
+    {
+      "severity": "WARNING",
+      "category": "table_col_mismatch",
+      "file": "loading_paper/double_sided_printing_capacity.dita",
+      "message": "table 1 row has 2 entries but cols=4"
+    },
+    {
+      "severity": "WARNING",
+      "category": "table_missing_title",
+      "file": "loading_paper/double_sided_printing_capacity.dita",
+      "message": "<table> #1 has no <title> element \u2014 required for accessibility and DITA compliance",
+      "line": 7
+    },
+    {
+      "severity": "WARNING",
+      "category": "missing_shortdesc",
+      "file": "loading_paper/double_sided_printing_capacity.dita",
+      "message": "<shortdesc> element is missing \u2014 required for search previews and navigation"
+    },
+    {
+      "severity": "WARNING",
+      "category": "section_missing_title",
+      "file": "loading_paper/paper_source_settings_options.dita",
+      "message": "<section> #1 has no <title> \u2014 recommended for DITA compliance",
+      "line": 6
+    },
+    {
+      "severity": "WARNING",
+      "category": "table_col_mismatch",
+      "file": "loading_paper/paper_source_settings_options.dita",
+      "message": "table 1 row has 1 entries but cols=3"
+    },
+    {
+      "severity": "WARNING",
+      "category": "table_col_mismatch",
+      "file": "loading_paper/paper_source_settings_options.dita",
+      "message": "table 1 row has 1 entries but cols=3"
+    },
+    {
+      "severity": "WARNING",
+      "category": "table_col_mismatch",
+      "file": "loading_paper/paper_source_settings_options.dita",
+      "message": "table 1 row has 1 entries but cols=3"
+    },
+    {
+      "severity": "WARNING",
+      "category": "table_missing_title",
+      "file": "loading_paper/paper_source_settings_options.dita",
+      "message": "<table> #1 has no <title> element \u2014 required for accessibility and DITA compliance",
+      "line": 8
+    },
+    {
+      "severity": "WARNING",
+      "category": "missing_shortdesc",
+      "file": "loading_paper/paper_source_settings_options.dita",
+      "message": "<shortdesc> element is missing \u2014 required for search previews and navigation"
+    },
+    {
+      "severity": "WARNING",
+      "category": "section_missing_title",
+      "file": "loading_paper/compatible_metr_papers.dita",
+      "message": "<section> #1 has no <title> \u2014 recommended for DITA compliance",
+      "line": 6
+    },
+    {
+      "severity": "WARNING",
+      "category": "table_col_mismatch",
+      "file": "loading_paper/compatible_metr_papers.dita",
+      "message": "table 1 row has 3 entries but cols=4"
+    },
+    {
+      "severity": "WARNING",
+      "category": "table_col_mismatch",
+      "file": "loading_paper/compatible_metr_papers.dita",
+      "message": "table 2 row has 3 entries but cols=4"
+    },
+    {
+      "severity": "WARNING",
+      "category": "table_col_mismatch",
+      "file": "loading_paper/compatible_metr_papers.dita",
+      "message": "table 2 row has 3 entries but cols=4"
+    },
+    {
+      "severity": "WARNING",
+      "category": "table_col_mismatch",
+      "file": "loading_paper/compatible_metr_papers.dita",
+      "message": "table 2 row has 3 entries but cols=4"
+    },
+    {
+      "severity": "WARNING",
+      "category": "table_col_mismatch",
+      "file": "loading_paper/compatible_metr_papers.dita",
+      "message": "table 2 row has 3 entries but cols=4"
+    },
+    {
+      "severity": "WARNING",
+      "category": "table_col_mismatch",
+      "file": "loading_paper/compatible_metr_papers.dita",
+      "message": "table 2 row has 3 entries but cols=4"
+    },
+    {
+      "severity": "WARNING",
+      "category": "table_col_mismatch",
+      "file": "loading_paper/compatible_metr_papers.dita",
+      "message": "table 2 row has 3 entries but cols=4"
+    },
+    {
+      "severity": "WARNING",
+      "category": "table_col_mismatch",
+      "file": "loading_paper/compatible_metr_papers.dita",
+      "message": "table 2 row has 3 entries but cols=4"
+    },
+    {
+      "severity": "WARNING",
+      "category": "table_col_mismatch",
+      "file": "loading_paper/compatible_metr_papers.dita",
+      "message": "table 2 row has 3 entries but cols=4"
+    },
+    {
+      "severity": "WARNING",
+      "category": "table_col_mismatch",
+      "file": "loading_paper/compatible_metr_papers.dita",
+      "message": "table 2 row has 3 entries but cols=4"
+    },
+    {
+      "severity": "WARNING",
+      "category": "table_col_mismatch",
+      "file": "loading_paper/compatible_metr_papers.dita",
+      "message": "table 2 row has 3 entries but cols=4"
+    },
+    {
+      "severity": "WARNING",
+      "category": "table_missing_title",
+      "file": "loading_paper/compatible_metr_papers.dita",
+      "message": "<table> #1 has no <title> element \u2014 required for accessibility and DITA compliance",
+      "line": 9
+    },
+    {
+      "severity": "WARNING",
+      "category": "table_missing_title",
+      "file": "loading_paper/compatible_metr_papers.dita",
+      "message": "<table> #2 has no <title> element \u2014 required for accessibility and DITA compliance",
+      "line": 83
+    },
+    {
+      "severity": "WARNING",
+      "category": "missing_shortdesc",
+      "file": "loading_paper/compatible_metr_papers.dita",
+      "message": "<shortdesc> element is missing \u2014 required for search previews and navigation"
+    },
+    {
+      "severity": "WARNING",
+      "category": "missing_shortdesc",
+      "file": "loading_paper/selecting_the_paper_settings_control_panel.dita",
+      "message": "<shortdesc> element is missing \u2014 required for search previews and navigation"
+    },
+    {
+      "severity": "WARNING",
+      "category": "section_missing_title",
+      "file": "copying/copying_options.dita",
+      "message": "<section> #1 has no <title> \u2014 recommended for DITA compliance",
+      "line": 6
+    },
+    {
+      "severity": "WARNING",
+      "category": "table_col_mismatch",
+      "file": "copying/copying_options.dita",
+      "message": "table 1 row has 2 entries but cols=3"
+    },
+    {
+      "severity": "WARNING",
+      "category": "table_col_mismatch",
+      "file": "copying/copying_options.dita",
+      "message": "table 1 row has 2 entries but cols=3"
+    },
+    {
+      "severity": "WARNING",
+      "category": "table_col_mismatch",
+      "file": "copying/copying_options.dita",
+      "message": "table 1 row has 2 entries but cols=3"
+    },
+    {
+      "severity": "WARNING",
+      "category": "table_col_mismatch",
+      "file": "copying/copying_options.dita",
+      "message": "table 1 row has 1 entries but cols=3"
+    },
+    {
+      "severity": "WARNING",
+      "category": "table_col_mismatch",
+      "file": "copying/copying_options.dita",
+      "message": "table 1 row has 1 entries but cols=3"
+    },
+    {
+      "severity": "WARNING",
+      "category": "table_col_mismatch",
+      "file": "copying/copying_options.dita",
+      "message": "table 1 row has 1 entries but cols=3"
+    },
+    {
+      "severity": "WARNING",
+      "category": "table_col_mismatch",
+      "file": "copying/copying_options.dita",
+      "message": "table 1 row has 1 entries but cols=3"
+    },
+    {
+      "severity": "WARNING",
+      "category": "table_col_mismatch",
+      "file": "copying/copying_options.dita",
+      "message": "table 1 row has 1 entries but cols=3"
+    },
+    {
+      "severity": "WARNING",
+      "category": "table_missing_title",
+      "file": "copying/copying_options.dita",
+      "message": "<table> #1 has no <title> element \u2014 required for accessibility and DITA compliance",
+      "line": 7
+    },
+    {
+      "severity": "WARNING",
+      "category": "missing_shortdesc",
+      "file": "copying/copying_options.dita",
+      "message": "<shortdesc> element is missing \u2014 required for search previews and navigation"
+    },
+    {
+      "severity": "WARNING",
+      "category": "missing_shortdesc",
+      "file": "copying/copying.dita",
+      "message": "<shortdesc> element is missing \u2014 required for search previews and navigation"
+    },
+    {
+      "severity": "WARNING",
+      "category": "missing_shortdesc",
+      "file": "copying/copying_documents_or_photos.dita",
+      "message": "<shortdesc> element is missing \u2014 required for search previews and navigation"
+    },
+    {
+      "severity": "WARNING",
+      "category": "missing_shortdesc",
+      "file": "adjusting_print_quality/print_head_maintenance.dita",
+      "message": "<shortdesc> element is missing \u2014 required for search previews and navigation"
+    },
+    {
+      "severity": "WARNING",
+      "category": "missing_shortdesc",
+      "file": "adjusting_print_quality/power_cleaning.dita",
+      "message": "<shortdesc> element is missing \u2014 required for search previews and navigation"
+    },
+    {
+      "severity": "WARNING",
+      "category": "missing_shortdesc",
+      "file": "adjusting_print_quality/aligning_the_print_head_using_the_product_control_panel.dita",
+      "message": "<shortdesc> element is missing \u2014 required for search previews and navigation"
+    },
+    {
+      "severity": "WARNING",
+      "category": "missing_shortdesc",
+      "file": "adjusting_print_quality/checking_the_sheet_counter_mac.dita",
+      "message": "<shortdesc> element is missing \u2014 required for search previews and navigation"
+    },
+    {
+      "severity": "WARNING",
+      "category": "missing_shortdesc",
+      "file": "adjusting_print_quality/power_cleaning_using_the_product_control_panel.dita",
+      "message": "<shortdesc> element is missing \u2014 required for search previews and navigation"
+    },
+    {
+      "severity": "WARNING",
+      "category": "missing_shortdesc",
+      "file": "adjusting_print_quality/print_head_cleaning.dita",
+      "message": "<shortdesc> element is missing \u2014 required for search previews and navigation"
+    },
+    {
+      "severity": "WARNING",
+      "category": "missing_shortdesc",
+      "file": "adjusting_print_quality/power_cleaning_using_a_computer_utility.dita",
+      "message": "<shortdesc> element is missing \u2014 required for search previews and navigation"
+    },
+    {
+      "severity": "WARNING",
+      "category": "missing_shortdesc",
+      "file": "adjusting_print_quality/checking_the_nozzles_using_the_product_control_panel.dita",
+      "message": "<shortdesc> element is missing \u2014 required for search previews and navigation"
+    },
+    {
+      "severity": "WARNING",
+      "category": "missing_shortdesc",
+      "file": "adjusting_print_quality/cleaning_the_print_head_using_a_computer_utility.dita",
+      "message": "<shortdesc> element is missing \u2014 required for search previews and navigation"
+    },
+    {
+      "severity": "WARNING",
+      "category": "missing_shortdesc",
+      "file": "adjusting_print_quality/checking_the_number_of_sheets_fed.dita",
+      "message": "<shortdesc> element is missing \u2014 required for search previews and navigation"
+    },
+    {
+      "severity": "WARNING",
+      "category": "step_empty_cmd",
+      "file": "adjusting_print_quality/checking_the_nozzles_using_a_computer_utility.dita",
+      "message": "step 7 has an empty <cmd> element",
+      "line": 114
+    },
+    {
+      "severity": "WARNING",
+      "category": "missing_shortdesc",
+      "file": "adjusting_print_quality/checking_the_nozzles_using_a_computer_utility.dita",
+      "message": "<shortdesc> element is missing \u2014 required for search previews and navigation"
+    },
+    {
+      "severity": "WARNING",
+      "category": "missing_shortdesc",
+      "file": "adjusting_print_quality/print_head_alignment.dita",
+      "message": "<shortdesc> element is missing \u2014 required for search previews and navigation"
+    },
+    {
+      "severity": "WARNING",
+      "category": "missing_shortdesc",
+      "file": "adjusting_print_quality/checking_the_number_of_sheets_on_the_lcd_screen.dita",
+      "message": "<shortdesc> element is missing \u2014 required for search previews and navigation"
+    },
+    {
+      "severity": "WARNING",
+      "category": "missing_shortdesc",
+      "file": "adjusting_print_quality/cleaning_the_print_head_path.dita",
+      "message": "<shortdesc> element is missing \u2014 required for search previews and navigation"
+    },
+    {
+      "severity": "WARNING",
+      "category": "missing_shortdesc",
+      "file": "adjusting_print_quality/adjusting_print_quality.dita",
+      "message": "<shortdesc> element is missing \u2014 required for search previews and navigation"
+    },
+    {
+      "severity": "WARNING",
+      "category": "missing_shortdesc",
+      "file": "adjusting_print_quality/checking_the_sheet_counter_windows.dita",
+      "message": "<shortdesc> element is missing \u2014 required for search previews and navigation"
+    },
+    {
+      "severity": "WARNING",
+      "category": "step_empty_cmd",
+      "file": "adjusting_print_quality/cleaning_the_print_head_using_the_product_control_panel.dita",
+      "message": "step 7 has an empty <cmd> element",
+      "line": 102
+    },
+    {
+      "severity": "WARNING",
+      "category": "missing_shortdesc",
+      "file": "adjusting_print_quality/cleaning_the_print_head_using_the_product_control_panel.dita",
+      "message": "<shortdesc> element is missing \u2014 required for search previews and navigation"
+    },
+    {
+      "severity": "WARNING",
+      "category": "missing_shortdesc",
+      "file": "adjusting_print_quality/print_head_nozzle_check.dita",
+      "message": "<shortdesc> element is missing \u2014 required for search previews and navigation"
+    },
+    {
+      "severity": "WARNING",
+      "category": "missing_shortdesc",
+      "file": "adjusting_print_quality/cleaning_the_paper_guide.dita",
+      "message": "<shortdesc> element is missing \u2014 required for search previews and navigation"
+    },
+    {
+      "severity": "WARNING",
+      "category": "missing_shortdesc",
+      "file": "refilling_ink/ink_safety_precautions.dita",
+      "message": "<shortdesc> element is missing \u2014 required for search previews and navigation"
+    },
+    {
+      "severity": "WARNING",
+      "category": "step_empty_cmd",
+      "file": "refilling_ink/checking_ink_levels_windows.dita",
+      "message": "step 1 has an empty <cmd> element",
+      "line": 11
+    },
+    {
+      "severity": "WARNING",
+      "category": "missing_shortdesc",
+      "file": "refilling_ink/checking_ink_levels_windows.dita",
+      "message": "<shortdesc> element is missing \u2014 required for search previews and navigation"
+    },
+    {
+      "severity": "WARNING",
+      "category": "missing_shortdesc",
+      "file": "refilling_ink/disabling_special_offers_with_windows.dita",
+      "message": "<shortdesc> element is missing \u2014 required for search previews and navigation"
+    },
+    {
+      "severity": "WARNING",
+      "category": "missing_shortdesc",
+      "file": "refilling_ink/checking_ink_levels_on_your_product.dita",
+      "message": "<shortdesc> element is missing \u2014 required for search previews and navigation"
+    },
+    {
+      "severity": "WARNING",
+      "category": "missing_shortdesc",
+      "file": "refilling_ink/refilling_the_ink_tanks.dita",
+      "message": "<shortdesc> element is missing \u2014 required for search previews and navigation"
+    },
+    {
+      "severity": "WARNING",
+      "category": "missing_shortdesc",
+      "file": "refilling_ink/checking_ink_levels_mac.dita",
+      "message": "<shortdesc> element is missing \u2014 required for search previews and navigation"
+    },
+    {
+      "severity": "WARNING",
+      "category": "missing_shortdesc",
+      "file": "refilling_ink/check_ink_levels.dita",
+      "message": "<shortdesc> element is missing \u2014 required for search previews and navigation"
+    },
+    {
+      "severity": "WARNING",
+      "category": "section_missing_title",
+      "file": "refilling_ink/ink_bottle_part_numbers.dita",
+      "message": "<section> #1 has no <title> \u2014 recommended for DITA compliance",
+      "line": 6
+    },
+    {
+      "severity": "WARNING",
+      "category": "table_missing_title",
+      "file": "refilling_ink/ink_bottle_part_numbers.dita",
+      "message": "<table> #1 has no <title> element \u2014 required for accessibility and DITA compliance",
+      "line": 8
+    },
+    {
+      "severity": "WARNING",
+      "category": "missing_shortdesc",
+      "file": "refilling_ink/ink_bottle_part_numbers.dita",
+      "message": "<shortdesc> element is missing \u2014 required for search previews and navigation"
+    },
+    {
+      "severity": "WARNING",
+      "category": "missing_shortdesc",
+      "file": "refilling_ink/purchase_metr_ink.dita",
+      "message": "<shortdesc> element is missing \u2014 required for search previews and navigation"
+    },
+    {
+      "severity": "WARNING",
+      "category": "missing_shortdesc",
+      "file": "refilling_ink/refilling_ink.dita",
+      "message": "<shortdesc> element is missing \u2014 required for search previews and navigation"
+    },
+    {
+      "severity": "WARNING",
+      "category": "missing_shortdesc",
+      "file": "placing_originals_on_the_product/placing_originals_on_the_scanner_glass.dita",
+      "message": "<shortdesc> element is missing \u2014 required for search previews and navigation"
+    },
+    {
+      "severity": "WARNING",
+      "category": "missing_shortdesc",
+      "file": "placing_originals_on_the_product/placing_originals_on_the_product.dita",
+      "message": "<shortdesc> element is missing \u2014 required for search previews and navigation"
+    }
+  ],
+  "summary": {
+    "dita_file_count": 63,
+    "missing_count": 0,
+    "broken_xml_count": 0,
+    "empty_count": 0,
+    "ditamap_broken_ref_count": 0,
+    "broken_mapref_count": 0,
+    "orphan_file_count": 0,
+    "duplicate_id_count": 0,
+    "broken_xref_count": 0,
+    "filename_space_count": 0,
+    "severity_counts": {
+      "CRITICAL": 0,
+      "WARNING": 119,
+      "INFO": 0
+    },
+    "category_counts": {
+      "step_empty_cmd": 11,
+      "missing_shortdesc": 63,
+      "section_missing_title": 8,
+      "table_missing_title": 12,
+      "table_col_mismatch": 25
+    }
+  },
+  "zone1_auto_fixes": {
+    "fixed": [],
+    "errors": [],
+    "summary": {
+      "fixed_count": 0,
+      "error_count": 0
+    }
+  },
+  "backend_dtd_errors": {
+    "source": "backend core _report.txt",
+    "errors_by_file": {},
+    "file_count_with_errors": 0
+  },
+  "validation": {
+    "status": "completed",
+    "total_violations": 3,
+    "files_with_violations": 3,
+    "violations_by_severity": {
+      "error": 0,
+      "warning": 3
+    },
+    "violations_by_gate": {
+      "gate1": 0,
+      "gate2": 3,
+      "gate3": 0,
+      "gate4": 0
+    },
+    "details": [
+      {
+        "file": "adjusting_print_quality/checking_the_nozzles_using_the_product_control_panel.dita",
+        "doc_type": "concept",
+        "gate": 2,
+        "rule_code": "QUALITY-007",
+        "severity": "WARNING",
+        "message": "[QUALITY-007] <section> has no @id and cannot be the target of a cross-reference. Add @id if this section needs to be linked to.",
+        "category": "dtd_violation",
+        "source": "dita_validation_gate2"
+      },
+      {
+        "file": "loading_paper/loading_paper_in_the_rear_paper_feeder.dita",
+        "doc_type": "concept",
+        "gate": 2,
+        "rule_code": "QUALITY-007",
+        "severity": "WARNING",
+        "message": "[QUALITY-007] <section> has no @id and cannot be the target of a cross-reference. Add @id if this section needs to be linked to.",
+        "category": "dtd_violation",
+        "source": "dita_validation_gate2"
+      },
+      {
+        "file": "refilling_ink/checking_ink_levels_windows.dita",
+        "doc_type": "concept",
+        "gate": 2,
+        "rule_code": "QUALITY-007",
+        "severity": "WARNING",
+        "message": "[QUALITY-007] <section> has no @id and cannot be the target of a cross-reference. Add @id if this section needs to be linked to.",
+        "category": "dtd_violation",
+        "source": "dita_validation_gate2"
+      }
+    ]
+  }
+}
