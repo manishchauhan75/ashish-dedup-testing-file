@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE bookmap PUBLIC "-//OASIS//DTD DITA 2.x BookMap//EN" "bookmap.dtd">
+<bookmap id="printer_user_s_guide" xml:lang="en-us"><booktitle>
+      <mainbooktitle>Printer User's Guide</mainbooktitle>
+   </booktitle><bookmeta>
+      <critdates>
+         <created date="2025-01-15"/>
+         <revised modified="2025-01-15"/>
+      </critdates>
+   </bookmeta>
+   
+   
+   <chapter href="product_basics_map.ditamap"><topicmeta><navtitle>Product Basics</navtitle></topicmeta></chapter>
+   <chapter href="loading_paper_map.ditamap"><topicmeta><navtitle>Loading Paper</navtitle></topicmeta></chapter>
+   <chapter href="placing_originals_on_the_product_map.ditamap"><topicmeta><navtitle>Placing Originals on the Product</navtitle></topicmeta></chapter>
+   <chapter href="copying_map.ditamap"><topicmeta><navtitle>Copying</navtitle></topicmeta></chapter>
+   <chapter href="refilling_ink_map.ditamap"><topicmeta><navtitle>Refilling Ink</navtitle></topicmeta></chapter>
+   <chapter href="adjusting_print_quality_map.ditamap"><topicmeta><navtitle>Adjusting Print Quality</navtitle></topicmeta></chapter>
+   <chapter href="cleaning_and_transporting_your_product_map.ditamap"><topicmeta><navtitle>Cleaning and Transporting Your Product</navtitle></topicmeta></chapter>
+</bookmap>

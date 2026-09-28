@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA 2.x Task//EN" "task.dtd">
+<task id="Entering_Characters_on_the_LCD_Screen" xml:lang="en-us">
+   <title>Entering Characters on the LCD Screen</title>
+   <shortdesc>Follow these guidelines to enter characters for passwords and other settings.</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>placeholder</keyword>
+        <keyword>select</keyword>
+        <keyword>press</keyword>
+        <keyword>Entering</keyword>
+        <keyword>Characters</keyword>
+        <keyword>Screen</keyword>
+        <indexterm>placeholder</indexterm>
+        <indexterm>select</indexterm>
+        <indexterm>press</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+   <taskbody>  <context>
+    <p>Follow these guidelines to enter characters for passwords and other settings.</p><p>
+         <fig>
+            <title>placeholder</title>
+            <image href="../media/image59.jpeg" placement="break" height="199" width="199">
+               <alt>placeholder</alt>
+            </image>
+         </fig>
+      </p><ul id="ul_05013206">
+         <li>To scroll through the characters, press the arrow buttons.</li>
+         <li>To make a selection, press the <b>OK</b>button.</li>
+         <li>To change the character case or type, select <b>A1#</b>or press the <image href="../media/image60.png" placement="break" height="13" width="13">
+               <alt>placeholder</alt>
+            </image> reset button.</li>
+         <li>To move the cursor to the left or right, select <image href="../media/image61.png" placement="break" height="17" width="16">
+               <alt>placeholder</alt>
+            </image> or <image href="../media/image62.png" placement="break" height="17" width="16">
+               <alt>placeholder</alt>
+            </image> .</li>
+         <li>To add a space, select <image href="../media/image63.png" placement="break" height="19" width="31">
+               <alt>placeholder</alt>
+            </image>.</li>
+         <li>To delete the previous character, select <image href="../media/image64.png" placement="break" height="17" width="21">
+               <alt>placeholder</alt>
+            </image>.</li>
+      </ul>
+  </context></taskbody>
+</task>

@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE task
+  PUBLIC "-//OASIS//DTD DITA 2.x Task//EN" "task.dtd">
+<task id="Viewing_Animations" xml:lang="en-us">
+   <title>Viewing Animations</title>
+   <shortdesc>You can view animations on the LCD screen to help guide you with a procedure</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>Viewing</keyword>
+        <keyword>Animations</keyword>
+        <keyword>screen</keyword>
+        <keyword>problem</keyword>
+        <keyword>Select</keyword>
+        <keyword>instructions</keyword>
+        <indexterm>Viewing</indexterm>
+        <indexterm>Animations</indexterm>
+        <indexterm>screen</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+   <taskbody>
+      <context>
+         <p>You can view animations on the LCD screen to help guide you with a procedure or to troubleshoot a problem.</p>
+      </context>
+      <steps id="steps_05013208">
+         <step>
+            <cmd>Press the <image height="14" href="../media/image67.png" placement="break" width="14">
+                  <alt>placeholder</alt>
+               </image> help button.</cmd>
+         </step>
+         <step>
+            <cmd>Select <b>Troubleshooting</b>if you are experiencing a problem or <b>How</b>
+               <b>To</b>to view instructions on common procedures.</cmd>
+         </step>
+         <step>
+            <cmd>Select a topic from the list of available topics and follow the on-screen instructions.</cmd>
+         </step>
+      </steps>
+   </taskbody>
+</task>

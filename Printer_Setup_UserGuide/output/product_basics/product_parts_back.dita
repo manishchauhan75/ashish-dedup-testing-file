@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA 2.x Topic//EN" "topic.dtd">
+<topic id="Product_Parts_-_Back" xml:lang="en-us">
+   <title>Product Parts - Back</title>
+   <shortdesc>placeholder placeholder placeholder placeholder placeholder placeholder placeholder placeholder placeholder placeholder</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>placeholder</keyword>
+        <keyword>Product</keyword>
+        <keyword>Parts</keyword>
+        <keyword>Back</keyword>
+        <keyword>Rear</keyword>
+        <keyword>cover</keyword>
+        <indexterm>placeholder</indexterm>
+        <indexterm>Product</indexterm>
+        <indexterm>Parts</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+   <body><p>
+            <image height="117" href="../media/image17.png" placement="break" width="302">
+               <alt>placeholder</alt>
+            </image>
+            <image height="117" href="../media/image18.png" placement="break" width="302">
+               <alt>placeholder</alt>
+            </image>
+            <image height="117" href="../media/image19.png" placement="break" width="302">
+               <alt>placeholder</alt>
+            </image>
+            <image height="117" href="../media/image20.png" placement="break" width="302">
+               <alt>placeholder</alt>
+            </image>
+            <image height="117" href="../media/image21.png" placement="break" width="302">
+               <alt>placeholder</alt>
+            </image>
+            <image height="117" href="../media/image22.png" placement="break" width="302">
+               <alt>placeholder</alt>
+            </image>
+            <image height="117" href="../media/image23.png" placement="break" width="302">
+               <alt>placeholder</alt>
+            </image>
+            <image height="117" href="../media/image22.png" placement="break" width="302">
+               <alt>placeholder</alt>
+            </image>
+            <image height="117" href="../media/image24.png" placement="break" width="302">
+               <alt>placeholder</alt>
+            </image>
+            <image height="117" href="../media/image25.png" placement="break" width="302">
+               <alt>placeholder</alt>
+            </image>
+         </p>
+    <ol>
+    <li>Rear cover (duplexer)</li>
+    <li>AC inlet</li>
+    <li><b>USB</b>port</li>
+    </ol></body>
+</topic>

@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE task
+  PUBLIC "-//OASIS//DTD DITA 2.x Task//EN" "task.dtd">
+<task id="Changing_the_Power_Off_Timer_Setting_fro" xml:lang="en-us">
+   <title>Changing the Power Off Timer Setting from the Control Panel</title>
+   <shortdesc>You can use the product's control panel to change the time period before the printer</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>Power</keyword>
+        <keyword>Timer</keyword>
+        <keyword>button</keyword>
+        <keyword>Changing</keyword>
+        <keyword>Setting</keyword>
+        <keyword>Control</keyword>
+        <indexterm>Power</indexterm>
+        <indexterm>Timer</indexterm>
+        <indexterm>button</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+   <taskbody>
+      <context>
+         <p>You can use the product's control panel to change the time period before the printer turns off automatically.</p>
+      </context>
+      <steps id="steps_05013212">
+         <step>
+            <cmd>Press the <image height="13" href="../media/image65.png" placement="break" width="17">
+                  <alt>placeholder</alt>
+               </image> home button, if necessary.</cmd>
+         </step>
+         <step>
+            <cmd>Select <b>Settings</b>&gt; <b>Printer</b>
+               <b>Setup</b>&gt; <b>Power</b>
+               <b>Off</b>
+               <b>Timer</b>.</cmd>
+         </step>
+         <step>
+            <cmd>Select the length of time after which you want the product to automatically turn off when it is not in use. Then press the <b>OK</b>button.</cmd>
+         </step>
+         <step>
+            <cmd>Press the <image height="13" href="../media/image65.png" placement="break" width="17">
+                  <alt>placeholder</alt>
+               </image> home button to exit.</cmd>
+         </step>
+      </steps>
+   </taskbody>
+</task>

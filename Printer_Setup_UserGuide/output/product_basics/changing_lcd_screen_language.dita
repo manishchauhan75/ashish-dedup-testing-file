@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE task
+  PUBLIC "-//OASIS//DTD DITA 2.x Task//EN" "task.dtd">
+<task id="Changing_LCD_Screen_Language" xml:lang="en-us">
+   <title>Changing LCD Screen Language</title>
+   <shortdesc>You can change the language used on the LCD screen.</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>Language</keyword>
+        <keyword>button</keyword>
+        <keyword>Changing</keyword>
+        <keyword>Screen</keyword>
+        <keyword>language</keyword>
+        <keyword>Press</keyword>
+        <indexterm>Language</indexterm>
+        <indexterm>button</indexterm>
+        <indexterm>Changing</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+   <taskbody>
+      <context>
+         <p>You can change the language used on the LCD screen.</p>
+      </context>
+      <steps id="steps_05013207">
+         <step>
+            <cmd>Press the <image height="13" href="../media/image65.png" placement="break" width="17">
+                  <alt>placeholder</alt>
+               </image> home button, if necessary.</cmd>
+         </step>
+         <step>
+            <cmd>Select <b>Settings</b>&gt; <b>Printer</b>
+               <b>Setup</b>&gt; <b>Language</b>.</cmd>
+         </step>
+         <step>
+            <cmd>Select a language and press the <b>OK</b>button.</cmd>
+         </step>
+         <step>
+            <cmd>Press the <image height="13" href="../media/image66.png" placement="break" width="17">
+                  <alt>placeholder</alt>
+               </image> home button to exit.</cmd>
+         </step>
+      </steps>
+   </taskbody>
+</task>

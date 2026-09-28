@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA 2.x Topic//EN" "topic.dtd">
+<topic id="Product_Parts_Locations" xml:lang="en-us">
+   <title>Product Parts Locations</title>
+   <shortdesc>See these sections to identify the parts on your product.</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>Product</keyword>
+        <keyword>Parts</keyword>
+        <keyword>Locations</keyword>
+        <keyword>these</keyword>
+        <keyword>sections</keyword>
+        <keyword>identify</keyword>
+        <indexterm>Product</indexterm>
+        <indexterm>Parts</indexterm>
+        <indexterm>Locations</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+   <body>
+      <p>See these sections to identify the parts on your product.</p>
+   </body>
+</topic>

@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE task
+  PUBLIC "-//OASIS//DTD DITA 2.x Task//EN" "task.dtd">
+<task id="Changing_the_Sleep_Timer_Setting_from_th" xml:lang="en-us">
+   <title>Changing the Sleep Timer Setting from the Control Panel</title>
+   <shortdesc>You can use the product's control panel to change the time period before the product</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>button</keyword>
+        <keyword>product</keyword>
+        <keyword>Sleep</keyword>
+        <keyword>Timer</keyword>
+        <keyword>before</keyword>
+        <keyword>Press</keyword>
+        <indexterm>button</indexterm>
+        <indexterm>product</indexterm>
+        <indexterm>Sleep</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+   <taskbody>
+      <context>
+         <p>You can use the product's control panel to change the time period before the product enters sleep mode.</p>
+      </context>
+      <steps id="steps_05013209">
+         <step>
+            <cmd>Press the <image height="13" href="../media/image66.png" placement="break" width="17">
+                  <alt>placeholder</alt>
+               </image> home button, if necessary.</cmd>
+         </step>
+         <step>
+            <cmd>Select <b>Settings</b>&gt; <b>Printer</b>
+               <b>Setup</b>&gt; <b>Sleep</b>
+               <b>Timer</b>.</cmd>
+         </step>
+         <step>
+            <cmd>Press the left or right arrow button to move the cursor and press the up or down arrow button to adjust the number of minutes of inactivity before the product enters sleep mode. Then press the <b>OK</b>button.</cmd>
+         </step>
+         <step>
+            <cmd>Press the <image height="13" href="../media/image66.png" placement="break" width="17">
+                  <alt>placeholder</alt>
+               </image> home button to exit.</cmd>
+            <substeps id="substeps_05013210">
+               <substep>
+                  <cmd>You can use the product's control panel to change the time period before the printer turns off automatically.</cmd>
+               </substep>
+               <substep>
+                  <cmd>hSDAUHDUHUHau</cmd>
+               </substep>
+               <substep>
+                  <cmd>dsguadfgsa</cmd>
+               </substep>
+               <substep>
+                  <cmd>bdgsfsa</cmd>
+                  <info>
+                     <ol id="ol_05013211" outputclass="lowerroman">
+                        <li>dsfsadgfysdygyg</li>
+                        <li>dshgfusagg</li>
+                     </ol>
+                  </info>
+               </substep>
+            </substeps>
+         </step>
+      </steps>
+   </taskbody>
+</task>

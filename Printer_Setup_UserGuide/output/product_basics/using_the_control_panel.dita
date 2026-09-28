@@ -1,0 +1,91 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE task
+  PUBLIC "-//OASIS//DTD DITA 2.x Task//EN" "task.dtd">
+<task id="Using_the_Control_Panel" xml:lang="en-us">
+   <title>Using the Control Panel</title>
+   <shortdesc>See these sections to learn about the control panel and select control panel settings. Control</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>placeholder</keyword>
+        <keyword>button</keyword>
+        <keyword>Control</keyword>
+        <keyword>Panel</keyword>
+        <keyword>Using</keyword>
+        <keyword>control</keyword>
+        <indexterm>placeholder</indexterm>
+        <indexterm>button</indexterm>
+        <indexterm>Control</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+   <taskbody>
+      <context>
+         <p>See these sections to learn about the control panel and select control panel settings. Control Panel Buttons and Lights</p>
+         <p>
+            <image height="190" href="../media/image35.png" placement="break" width="379">
+               <alt>placeholder</alt>
+            </image>
+            <image height="190" href="../media/image36.png" placement="break" width="379">
+               <alt>placeholder</alt>
+            </image>
+            <image height="190" href="../media/image37.png" placement="break" width="379">
+               <alt>placeholder</alt>
+            </image>
+         </p>
+      </context>
+      <steps id="steps_05013204">
+         <step>
+            <cmd>
+               <image height="12" href="../media/image41.png" placement="break" width="12">
+                  <alt>placeholder</alt>
+               </image> power button and light</cmd>
+         </step>
+         <step>
+            <cmd>
+               <image height="13" href="../media/image42.png" placement="break" width="17">
+                  <alt>placeholder</alt>
+               </image> home button</cmd>
+         </step>
+         <step>
+            <cmd>LCD screen</cmd>
+         </step>
+         <step>
+            <cmd>
+               <image height="14" href="../media/image43.png" placement="break" width="14">
+                  <alt>placeholder</alt>
+               </image> help button</cmd>
+         </step>
+         <step>
+            <cmd>
+               <image height="13" href="../media/image44.png" placement="break" width="13">
+                  <alt>placeholder</alt>
+               </image> stop button</cmd>
+         </step>
+         <step>
+            <cmd>
+               <image height="12" href="../media/image45.png" placement="break" width="15">
+                  <alt>placeholder</alt>
+               </image> back button</cmd>
+         </step>
+         <step>
+            <cmd>Arrow buttons and <b>OK</b>button</cmd>
+         </step>
+         <step>
+            <cmd>
+               <image height="13" href="../media/image46.png" placement="break" width="13">
+                  <alt>placeholder</alt>
+               </image> reset button</cmd>
+         </step>
+         <step>
+            <cmd>
+               <image height="11" href="../media/image47.png" placement="break" width="11">
+                  <alt>placeholder</alt>
+               </image> start button</cmd>
+         </step>
+      </steps>
+   </taskbody>
+</task>

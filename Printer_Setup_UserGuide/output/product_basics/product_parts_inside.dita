@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA 2.x Topic//EN" "topic.dtd">
+<topic id="Product_Parts_-_Inside" xml:lang="en-us">
+   <title>Product Parts - Inside</title>
+   <shortdesc>placeholder placeholder placeholder placeholder placeholder placeholder placeholder placeholder placeholder</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>placeholder</keyword>
+        <keyword>Product</keyword>
+        <keyword>Parts</keyword>
+        <keyword>Inside</keyword>
+        <keyword>cover</keyword>
+        <keyword>Scanner</keyword>
+        <indexterm>placeholder</indexterm>
+        <indexterm>Product</indexterm>
+        <indexterm>Parts</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+   <body><p>
+            <image height="209" href="../media/image2.png" placement="break" width="309">
+               <alt>placeholder</alt>
+            </image>
+            <image height="209" href="../media/image3.png" placement="break" width="309">
+               <alt>placeholder</alt>
+            </image>
+            <image height="209" href="../media/image4.png" placement="break" width="309">
+               <alt>placeholder</alt>
+            </image>
+            <image height="209" href="../media/image5.png" placement="break" width="309">
+               <alt>placeholder</alt>
+            </image>
+            <image height="209" href="../media/image5.png" placement="break" width="309">
+               <alt>placeholder</alt>
+            </image>
+            <image height="209" href="../media/image6.png" placement="break" width="309">
+               <alt>placeholder</alt>
+            </image>
+            <image height="209" href="../media/image7.png" placement="break" width="309">
+               <alt>placeholder</alt>
+            </image>
+            <image height="209" href="../media/image8.png" placement="break" width="309">
+               <alt>placeholder</alt>
+            </image>
+            <image height="209" href="../media/image5.png" placement="break" width="309">
+               <alt>placeholder</alt>
+            </image>
+         </p>
+    <ol>
+    <li>Document cover</li>
+    <li>Scanner glass</li>
+    <li>Scanner unit</li>
+    <li><p>Control panel</p>
+      <fig>
+                  <title>placeholder</title>
+                  <image height="262" href="../media/image16.png" placement="break" width="343">
+                     <alt>placeholder</alt>
+                  </image>
+               </fig></li>
+    <li>Ink tank cover</li>
+    <li>Ink tanks</li>
+    <li>Ink tank unit</li>
+    <li>Print head</li>
+    </ol></body>
+</topic>

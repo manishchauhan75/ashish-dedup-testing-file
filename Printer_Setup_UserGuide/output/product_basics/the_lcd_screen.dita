@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA 2.x Topic//EN" "topic.dtd">
+<topic id="The_LCD_Screen" xml:lang="en-us">
+   <title>The LCD Screen</title>
+   <shortdesc>placeholder placeholder placeholder</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>placeholder</keyword>
+        <keyword>Screen</keyword>
+        <keyword>Displays</keyword>
+        <keyword>button</keyword>
+        <keyword>network</keyword>
+        <keyword>connection</keyword>
+        <indexterm>placeholder</indexterm>
+        <indexterm>Screen</indexterm>
+        <indexterm>Displays</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+   <body><p>
+            <image height="147" href="../media/image48.jpeg" placement="break" width="225">
+               <alt>placeholder</alt>
+            </image>
+            <image height="147" href="../media/image49.png" placement="break" width="225">
+               <alt>placeholder</alt>
+            </image>
+            <image height="147" href="../media/image50.png" placement="break" width="225">
+               <alt>placeholder</alt>
+            </image>
+         </p>
+    <ol>
+    <li>Displays the network connection status</li>
+    <li>Press an arrow button to scroll left or right</li>
+    <li>Menu options</li>
+    <li>Displays available button actions</li>
+    </ol></body>
+</topic>

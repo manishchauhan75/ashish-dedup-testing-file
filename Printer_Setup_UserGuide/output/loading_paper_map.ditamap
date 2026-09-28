@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA 2.x Map//EN" "map.dtd">
+<map id="loading_paper_map" xml:lang="en-us">
+   <title>Loading Paper</title>
+   <topicref href="loading_paper/loading_paper.dita"><topicmeta><navtitle>Loading Paper</navtitle></topicmeta>
+      <topicref href="loading_paper/loading_paper_in_the_rear_paper_feeder.dita"><topicmeta><navtitle>Loading Paper in the Rear Paper Feeder</navtitle></topicmeta></topicref>
+      <topicref href="loading_paper/paper_loading_capacity.dita"><topicmeta><navtitle>Paper Loading Capacity</navtitle></topicmeta></topicref>
+      <topicref href="loading_paper/double_sided_printing_capacity.dita"><topicmeta><navtitle>Double-sided Printing Capacity</navtitle></topicmeta></topicref>
+      <topicref href="loading_paper/borderless_paper_type_compatibility.dita"><topicmeta><navtitle>Borderless Paper Type Compatibility</navtitle></topicmeta></topicref>
+      <topicref href="loading_paper/compatible_metr_papers.dita"><topicmeta><navtitle>Compatible MetR Papers</navtitle></topicmeta></topicref>
+      <topicref href="loading_paper/selecting_the_paper_settings_control_panel.dita" chunk="to-content"><topicmeta><navtitle>Selecting the Paper Settings - Control Panel</navtitle></topicmeta>
+         <topicref href="loading_paper/paper_or_media_type_settings_control_panel.dita"><topicmeta><navtitle>Paper or Media Type Settings - Control Panel</navtitle></topicmeta></topicref>
+      </topicref>
+      <topicref href="loading_paper/paper_or_media_type_settings_printing_software.dita"><topicmeta><navtitle>Paper or Media Type Settings - Printing Software</navtitle></topicmeta></topicref>
+      <topicref href="loading_paper/selecting_the_default_paper_source_settings.dita" chunk="to-content"><topicmeta><navtitle>Selecting the Default Paper Source Settings</navtitle></topicmeta>
+         <topicref href="loading_paper/paper_source_settings_options.dita"><topicmeta><navtitle>Paper Source Settings Options</navtitle></topicmeta></topicref>
+      </topicref>
+   </topicref>
+</map>

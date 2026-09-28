@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA 2.x Map//EN" "map.dtd">
+<map id="copying_map" xml:lang="en-us">
+   <title>Copying</title>
+   <topicref href="copying/copying.dita"><topicmeta><navtitle>Copying</navtitle></topicmeta>
+      <topicref href="copying/copying_documents_or_photos.dita"><topicmeta><navtitle>Copying Documents or Photos</navtitle></topicmeta></topicref>
+      <topicref href="copying/copying_options.dita"><topicmeta><navtitle>Copying Options</navtitle></topicmeta></topicref>
+   </topicref>
+</map>

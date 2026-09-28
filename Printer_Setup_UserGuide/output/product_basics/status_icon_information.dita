@@ -1,0 +1,96 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA 2.x Concept//EN" "concept.dtd">
+<concept id="Status_Icon_Information" xml:lang="en-us">
+   <title>Status Icon Information</title>
+   <shortdesc>Your product displays status icons on the LCD screen for certain product status conditions.</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>placeholder</keyword>
+        <keyword>product</keyword>
+        <keyword>wireless</keyword>
+        <keyword>network</keyword>
+        <keyword>Status</keyword>
+        <keyword>Icon</keyword>
+        <indexterm>placeholder</indexterm>
+        <indexterm>product</indexterm>
+        <indexterm>wireless</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+   <conbody><p>Your product displays status icons on the LCD screen for certain product status conditions.</p>
+<table frame="all" colsep="1" rowsep="1">
+            <tgroup cols="2">
+               <colspec colname="c1"/>
+               <colspec colname="c2"/>
+               <tbody>
+                  <row>
+                     <entry>
+                        <b>Icons</b>
+                     </entry>
+                     <entry>
+                        <b>Description</b>
+                     </entry>
+                  </row>
+                  <row>
+                     <entry>
+                        <fig>
+                           <title>placeholder</title>
+                           <image href="../media/image54.png" placement="break" height="16" width="19">
+                              <alt>placeholder</alt>
+                           </image>
+                        </fig>
+                     </entry>
+                     <entry>The product is not connected to a wireless network.</entry>
+                  </row>
+                  <row>
+                     <entry>
+                        <fig>
+                           <title>placeholder</title>
+                           <image href="../media/image55.png" placement="break" height="16" width="19">
+                              <alt>placeholder</alt>
+                           </image>
+                        </fig>
+                     </entry>
+                     <entry>The product is searching for an SSID or experiencing a wireless network connection issue.</entry>
+                  </row>
+                  <row>
+                     <entry>
+                        <fig>
+                           <title>placeholder</title>
+                           <image href="../media/image56.png" placement="break" height="16" width="19">
+                              <alt>placeholder</alt>
+                           </image>
+                        </fig>
+                     </entry>
+                     <entry>The product is connected to a wireless network. The number of bars indicates the connection's signal strength.</entry>
+                  </row>
+                  <row>
+                     <entry>
+                        <fig>
+                           <title>placeholder</title>
+                           <image href="../media/image57.png" placement="break" height="16" width="32">
+                              <alt>placeholder</alt>
+                           </image>
+                        </fig>
+                     </entry>
+                     <entry>Wi-Fi Direct is not enabled.</entry>
+                  </row>
+                  <row>
+                     <entry>
+                        <fig>
+                           <title>placeholder</title>
+                           <image href="../media/image58.png" placement="break" height="16" width="32">
+                              <alt>placeholder</alt>
+                           </image>
+                        </fig>
+                     </entry>
+                     <entry>Wi-Fi Direct is enabled.</entry>
+                  </row>
+               </tbody>
+            </tgroup>
+         </table></conbody>
+</concept>

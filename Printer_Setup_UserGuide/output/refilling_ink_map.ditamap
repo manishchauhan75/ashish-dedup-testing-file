@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA 2.x Map//EN" "map.dtd">
+<map id="refilling_ink_map" xml:lang="en-us">
+   <title>Refilling Ink</title>
+   <topicref href="refilling_ink/refilling_ink.dita"><topicmeta><navtitle>Refilling Ink</navtitle></topicmeta>
+      <topicref href="refilling_ink/ink_safety_precautions.dita"><topicmeta><navtitle>Ink Safety Precautions</navtitle></topicmeta></topicref>
+      <topicref href="refilling_ink/check_ink_levels.dita" chunk="to-content"><topicmeta><navtitle>Check Ink Levels</navtitle></topicmeta>
+         <topicref href="refilling_ink/checking_ink_levels_on_your_product.dita"><topicmeta><navtitle>Checking Ink Levels on Your Product</navtitle></topicmeta></topicref>
+         <topicref href="refilling_ink/checking_ink_levels_windows.dita"><topicmeta><navtitle>Checking Ink Levels - Windows</navtitle></topicmeta></topicref>
+         <topicref href="refilling_ink/checking_ink_levels_mac.dita"><topicmeta><navtitle>Checking Ink Levels - Mac</navtitle></topicmeta></topicref>
+         <topicref href="refilling_ink/disabling_special_offers_with_windows.dita"><topicmeta><navtitle>Disabling Special Offers with Windows</navtitle></topicmeta></topicref>
+      </topicref>
+      <topicref href="refilling_ink/purchase_metr_ink.dita" chunk="to-content"><topicmeta><navtitle>Purchase MetR Ink</navtitle></topicmeta>
+         <topicref href="refilling_ink/ink_bottle_part_numbers.dita"><topicmeta><navtitle>Ink Bottle Part Numbers</navtitle></topicmeta></topicref>
+      </topicref>
+      <topicref href="refilling_ink/refilling_the_ink_tanks.dita"><topicmeta><navtitle>Refilling the Ink Tanks</navtitle></topicmeta></topicref>
+   </topicref>
+</map>

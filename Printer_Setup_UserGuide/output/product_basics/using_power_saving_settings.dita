@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA 2.x Task//EN" "task.dtd">
+<task id="Using_Power_Saving_Settings" xml:lang="en-us">
+   <title>Using Power Saving Settings</title>
+   <shortdesc>Your product enters sleep mode automatically and turns off the LCD screen if it is</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>Using</keyword>
+        <keyword>Power</keyword>
+        <keyword>Saving</keyword>
+        <keyword>Settings</keyword>
+        <keyword>period</keyword>
+        <keyword>Your</keyword>
+        <indexterm>Using</indexterm>
+        <indexterm>Power</indexterm>
+        <indexterm>Saving</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+   <taskbody>  <context>
+    <p>Your product enters sleep mode automatically and turns off the LCD screen if it is not used for a period of time. You can make the time period shorter and select other options to save energy and resources.</p>
+  </context></taskbody>
+</task>
